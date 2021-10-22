@@ -1,0 +1,139 @@
+
+/*clear default wiki settings */
+#home_logo, #sideMenu, #sideMenu, #top_title, .patrollink {display:none;}
+#content {margin-left:0px; margin-top:-7px; padding:0px; width:100%;}
+body {background-color:white;}
+#bodyContent h1, #bodyContent h2, #bodyContent h3, #bodyContent h4, #bodyContent h5 {margin-bottom: 0px;}
+#bodyContent a[href ^="https://"], .link-https {padding-right:0px;}
+
+
+/*general page wrapper */
+.page_wrapper {
+	background-color: white;
+	display: block;
+	width: 100%;
+}
+
+/*center general content of the page */
+.page_center {
+	margin: auto;
+	max-width: 1400px;
+	width: 95%;x
+}
+
+
+/*general poster wrapper */
+.poster_w{
+	float:left;
+	margin: 1% 2%;
+	padding: 0px;
+	width: 46%;
+}
+
+/*rows*/
+.poster_w.content .row { clear: both; float:left; width:100%; cursor: pointer;}
+
+/*sections */
+.poster_w.content .row .section,
+.poster_w.display #section_text .subsection{ float:left; }
+
+
+/*different section sizes*/
+.poster_w.content .row .section.full,
+.poster_w.display #section_text .subsection.full{ width: 99%; }
+
+.poster_w.content .row .section.three_quarters,
+.poster_w.display #section_text .subsection.three_quarters { width:74.25%;}
+
+.poster_w.content .row .section.two_thirds,
+.poster_w.display #section_text .subsection.two_thirds{ width:66%;}
+
+.poster_w.content .row .section.half,
+.poster_w.display #section_text .subsection.half{ width:49.5%;}
+
+.poster_w.content .row .section.third,
+.poster_w.display #section_text .subsection.third{ width:33%;}
+
+.poster_w.content .row .section.quarter,
+.poster_w.display #section_text .subsection.quarter{ width:24.75%;}
+
+
+/*hide title, text and highlight images  by default*/
+.poster_w.content .row .section .info{ display: none;}
+
+
+/*font family freeroad*/
+@font-face {
+	font-family: Freeroad_Regular;
+		src: url(https://2020.igem.org/wiki/images/9/9d/Freeroad_Regular.ttf);
+}
+
+
+/*font family freeroad bold */
+@font-face {
+	font-family: Freeroad_Bold;
+	src: url(https://2020.igem.org/wiki/images/9/94/Freeroad_Bold.ttf);
+}
+
+
+/* styling titles h1, h2, h3, h4, h5, h6 */
+.poster_w  h1 {  font-size: 32px;}
+.poster_w  h2 {  font-size: 28px;}
+.poster_w  h3 {  font-size: 22px;}
+.poster_w  h4 {  font-size: 18px;}
+.poster_w  h5 {  font-size: 14px;}
+.poster_w  h6 {  font-size: 16px;}
+
+
+/* styling for the titles h1, h2*/
+.poster_w h1,
+.poster_w h2 {
+	border-bottom:0px;
+	color: #131C4E;
+	font-family: Freeroad_Bold, Arial;
+	line-height: initial;
+}
+
+/* styling for the titles h3, h4, h5, h6 */
+.poster_w h3,
+.poster_w h4,
+.poster_w h5,
+.poster_w h6 {
+	border-bottom:0px;
+	color: #0069A6;
+	font-family: Freeroad_Regular, Arial;
+	line-height: initial;
+}
+
+/*font size for text and lists*/
+.poster_w p,
+.poster_w ol,
+.poster_w ul  {
+	font-size: 16px;
+}
+
+/*styling for lists */
+.poster_w ul {
+	font-family:Arial;
+	list-style: disc;
+	padding:0px;
+}
+
+/*styling for all images */
+.poster_w img{ margin-bottom: 0px;width: 100%;}
+
+/*styling for when the user hovers on the image on the content side*/
+.poster_w.content img:hover{opacity: 25%;}
+.poster_w.display img:hover{opacity: 100%;}
+
+/*class for clearing between sections */
+.poster_w .clear{
+	clear:both;
+}
+
+
+/*mobile*/
+
+@media only screen and (max-width: 850px){
+	.poster_w {width:100%;}
+}
