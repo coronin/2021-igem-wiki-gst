@@ -116,7 +116,7 @@ table.pgrouptable td {
 
 	.igem_column_wrapper{
 		margin: auto;
-		width: 100%;  // 90%
+		width: 90%;
 		max-width: 1200px;
 	}
 
@@ -789,7 +789,7 @@ width: 90%;
 	/*main layout class */
 	.igem_content_wrapper .igem_column_wrapper .column  {
 		float:left;
-		margin: 0px;  // 1% 2%
+		margin: 1% 2%;
 		padding: 0px;
 	}
 
