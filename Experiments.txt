@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/jquery-1.11.1.min.js"></script>
+  <link rel="stylesheet" href="/0igem.css">
+  <title>Experiments</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Experiments skin-igem action-view">
+<div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制20行之后的内容，并注意去掉22行末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html lang="en">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json">
+    <!-- <link rel="stylesheet" href="app.css"> -->
+    <!-- <link rel="stylesheet" href="./icon/icon2/iconfont.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- <link rel="stylesheet" href="./icon.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/bootstrap_css?action=raw&ctype=text/css"> -->
+    <!-- <link rel="canonical" href="http://yoursite.com/Help/grammar"> -->
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Experiments</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope itemtype="" class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+                                <h1 id="2021-fudan-protocols"><a class="anchor" href="#2021-fudan-protocols">#</a> 2021 Fudan Protocols</h1>
+                                <p>Click to download the protocols used by the 2020 Fudan team, as a single PDF file.</p>
+                                <h2 id="cell-cryopreservation"><a class="anchor" href="#cell-cryopreservation">#</a> Cell Cryopreservation</h2>
+                                <p>Cryopreservation is a technique that stores cells at a very low temperature (-80℃) to reduce cell metabolic damage and enable long-term storage.</p>
+                                <ol>
+                                    <li>Add cryoprotectant: Add 80% glycerin 500 μL and bacterial fluid 1 000 μL into Cryopreservation vials. Mix upside down gently.</li>
+                                    <li>Seal the vials: Stick sellotape around the label.</li>
+                                    <li>Store the vials: Store prepared vials in the refrigerator at -80℃.</li>
+                                </ol>
+                                <h2 id="cell-recovery"><a class="anchor" href="#cell-recovery">#</a> Cell Recovery</h2>
+                                <p>Bacteria preserved at -80℃ need to be recovered to restores cell growth.</p>
+                                <ol>
+                                    <li>Prepare plate: Take out the plate with relevant resistance from 4 degrees and wait for the temperature to the room temperature. Mark at the bottom of the plate.</li>
+                                    <li>Recover the cell: The -80℃ frozen strain was removed and placed on the ice quickly. Take a ring of the upper layer of melt bacteria liquid by the sterilized inoculation ring. Coated the plate and draw a line.</li>
+                                    <li>Culture the recovered cell: Incubate at 37℃ overnight.</li>
+                                </ol>
+                                <h2 id="pcr"><a class="anchor" href="#pcr">#</a> PCR</h2>
+                                <p>PCR is performed to amplify DNA fragments in our project.</p>
+                                <ol>
+                                    <li>Set up PCR system (25 μL):</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 25 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">2 x Phanta Max Buffer</td>
+                                            <td style="text-align:left">12.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Phanta DNA polymerase</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">DNA Template</td>
+                                            <td style="text-align:left">&lt;br/&gt;Plasmid: 0.5 μL&lt;br/&gt;&lt;br/&gt;PCR product: 1 μL&lt;br/&gt;</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Forward Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Reverse Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="2">
+                                    <li>Place the PCR tubes in a PCR amplifier.</li>
+                                    <li>Set up reaction program:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Procedure</th>
+                                            <th style="text-align:left">Temperature</th>
+                                            <th style="text-align:left">Time</th>
+                                            <th style="text-align:left">Cycle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">Initialization</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Denaturation</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left">30-40</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Annealing</td>
+                                            <td style="text-align:left">depends on the primers</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Extension</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">30-60s/kb</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Final elongation</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">5min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="4">
+                                    <li>Incubate: Incubate at 16℃ until the PCR product is picked up.</li>
+                                </ol>
+                                <h2 id="colony-pcr"><a class="anchor" href="#colony-pcr">#</a> Colony PCR</h2>
+                                <p>Colony PCR is performed to determine whether we insert DNA into the plasmid successfully.</p>
+                                <ol>
+                                    <li>Set up colony PCR system (10 µl):</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 10 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">10 x Taq Buffer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">0.2 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Taq DNA Polymerase</td>
+                                            <td style="text-align:left">0.2 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Colony Template</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Forward Primer</td>
+                                            <td style="text-align:left">0.4 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Reverse Primer</td>
+                                            <td style="text-align:left">0.4 μL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="2">
+                                    <li>Place the PCR tubes in a PCR amplifier and set up a reaction program:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Procedure</th>
+                                            <th style="text-align:left">Temperature</th>
+                                            <th style="text-align:left">Time</th>
+                                            <th style="text-align:left">Cycle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">Initialization</td>
+                                            <td style="text-align:left">94℃</td>
+                                            <td style="text-align:left">5min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Denaturation</td>
+                                            <td style="text-align:left">94℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left">25</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Annealing</td>
+                                            <td style="text-align:left">depends on the primers</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Extension</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">1min/kb</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Final elongation</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">7min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="3">
+                                    <li>Incubate: Incubate at 8℃ until the PCR product is picked up.</li>
+                                </ol>
+                                <h2 id="overlap-extension-pcr-oe-pcr"><a class="anchor" href="#overlap-extension-pcr-oe-pcr">#</a> Overlap Extension PCR (OE PCR)</h2>
+                                <p>OE PCR is used to fuse fragments.</p>
+                                <ol>
+                                    <li>First-round PCR: Use primer a/b to amplify fragment AB by PCR, and c/d to amplify fragment CD. Set up PCR system:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 25 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">2 x Phanta Max Buffer</td>
+                                            <td style="text-align:left">12.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Phanta DNA polymerase</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">DNA Template</td>
+                                            <td style="text-align:left">Plasmid: 0.5 μL&lt;br/&gt;PCR product: 1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Forward Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Reverse Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="2">
+                                    <li>Set up reaction program:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Procedure</th>
+                                            <th style="text-align:left">Temperature</th>
+                                            <th style="text-align:left">Time</th>
+                                            <th style="text-align:left">Cycle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">Initialization</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Denaturation</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left">30-40</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Annealing</td>
+                                            <td style="text-align:left">depends on the primers</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Extension</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">30s/kb</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Final elongation</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">5min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="3">
+                                    <li>Annealing of homologous regions in Second round PCR: Separate and purify fragment AB and CD by agarose gel electrophoresis and DNA gel extraction. Measure the concentration of the two fragments. Dilute them into 1:1
+                                        as a template. Set up PCR system:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 50 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">2 x Phanta Max Buffer</td>
+                                            <td style="text-align:left">25 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Phanta</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Template</td>
+                                            <td style="text-align:left">0.08 pmol + 0.08 pmol</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="4">
+                                    <li>Set up reaction program:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Procedure</th>
+                                            <th style="text-align:left">Temperature</th>
+                                            <th style="text-align:left">Time</th>
+                                            <th style="text-align:left">Cycle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">Initialization</td>
+                                            <td style="text-align:left">94℃</td>
+                                            <td style="text-align:left">5min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Denaturation</td>
+                                            <td style="text-align:left">94℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left">12</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Annealing</td>
+                                            <td style="text-align:left">60/64/68/72℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Extension</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">1min/kb</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Final elongation</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">7min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="5">
+                                    <li>Store the vials: Store prepared vials in the refrigerator at -80℃.</li>
+                                </ol>
+                                <h2 id="vector-pcr"><a class="anchor" href="#vector-pcr">#</a> Vector PCR</h2>
+                                <p>Vector PCR is used for generating a linear product.</p>
+                                <ol>
+                                    <li>Set up PCR system (25 μL):</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 25 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">2 x Phanta Max Buffer</td>
+                                            <td style="text-align:left">12.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Phanta</td>
+                                            <td style="text-align:left">0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Template</td>
+                                            <td style="text-align:left">Plasmid: 0.5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Forward Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Reverse Primer</td>
+                                            <td style="text-align:left">1 μL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="2">
+                                    <li>Place the PCR tubes in a PCR amplifier.</li>
+                                    <li>Set up reaction program:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Procedure</th>
+                                            <th style="text-align:left">Temperature</th>
+                                            <th style="text-align:left">Time</th>
+                                            <th style="text-align:left">Cycle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">Initialization</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">30s</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Denaturation</td>
+                                            <td style="text-align:left">95℃</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left">40</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Annealing</td>
+                                            <td style="text-align:left">depends on the primers</td>
+                                            <td style="text-align:left">15s</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Extension</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">30s/kb</td>
+                                            <td style="text-align:left"></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Final elongation</td>
+                                            <td style="text-align:left">72℃</td>
+                                            <td style="text-align:left">5min</td>
+                                            <td style="text-align:left">1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="4">
+                                    <li>Incubate: Incubate at 16℃ until the PCR product is picked up.</li>
+                                </ol>
+                                <h2 id="agarose-gel-electrophoresis"><a class="anchor" href="#agarose-gel-electrophoresis">#</a> Agarose Gel Electrophoresis</h2>
+                                <p>Agarose gel electrophoresis is performed to separate and confirm whether our plasmids were constructed properly.</p>
+                                <ol>
+                                    <li>Make gel solution: Add 0.7g agarose, 70ml TAE buffer into a glass bottle and heat in a micro-oven for 2 min. Cool the liquid agarose gel to lower than 60℃ and decant the liquid agarose gel into an agarose gel tank.
+                                        Add 8 μL EB into the liquid agarose gel and place the electrophoresis comb.</li>
+                                    <li>Load the gel: Place the solid agarose gel in an electrophoresis device. Add 10xDNA Loading Buffer in the DNA sample, mix them up gently, and carefully pipette the sample into the sample loading chambers.</li>
+                                    <li>Electrophoresis: Cover the lid of the electrophoresis device, set the electrophoresis time, and start electrophoresis.</li>
+                                </ol>
+                                <h2 id="dna-gel-extraction"><a class="anchor" href="#dna-gel-extraction">#</a> DNA Gel Extraction</h2>
+                                <p>DNA Gel Extraction is to extract desired DNA from an agarose gel after agarose gel electrophoresis.</p>
+                                <ol>
+                                    <li>Cut the DNA gel: place the gel under UV light and find the DNA band of the desired nucleotide length. b) Cut the gel containing desired DNA and put it into an Eppendorf tube.</li>
+                                    <li>Melt the DNA gel: Use Vazyme® DNA Gel Extraction Kit. Add 300 μL buffer GDP to the Eppendorf tube and incubate at 55℃. Spin briefly.</li>
+                                    <li>Pure the DNA gel: Insert a Fast Mini Columns-G into a 2 ml Collection Tube, transfer the solution maximally of 700 μL once a time to a filtration column, centrifuge at 12,000 x g for 30 - 60s. Discard the filtrate and
+                                        reuse the Collection Tube, add 600 μL of Buffer GW (with ethanol added) to the filtration column, centrifuge at 12,000 x g for 60s. Pure the left solution in the same way.</li>
+                                    <li>Filtrate DNA: Discard the filtrate and reuse the Collection Tube, centrifuge the empty column at 12,000 x g for 2 min. Insert the column into a clean 1.5 mL Eppendorf tube and incubate at 55℃ for 5 min. Add 7 μL - 30
+                                        μL of ddH2O (incubated at 55℃ in advance) to the center of the column membrane, incubate at room temperature for 2 min, and then centrifuge at 12,000 x g for 1min. Discard the filtration column. Measure the DNA
+                                        concentration by Nanodrop 2000.</li>
+                                    <li>Store DNA at -20℃.</li>
+                                </ol>
+                                <h2 id="restriction-enzyme-double-digestion"><a class="anchor" href="#restriction-enzyme-double-digestion">#</a> Restriction Enzyme Double Digestion</h2>
+                                <p>Double digestion reaction is performed to create mismatch ends for directional insertion.</p>
+                                <ol>
+                                    <li>Add DNA fragment and vector at a mole ratio of 2:1 - 4:1 (total 1μg), 5 μL NEB CutSmart buffer, 1 μL of both restriction enzymes and ddH2O up to 50 μL to set up the reaction.</li>
+                                    <li>Incubate at 37℃ overnight.</li>
+                                </ol>
+                                <h2 id="clonexpress-ligation-reaction"><a class="anchor" href="#clonexpress-ligation-reaction">#</a> ClonExpress ligation reaction</h2>
+                                <p>ClonExpress ligation reaction is performed to insert our DNA fragments into vector.</p>
+                                <ol>
+                                    <li>Set up ClonExpress ligation system:</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">Reagent</th>
+                                            <th style="text-align:left">Volume</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">To 5 μL</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">DNA fragment</td>
+                                            <td style="text-align:left">0.02*bp ng</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">vector</td>
+                                            <td style="text-align:left">0.01*bp ng</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">2 x ClonExpress Mix</td>
+                                            <td style="text-align:left">2.5 μL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="2">
+                                    <li>Incubate at 50℃ for 30 minutes. Transform the DNA into bacteria.</li>
+                                </ol>
+                                <h2 id="plasmid-transformation"><a class="anchor" href="#plasmid-transformation">#</a> Plasmid transformation</h2>
+                                <p>Plasmid transformation is performed to transfer plasmids into the host bacteria. We transform our plasmids into DH5α <em>E. coli</em> to amplify them and BL21 to testify function of our plasmids.</p>
+                                <ol>
+                                    <li>Thaw all reagents on ice. And add 20 μL competent <em>E. coli</em> cells into the ligation product.</li>
+                                    <li>Heat shock at 42℃ for 45s and then cool the mixture on ice for 2min.</li>
+                                    <li>Add 900 μL liquid SOC or LB medium (without antibiotic) into the mixture and shake culture at 37℃ for 1h.</li>
+                                    <li>Evenly spread the liquid culture on a solid culture medium and incubate at 37℃ overnight for colonies forming on the plate.</li>
+                                </ol>
+                                <h2 id="plasmid-miniprep-vazyme-fastpure-plasmid-mini-kit"><a class="anchor" href="#plasmid-miniprep-vazyme-fastpure-plasmid-mini-kit">#</a> Plasmid Miniprep (Vazyme® FastPure Plasmid Mini Kit)</h2>
+                                <p>Plasmid Miniprep is performed to is extract plasmid DNA from bacteria.</p>
+                                <ol>
+                                    <li>Harvest 1 - 5 mL overnight cultured (12 - 16h) bacterial cells into a centrifuge tube, centrifuge at 10,000 x g for 1min, discard the supernatant and invert the tube on the absorbent paper to dry.</li>
+                                    <li>Add 250 μL of Buffer P1 (add RNase A before use), mix thoroughly by vortex or pipetting up and down.</li>
+                                    <li>Add 250 μL of Buffer P2, mix thoroughly by softly inverting the tube 8 - 10 times to assure complete lysis.</li>
+                                    <li>Add 350 μL of Buffer P3, mix gently and thoroughly by inverting the tube 8 - 10 times to neutralize Buffer P2 until a flocculent white precipitate forms and centrifuge at 13,000 x g for 10min.</li>
+                                    <li>Insert a FastPure DNA Mini Column into a 2 mL Collection Tube, transfer the supernatant from step 4 to the Filtration Column, centrifuge at 13,000 x g for 30 - 60s, discard the filtrate, and reuse the Collection Tube.</li>
+                                    <li>Add 600 μL of Buffer PW2 (with ethanol added in) to the Filtration Column, centrifuge at 13,000 x g for 30 - 60s, discard the filtrate and reuse the Collection Tube. Centrifuge the empty Filtration Column for l min
+                                        at 13,000 x g.</li>
+                                    <li>Insert the Column into a clean 1.5 mL microcentrifuge tube, add 30 - 100 μL of Elution Buffer to the center of the Column membrane, incubate at room temperature for 2min, centrifuge at 13,000 x g for 1min. Discard the
+                                        Filtration Columns, store DNA at -20℃.</li>
+                                </ol>
+                                <h2 id="sds-page"><a class="anchor" href="#sds-page">#</a> SDS-PAGE</h2>
+                                <p>SDS-PAGE is performed for the separation of polypeptides and confirms whether our circuits expressed properly.</p>
+                                <ol>
+                                    <li>Prepare 10ml 10% Running Gel solution: Add4.1 mL ddH2O, 3.3 mL 30% Acrylamide/Bis (29:1 or 37.5:1), 2.5 mL 1.5 M Tris-HCl pH8.8, 100 μL 10% SDS, 50 μL 10% APS, 5 μL TEMED. Mix them thoroughly.</li>
+                                    <li>Prepare 2ml 4% Stacking Gel solution: Add 1.22 ml ddH2O, 0.26ml 30% Acrylamide/Bis (29:1 or 37.5:1), 0.5 mL 0.5 M Tris-HCl pH6.8, 20 μL 10% SDS, 20 μL 10% APS, 2 μL TEMED. Mix them thoroughly.</li>
+                                    <li>Prepare the protein sample: Add 1 ml bacterial cells per time into a centrifuge tube, centrifuge at 12,000 x g for 1min, discard the supernatant. Dilute SDS sample buffer to 1x. Add 1 x SDS Loading to 3000 cells per
+                                        1 μL, mix thoroughly by vortex or pipetting up and down until there is no visible precipitation. Incubate at 99℃ for 5min.</li>
+                                    <li>Make the gel: Assemble the gel cassette and make sure it does not leak. Fill the gel cassette with the Running Gel softly and fill up the cassette with ddH2O. Keep it still for 10 - 20min until the water layer can be
+                                        observed. Pour out the ddH2O completely and fill up the cassette with Stacking Gel. Insert the comb and take care not to catch bubbles under the teeth. Keep it still.</li>
+                                    <li>Load the gel: Take off the cassette and assemble the gel running stand. Fill the stand with 1 x SDS running buffer and remove the combs from the gel. Mix up Marker with 1 x SDS Loading. Load 15 μL marker mixture into
+                                        the wells.</li>
+                                    <li>Electrophoresis: Cover the lid of the electrophoresis device, and start electrophoresis at 200 V until the dye front is nearly at the bottom of the gel.</li>
+                                    <li>Stain the gel: Submerge the whole piece of the disassembled gel with 0.1% Coomassie Blue dye for 30min.</li>
+                                    <li>Destain the gel: Pour out the 0.1% Coomassie Blue dye and wash it using ddH2O. Destain with a destaining solution for 30min. Change the destaining solution to destain until it is clear.</li>
+                                    <li>Scan the gel.</li>
+                                </ol>
+                                <h2 id="sds-page-gradient-gel"><a class="anchor" href="#sds-page-gradient-gel">#</a> SDS-PAGE Gradient Gel</h2>
+                                <p>SDS-PAGE is performed for the separation of caap and confirms whether our circuits functioned properly.</p>
+                                <ol>
+                                    <li>Start the device: Put the container on the electromagnetic heating device. Increase the speed of the rotor gradually to 260 RPM.</li>
+                                    <li>Prepare Gel solution: 4% and 20% Gel solution, can be prepared directly according to SDS-PAGE protocol. And 1.5 times of APS concentration should be added.</li>
+                                    <li>Gradient formation: Add 4% glue slowly into the valve, and then add 20% glue. Mix them with the rotor. Wait about 2 hours for the glue to concrete.</li>
+                                    <li>Store the gel: Remove the solidified glue one by one. Soak them in 1×SDS, and put them into a refrigerator at 4℃ under the counter for preservation.
+                                        <h2><a class="anchor" href="#">#</a></h2>
+                                    </li>
+                                </ol>
+                                <h2 id="iptg-induction-experiment"><a class="anchor" href="#iptg-induction-experiment">#</a> IPTG induction experiment</h2>
+                                <ol>
+                                    <li>Reconnection: Take 10 mL and 5 mL LB liquid medium in two test tubes, 10 mL one is used as the control group and 5 mL one is for the experiment group. Add 500× ampicillin 20 μL and 10 μL, respectively. Culture 6h. Add
+                                        1 mL bacteria solution to the experiment group and divide evenly into two tubes (3 mL each) for IPTG-induced and non-induced groups. Another 1 mL bacteria was used to measure initial OD.</li>
+                                    <li>Measure OD: Measured OD value once per 30min and once per 15min after OD reached 0.2.</li>
+                                    <li>Induce: When OD value reached about 0.6, add 500mM IPTG to reach the final concentration of 1 mM. Incubate for 3 hours.</li>
+                                </ol>
+                                <h2 id="growth-curve-measurement"><a class="anchor" href="#growth-curve-measurement">#</a> Growth Curve Measurement</h2>
+                                <p>Growth Curve Measurement is used to identify the type of promoter reported in a paper to determine whether it is a σs or σ70 promoter.</p>
+                                <ol>
+                                    <li>Plasmids transformation and cultivation: Transform the constructed plasmids into DH5α strain. Culture three groups in 60mL LB medium (with 50 ng/ μL ampicillin) at 37℃ overnight.</li>
+                                    <li>Dilute the bacteria solution to 1% with 100ml LB culture medium, and shake for certain hours as needed.</li>
+                                    <li>Obtain 300ul of sample every 30 minutes, and store it in 4℃.</li>
+                                    <li>Measure the OD600 of each sample using a plate reader. Draw the growth curve.</li>
+                                </ol>
+                                <h2 id="fluorescence-intensity-curve-measurement"><a class="anchor" href="#fluorescence-intensity-curve-measurement">#</a> Fluorescence Intensity Curve Measurement</h2>
+                                <ol>
+                                    <li>Plasmids transformation and cultivation: Transform the constructed plasmids into DH5α strain. Culture three groups in 60mL LB medium (with 50 ng/ μL ampicillin) at 37℃ overnight.</li>
+                                    <li>Dilute the bacteria solution to 1% with 100ml LB culture medium, and shake for certain hours as needed.</li>
+                                    <li>Obtain 300ul of sample every 30 minutes, and store it in 4℃.</li>
+                                    <li>Measure the fluorescence intensity of each sample using a plate reader. Draw the growth curve.</li>
+                                </ol>
+                                <h2 id="loop-mediated-isothermal-amplification-lamp"><a class="anchor" href="#loop-mediated-isothermal-amplification-lamp">#</a> Loop-mediated isothermal amplification (LAMP)</h2>
+                                <ol>
+                                    <li>Prepare LAMP reaction system as below</li>
+                                </ol>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left">10x Bst LF Buffer</th>
+                                            <th style="text-align:left">2.5ul</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">F3/B3/LF/LB</td>
+                                            <td style="text-align:left">0.5ul each</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">FIP/BIP</td>
+                                            <td style="text-align:left">2 ul</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">dNTP</td>
+                                            <td style="text-align:left">1 ul</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Bst DNA polymerase Large Fragment</td>
+                                            <td style="text-align:left">1 ul</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">ddH2O</td>
+                                            <td style="text-align:left">12.5 ul</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Template</td>
+                                            <td style="text-align:left">2 ul</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Total</td>
+                                            <td style="text-align:left">25 ul</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <ol start="4">
+                                    <li>Incubate at 65°C for 60-90 minutes</li>
+                                    <li>Keep the tube at 16°C until the LAMP product is picked up.</li>
+                                </ol>
+                                <h2 id="lateral-flow-assay-lfa"><a class="anchor" href="#lateral-flow-assay-lfa">#</a> Lateral Flow Assay (LFA)</h2>
+                                <ol>
+                                    <li>Add 1 ul of detecting probes into the LAMP product and incubate for 37 °C 10 mins.</li>
+                                    <li>Dilute the reaction solution ten times into a 1.5ml EP tube.</li>
+                                    <li>Plug the testing strip into the tube and results will be seen within 5 mins. (control line is supposed to be red despite the detecting result otherwise the result is invalid. The testing line being red indicate positive
+                                        results. )</li>
+                                </ol>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#2021-fudan-protocols"><span class="toc-number">1.</span> <span class="toc-text">2021 Fudan Protocols</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#cell-cryopreservation"><span class="toc-number">1.1.</span> <span class="toc-text">Cell Cryopreservation</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#cell-recovery"><span class="toc-number">1.2.</span> <span class="toc-text">Cell Recovery</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#pcr"><span class="toc-number">1.3.</span> <span class="toc-text">PCR</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#colony-pcr"><span class="toc-number">1.4.</span> <span class="toc-text">Colony PCR</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#overlap-extension-pcr-oe-pcr"><span class="toc-number">1.5.</span> <span class="toc-text">Overlap Extension PCR (OE PCR)</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#vector-pcr"><span class="toc-number">1.6.</span> <span class="toc-text">Vector PCR</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#agarose-gel-electrophoresis"><span class="toc-number">1.7.</span> <span class="toc-text">Agarose Gel Electrophoresis</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#dna-gel-extraction"><span class="toc-number">1.8.</span> <span class="toc-text">DNA Gel Extraction</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#restriction-enzyme-double-digestion"><span class="toc-number">1.9.</span> <span class="toc-text">Restriction Enzyme Double Digestion</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#clonexpress-ligation-reaction"><span class="toc-number">1.10.</span> <span class="toc-text">ClonExpress ligation reaction</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#plasmid-transformation"><span class="toc-number">1.11.</span> <span class="toc-text">Plasmid transformation</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#plasmid-miniprep-vazyme-fastpure-plasmid-mini-kit"><span class="toc-number">1.12.</span> <span class="toc-text">Plasmid Miniprep (Vazyme® FastPure Plasmid Mini Kit)</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#sds-page"><span class="toc-number">1.13.</span> <span class="toc-text">SDS-PAGE</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#sds-page-gradient-gel"><span class="toc-number">1.14.</span> <span class="toc-text">SDS-PAGE Gradient Gel</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">1.15.</span> <span class="toc-text"></span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#iptg-induction-experiment"><span class="toc-number">1.16.</span> <span class="toc-text">IPTG induction experiment</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#growth-curve-measurement"><span class="toc-number">1.17.</span> <span class="toc-text">Growth Curve Measurement</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#fluorescence-intensity-curve-measurement"><span class="toc-number">1.18.</span> <span class="toc-text">Fluorescence Intensity Curve Measurement</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#loop-mediated-isothermal-amplification-lamp"><span class="toc-number">1.19.</span> <span class="toc-text">Loop-mediated isothermal amplification (LAMP)</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#lateral-flow-assay-lfa"><span class="toc-number">1.20.</span> <span class="toc-text">Lateral Flow Assay (LFA)</span></a></li>
+                                            </ol>
+                                        </li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For Old">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" onclick="func0();">Large Font</div> -->
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope itemtype="">
+                                        <p class="name" itemprop="name">CandiCam</p>
+                                        <div class="description" itemprop="description">
+                                            A point-of-care diagnostic tool.
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="https://2021.igem.org/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i>Home</a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Part_Collection" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width: 70%;">
+                        <a href="https://www.fudan.edu.cn/"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a>
+                    </div>
+                    <hr>
+                    <div style="width: 30%;">
+                        <h2>Written by: Shitao Gong</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- <div class="status">
+                    <div class="powered-by">Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span></div>
+                </div> -->
+            </div>
+        </footer>
+    </div>
+    <script data-config type="text/javascript">
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>

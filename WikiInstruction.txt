@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/jquery-1.11.1.min.js"></script>
+  <link rel="stylesheet" href="/0igem.css">
+  <title>Team</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Team skin-igem action-view">
+<div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制20行之后的内容，并注意去掉22行末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html lang="en">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json">
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&amp;ctype=text/css">
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Markdown 基本语法 & Shoka 主题特殊语法</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope itemtype="" class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <div class="body md" itemprop="articleBody">
+                                <div class="note info">
+                                    <p>Release Date: 2021.08.03</p>
+                                    <p>Version: 1.1</p>
+                                    <p>本页内容：</p>
+                                    <ol>
+                                        <li>一些说明</li>
+                                        <li>Markdown 基本语法规则</li>
+                                        <li>当前 wiki 使用主题 Shoka 额外增加的语法规则</li>
+                                    </ol>
+                                </div>
+                                <h1 id="一些说明"><a class="anchor" href="#一些说明">#</a> 一些说明</h1>
+                                <h2 id="关于markdown语言"><a class="anchor" href="#关于markdown语言">#</a> 关于 Markdown 语言</h2>
+                                <ol>
+                                    <li>Markdown 不是编程语言（因为其不涉及逻辑处理），而是描述性语言，其完成的工作本质上就是图文排版</li>
+                                    <li>我们 wiki 的模板已经可以做到将 Markdown 语言直接转换为网页了！因此大家只需要用 Markdown 就可以了，不用再去学 HTML+CSS+js+... 了</li>
+                                    <li>石墨文档也支持<ins class="dot">部分</ins> Markdown 语法（小声）</li>
+                                </ol>
+                                <h2 id="关于typora编辑器"><a class="anchor" href="#关于typora编辑器">#</a> 关于 Typora 编辑器</h2>
+                                <ol>
+                                    <li>Typora 是一款能够即时显示效果的编辑器，适用于 Markdown 基本语法的所有内容；但我们的 wiki 使用的 Shoka 主题新增了一些特殊的语法，Typora 就不能显示了</li>
+                                    <li>软件下载地址：<span class="exturl" data-url="aHR0cHM6Ly93d3cudHlwb3JhLmlvLw==">官网链接</span></li>
+                                </ol>
+                                <h2 id="其他"><a class="anchor" href="#其他">#</a> 其他</h2>
+                                <div class="note danger">
+                                    <p>Shoka 主题提供的字体修饰有很多，例如波浪线、着重点、荧光高亮、彩虹等等，但由于目前美工组还在设计配色方案，因此不展开细说具体有哪些修饰方法。<ins class="dot">所有需要强调的内容请先统一使用<mark>荧光高亮</mark>标出</ins>，待配色方案确定后会协助大家修改。</p>
+                                </div>
+                                <div class="note info">
+                                    <ol>
+                                        <li>所有的语法规则，都会按照 <ins class="wavy">基本格式 - 实例代码 - 实例效果</ins> 的形式呈现</li>
+                                        <li>推荐一边看一边在 Typora 编辑器上动手操作</li>
+                                        <li>此处仅列出了 Markdown 中较常用的一些功能，更多功能待通过鲁棒性验证后将在本网页更新（请关注 “本页内容” 处的更新日期与版本号），建议收藏以方便查看</li>
+                                        <li>如有任何意见、建议或遇到困难，请找 GhoST👻</li>
+                                    </ol>
+                                </div>
+                                <h1 id="markdown基本语法"><a class="anchor" href="#markdown基本语法">#</a> Markdown 基本语法</h1>
+                                <h2 id="标题"><a class="anchor" href="#标题">#</a> 标题</h2>
+                                <h3 id="一级标题"><a class="anchor" href="#一级标题">#</a> 一级标题</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code># 标题内容</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code># Markdown基本语法</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p>见该部分大标题<em> Markdown 基本语法</em></p>
+                                <hr>
+                                <h3 id="二级标题"><a class="anchor" href="#二级标题">#</a> 二级标题</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>## 标题内容</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>## 字体</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p>见下部分小标题 <em> 字体</em> </p>
+                                <div class="note warning">
+                                    <ol>
+                                        <li>若干#号之间无需空格，#号与标题内容之间有一个空格</li>
+                                        <li>网页左侧的页面导航栏是根据一级标题、二级标题自动生成的：一级标题前面会加上序号 1. 2. 3.，二级标题前面会加上序号 1.1. 1.2. 1.3.，因此标题内容不要带序号</li>
+                                    </ol>
+                                </div>
+                                <h2 id="字体"><a class="anchor" href="#字体">#</a> 字体</h2>
+                                <p><span class="label info">格式</span></p><pre><code>*倾斜文字*
+**加粗文字**
+***倾斜加粗文字***
+~~删除文字~~
+</code></pre>
+                                <p><span class="label info">实例</span></p><pre><code>*这是倾斜的文字*
+**这是加粗的文字**
+***这是倾斜加粗的文字***
+~~这是有删除线的文字~~
+</code></pre>
+                                <p><span class="label info">效果</span></p>
+                                <p><em>这是倾斜的文字</em><br><strong>这是加粗的文字</strong><br><em><strong>这是倾斜加粗的文字</strong></em><br><s>这是有删除线的文字</s></p>
+                                <div class="note warning">
+                                    <p>* 号和～号与文字之间没有空格</p>
+                                </div>
+                                <div class="note info">
+                                    <p><span>Shift</span><span>`</span>~ 号的打法：<span class="kbd">Shift</span> + <span class="kbd">`</span>（上方数字键 1 左边的键）</p>
+                                </div>
+                                <h2 id="分割线"><a class="anchor" href="#分割线">#</a> 分割线</h2>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>---</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <hr>
+                                <div class="note info">
+                                    <p>除了可以用</p>
+                                    <p><code>---</code></p>
+                                    <p>还可以用</p>
+                                    <p><code>***</code></p>
+                                    <p>并且，- 和 * 的数量不一定是 3 个，只要大于等于 3 个都可以，效果均相同</p>
+                                </div>
+                                <h2 id="图片"><a class="anchor" href="#图片">#</a> 图片</h2>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>![图片Alt](图片地址)</code></p>
+                                <div class="note info">
+                                    <p>图片 Alt 指的是图片关键词，是当图片因为某些原因无法显示的时候出现的替代文字，同时也是百度等搜索引擎搜索图片时的关键词。在我们的 wiki 中可以省略不写。</p>
+                                </div>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>![](https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg)</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p><img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt=""></p>
+                                <div class="note warning">
+                                    <p>这里用到的小括号 () 和中括号 [] 需要在 <ins class="wavy">英文状态</ins> 下输入，否则无效</p>
+                                </div>
+                                <h2 id="超链接"><a class="anchor" href="#超链接">#</a> 超链接</h2>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>[显示文字](链接地址)</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>[Shoka模板测试页面](https://2021.igem.org/Team:Fudan/ExamplePage/NewContent)</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRXhhbXBsZVBhZ2UvTmV3Q29udGVudA==">Shoka 模板测试页面</span></p>
+                                <div class="note warning">
+                                    <p>这里用到的小括号 () 和中括号 [] 需要在 <ins class="wavy">英文状态</ins> 下输入，否则无效</p>
+                                </div>
+                                <h2 id="列表"><a class="anchor" href="#列表">#</a> 列表</h2>
+                                <h3 id="无序列表"><a class="anchor" href="#无序列表">#</a> 无序列表</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>- 列表内容</code></p>
+                                <p><span class="label info">实例</span></p><pre><code>- Team
+- Project
+- Parts
+- Safety
+- Human Practice
+- Awards
+- Poster
+</code></pre>
+                                <p><span class="label info">效果</span></p>
+                                <ul>
+                                    <li>Team</li>
+                                    <li>Project</li>
+                                    <li>Parts</li>
+                                    <li>Safety</li>
+                                    <li>Human Practice</li>
+                                    <li>Awards</li>
+                                    <li>Poster</li>
+                                </ul>
+                                <div class="note warning">
+                                    <p>- 号与内容之间需要有一个空格</p>
+                                </div>
+                                <div class="note info">
+                                    <ol>
+                                        <li>除了可以使用 - 号，还可以使用 + 号、 * 号，效果相同。但符号与内容之间都需要有一个空格</li>
+                                        <li>在 Typora 编辑器中，一旦有了第一个列表内容，按<span class="kbd"> Enter</span> 就会自动生成下一个列表项目，再按<span class="kbd"> Enter</span> 则会停止自动生成列表项目</li>
+                                    </ol>
+                                </div>
+                                <h3 id="有序列表"><a class="anchor" href="#有序列表">#</a> 有序列表</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>1. 列表内容</code></p>
+                                <p><span class="label info">实例</span></p><pre><code>1. Research
+2. Imagine
+3. Design
+4. Build
+5. Test
+6. Learn
+7. Improve
+</code></pre>
+                                <p><span class="label info">效果</span></p>
+                                <ol>
+                                    <li>Research</li>
+                                    <li>Imagine</li>
+                                    <li>Design</li>
+                                    <li>Build</li>
+                                    <li>Test</li>
+                                    <li>Learn</li>
+                                    <li>Improve</li>
+                                </ol>
+                                <div class="note warning">
+                                    <p>序号和小数点之间没有空格，小数点和内容之间有空格</p>
+                                </div>
+                                <h3 id="列表的嵌套"><a class="anchor" href="#列表的嵌套">#</a> 列表的嵌套</h3>
+                                <p><span class="label info">实例</span></p><pre><code>1. Research
+   - Teacher
+   - Website
+   - ...
+2. Imagine
+   - Outline
+   - ...
+</code></pre>
+                                <p><span class="label info">效果</span></p>
+                                <ol>
+                                    <li>Research
+                                        <ul>
+                                            <li>Teacher</li>
+                                            <li>Website</li>
+                                            <li>...</li>
+                                        </ul>
+                                    </li>
+                                    <li>Imagine
+                                        <ul>
+                                            <li>Outline</li>
+                                            <li>...</li>
+                                        </ul>
+                                    </li>
+                                </ol>
+                                <div class="note info">
+                                    <p>无序、有序列表自身、相互都可以嵌套。需要做的仅是在次一级的序号 / 符号前面加上三个空格</p>
+                                </div>
+                                <h2 id="表格"><a class="anchor" href="#表格">#</a> 表格</h2>
+                                <p><span class="label info">格式</span></p><pre><code>|列1|列2|列3|...|
+|对齐说明|对齐说明|对齐说明|...|
+|内容|
+</code></pre>
+                                <div class="note info">
+                                    <ol>
+                                        <li>| 号即 C / Python 语言中表示 “或运算” 的符号</li>
+                                        <li>Typora 编辑器功能比较完善，你只需输入第一行（即带有分隔符的表头）就会自动生成表格，然后可以鼠标操作</li>
+                                        <li>对齐说明参考如下：
+                                            <ul>
+                                                <li>文字默认左对齐，即输入 -</li>
+                                                <li>文字居中：输入:-:</li>
+                                                <li>文字右对齐：输入 -:</li>
+                                                <li>输入的 - 号数量不作限制，有一个就行，为了对齐可以多加几个</li>
+                                                <li>冒号需要在 <ins class="wavy">英文状态</ins> 下输入</li>
+                                            </ul>
+                                        </li>
+                                    </ol>
+                                </div>
+                                <p><span class="label info">实例</span></p><pre><code>|列1|列2|列3|
+|--|:--:|-:|
+|1-1|1-2|1-3|
+|2-1|2-2|2-3|
+</code></pre>
+                                <p><span class="label info">效果</span></p>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>列 1</th>
+                                            <th style="text-align:center">列 2</th>
+                                            <th style="text-align:right">列 3</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1-1</td>
+                                            <td style="text-align:center">1-2</td>
+                                            <td style="text-align:right">1-3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2-1</td>
+                                            <td style="text-align:center">2-2</td>
+                                            <td style="text-align:right">2-3</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <h1 id="shoka新增的语法规则"><a class="anchor" href="#shoka新增的语法规则">#</a> Shoka 新增的语法规则</h1>
+                                <h2 id="上下标"><a class="anchor" href="#上下标">#</a> 上下标</h2>
+                                <h3 id="上标"><a class="anchor" href="#上标">#</a> 上标</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>^上标文字^</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>Jan. 1^st^</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p>Jan. 1<sup>st</sup></p>
+                                <h3 id="下标"><a class="anchor" href="#下标">#</a> 下标</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>~下标文字~</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>H~2~O</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p>H<sub>2</sub>O</p>
+                                <div class="note warning">
+                                    <p>^ 号 和～号与上下标内容之间没有空格</p>
+                                </div>
+                                <h2 id="突出显示"><a class="anchor" href="#突出显示">#</a> 突出显示</h2>
+                                <h3 id="荧光高亮"><a class="anchor" href="#荧光高亮">#</a> 荧光高亮</h3>
+                                <p><span class="label info">格式</span></p>
+                                <p><code>==高亮文字==</code></p>
+                                <p><span class="label info">实例</span></p>
+                                <p><code>==划重点==</code></p>
+                                <p><span class="label info">效果</span></p>
+                                <p><mark>划重点</mark></p>
+                                <div class="note warning">
+                                    <p>两个等号与高亮内容之间没有空格</p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E"><span class="toc-number">1.</span> <span class="toc-text">一些说明</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B3%E4%BA%8Emarkdown%E8%AF%AD%E8%A8%80"><span class="toc-number">1.1.</span> <span class="toc-text">关于 Markdown 语言</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B3%E4%BA%8Etypora%E7%BC%96%E8%BE%91%E5%99%A8"><span class="toc-number">1.2.</span> <span class="toc-text">关于 Typora 编辑器</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%B6%E4%BB%96"><span class="toc-number">1.3.</span> <span class="toc-text">其他</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95"><span class="toc-number">2.</span> <span class="toc-text">Markdown 基本语法</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A0%87%E9%A2%98"><span class="toc-number">2.1.</span> <span class="toc-text">标题</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98"><span class="toc-number">2.1.1.</span> <span class="toc-text">一级标题</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98"><span class="toc-number">2.1.2.</span> <span class="toc-text">二级标题</span></a></li>
+                                                    </ol>
+                                                </li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AD%97%E4%BD%93"><span class="toc-number">2.2.</span> <span class="toc-text">字体</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%88%86%E5%89%B2%E7%BA%BF"><span class="toc-number">2.3.</span> <span class="toc-text">分割线</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9B%BE%E7%89%87"><span class="toc-number">2.4.</span> <span class="toc-text">图片</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%B6%85%E9%93%BE%E6%8E%A5"><span class="toc-number">2.5.</span> <span class="toc-text">超链接</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%88%97%E8%A1%A8"><span class="toc-number">2.6.</span> <span class="toc-text">列表</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8"><span class="toc-number">2.6.1.</span> <span class="toc-text">无序列表</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8"><span class="toc-number">2.6.2.</span> <span class="toc-text">有序列表</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%88%97%E8%A1%A8%E7%9A%84%E5%B5%8C%E5%A5%97"><span class="toc-number">2.6.3.</span> <span class="toc-text">列表的嵌套</span></a></li>
+                                                    </ol>
+                                                </li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%A1%A8%E6%A0%BC"><span class="toc-number">2.7.</span> <span class="toc-text">表格</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#shoka%E6%96%B0%E5%A2%9E%E7%9A%84%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99"><span class="toc-number">3.</span> <span class="toc-text">Shoka 新增的语法规则</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%8A%E4%B8%8B%E6%A0%87"><span class="toc-number">3.1.</span> <span class="toc-text">上下标</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8A%E6%A0%87"><span class="toc-number">3.1.1.</span> <span class="toc-text">上标</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8B%E6%A0%87"><span class="toc-number">3.1.2.</span> <span class="toc-text">下标</span></a></li>
+                                                    </ol>
+                                                </li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%AA%81%E5%87%BA%E6%98%BE%E7%A4%BA"><span class="toc-number">3.2.</span> <span class="toc-text">突出显示</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%8D%A7%E5%85%89%E9%AB%98%E4%BA%AE"><span class="toc-number">3.2.1.</span> <span class="toc-text">荧光高亮</span></a></li>
+                                                    </ol>
+                                                </li>
+                                            </ol>
+                                        </li>
+                                    </ol>
+                                </div>
+                                <div class="related panel pjax" data-title="Related">
+                                    <div class="box" style="height: 20px;width: 20px;"></div>
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope itemtype="">
+                                        <p class="name" itemprop="name">CandiCam</p>
+                                        <div class="description" itemprop="description">
+                                            A point-of-care diagnostic tool.
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="https://2021.igem.org/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i>Home</a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Part_Collection" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width: 70%;">
+                        <a href=""><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a>
+                    </div>
+                    <hr>
+                    <div style="width: 30%;">
+                        <h2>Written by:</h2>
+                        <a href="https://2021.igem.org/Team:Fudan/Attributions"><img src="https://2021.igem.org/wiki/images/8/85/T--Fudan--Editor-gst.png" alt="" class="Sponsor"></a>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- <div class="status">
+                    <div class="powered-by">Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span></div>
+                </div> -->
+            </div>
+        </footer>
+    </div>
+
+    <script data-config type="text/javascript">
+        var LOCAL = {
+            path: "./",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>

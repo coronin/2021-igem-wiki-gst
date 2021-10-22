@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/jquery-1.11.1.min.js"></script>
+  <link rel="stylesheet" href="/0igem.css">
+  <title>Proof_Of_Concept</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Proof_Of_Concept skin-igem action-view">
+<div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制20行之后的内容，并注意去掉22行末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html lang="en">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json">
+    <!-- <link rel="stylesheet" href="app.css"> -->
+    <!-- <link rel="stylesheet" href="./icon/icon2/iconfont.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- <link rel="stylesheet" href="./icon.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/bootstrap_css?action=raw&ctype=text/css"> -->
+    <!-- <link rel="canonical" href="http://yoursite.com/Help/grammar"> -->
+    <meta name="generator" content="Hexo 5.4.0">
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Proof Of Concept</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope itemtype="" class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+                                <h1 id="proof-of-the-availability-of-primers-and-the-dna"><a class="anchor" href="#proof-of-the-availability-of-primers-and-the-dna">#</a> Proof of the availability of primers and the DNA</h1>
+                                <p>First, to affirm the system could work properly, we started from the very beginning by testing the availability of our primers and the DNA extracted from Candida albicans by our instructor following safety rules. As figure1.
+                                    indicates, we got positive results with both agarose gel electrophoresis and LFA.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/1e/T--Fudan--result12.jpg" alt="pic"><br><strong>Figure1. positive and specific test of LAMP combined with LFA</strong>. M: DL2000 marker; N:negative control （replacing
+                                    DNA of <em>C.albicans</em> with *S. cerevisia); C:*positive amplification of the DNA of <em>C. alibicans</em></p>
+                                <h1 id="identifying-reaction-conditions"><a class="anchor" href="#identifying-reaction-conditions">#</a> Identifying reaction conditions</h1>
+                                <p>Next, we tried to define the conditions to carry out the detection, including the detection limit, the minimum amount of enzyme required in the reaction, reaction time, and temperature. The reaction time available is above
+                                    70 mins. The reaction temperature ranges from 60-65 °C. The minimum amount of enzyme catalyzing LAMP is 2 U, and the detection limit of <em>C.albicans</em> using LAMP is 0.4 pg/μl.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/e5/T--Fudan--result11.jpg" alt="pic"><br>**Figure2. Testing detection conditions. (a)**Testing reaction time.M: marker; O ther lanes: different reaction time as indicated.
+                                    <strong>(b)<strong>Testing minimum enzyme requirement to react. M: DL2000 marker; other lanes: different reaction temperature as indicated.</strong>(c)</strong> Testing reaction temperature. M: DL2000 marker, N: negative
+                                    control; other lanes: the different amount of enzyme as indicated. **(d)**The testing detection limit of LAMP combined with LFA. M: DL2000 marker; other lanes: different template concentration as indicated.</p>
+                                <h1 id="construction-of-bst-expression-system"><a class="anchor" href="#construction-of-bst-expression-system">#</a> Construction of Bst expression system</h1>
+                                <p>In order to reduce the cost of our detection kit and make it more accessible in underdeveloped areas, we constructed several parts to produce low-cost bacterial lysate that can replace commercial Bst polymerase in LAMP
+                                    reaction.
+                                </p>
+                                <p>A composite part was designed and constructed to achieve our goals - BBa_K3790212. It was inserted into the recombinant plasmid. The constructed plasmid was transformed into <em>E. coli</em> Fast-T1. We picked colonies
+                                    to further grow clones in liquid medium with ampicillin and Mini-prep was performed the next day. The constructed plasmid was then verified by enzyme digestion and sequencing.</p>
+                                <p>Figure 3 shows that the composite part BBa_K3790212 had been successfully inserted into the plasmid.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/15/T--Fudan--result3.jpg" alt="pic"><br>**Figure 3. Gel electrophoresis of plasmids containing K3790212 digested with NcoI and KpnI.**The first lane was loaded with DNA
+                                    ladder, sizes were marked on the image. All bands are about 50 ng. Lane labeled with K3790212 is the plasmid DNA without enzymatic digestion. Lane labeled with NcoI/KpnI, is digested. The arrowhead marks the predicted
+                                    excised DNA fragment approximately 1800bp.</p>
+                                <p>We transformed the verified plasmids into <em>E. coli</em> BL21 (DE3) Positive colonies were selected by ampicillin preliminarily and then verified by colony PCR (Figure 4). Correct colonies were cultivated for subsequent
+                                    experiments.
+                                </p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d5/T--Fudan--RESSUP.png" alt="pic"><br>**Figure 4. Gel electrophoresis of colony PCR of BL21 (DE3) clones.**The first lane was loaded with DNA ladder, sizes were marked
+                                    on the image. The brightest band of 750 bp was about 100 ng, and other bands about 50 ng. After obtaining the correct K3790212 recombinant plasmids, we transformed them into BL21 (DE3) competent bacteria for protein
+                                    expression. Positive colonies were selected by ampicillin preliminarily and then verified by colony PCR. The arrowhead marks the target approximately 1800bp.</p>
+                                <p>Using a self-made Bst polymerase compatible buffer (BPCB), we obtained the bacterial lysate (Figure 5) that works well in LAMP reaction as Bst polymerase (Figure 6).</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d7/T--Fudan--result5.jpg" alt="pic"><br><strong>Figure 5. Compare proteins in the pellet vs. supernatant, after BPCB lysis.</strong> Lane 2 was Bst containing supernant.
+                                    We add equal volume of 2x SDS sample buffer. Lane 1 was BPCB insolvable components, from equivalent pellet. As shown in the gel, BPCB solubilizes the bacteria very well, and we do not perform 4 ℃ centrifugation after
+                                    seeing this gel.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b5/T--Fudan--result4.jpg" alt="pic"><br>**Figure 6. LAMP reactions using purified Bst or self-made bacterial lysates. ** The first lane was loaded with DNA ladder, sizes
+                                    were marked on the image. The brightest band of 750 bp was about 100 ng, and other bands about 50 ng. For the last two lanes, we used bacterial lysates from BL21 (DE3) transformed with K37900212, with or without IPTG
+                                    induction. Purified Bst represents the purified enzyme.</p>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#proof-of-the-availability-of-primers-and-the-dna"><span class="toc-number">1.</span> <span class="toc-text">Proof of the availability of primers and the DNA</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#identifying-reaction-conditions"><span class="toc-number">2.</span> <span class="toc-text">Identifying reaction conditions</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#construction-of-bst-expression-system"><span class="toc-number">3.</span> <span class="toc-text">Construction of Bst expression system</span></a></li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For Old">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" onclick="func0();">Large Font</div> -->
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope itemtype="">
+                                        <p class="name" itemprop="name">CandiCam</p>
+                                        <div class="description" itemprop="description">
+                                            A point-of-care diagnostic tool.
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="https://2021.igem.org/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i>Home</a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Part_Collection" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="https://2021.igem.org/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width: 70%;">
+                        <a href="https://www.fudan.edu.cn/"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a>
+                    </div>
+                    <hr>
+                    <div style="width: 30%;">
+                        <h2>Lead by: Xin Lan</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- <div class="status">
+                    <div class="powered-by">Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span></div>
+                </div> -->
+            </div>
+        </footer>
+    </div>
+    <script data-config type="text/javascript">
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script type="text/javascript" src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
