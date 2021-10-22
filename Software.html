@@ -124,7 +124,7 @@
                                     </li>
                                 </ul>
                                 <p><img data-src="https://2021.igem.org/wiki/images/5/5f/T--Fudan--software5.jpg" alt="pic"></p>
-                                <p>Fig1: Original running interface</p>
+                                <p>Figure 1. Original running interface</p>
                                 <h1 id="the-problem-we-want-to-solve"><a class="anchor" href="#the-problem-we-want-to-solve">#</a> The Problem We Want to Solve</h1>
                                 <p>The idea of developing a software tool focus on parts inter-relationship origins from our experiment design. When our team started our design, we first focus on gp2-a protein that may satisfy our bio-circuit demands. But
                                     as our experiment went on, we found that gp2 was not as suitable as we desired. Let's call the challenge we met as &quot;gp2 Puzzle&quot; for now. At that moment, we urged to find a basic part, which shares a similar
@@ -138,14 +138,14 @@
                                 <p>Our software actually helped us find one resolution for the &quot;gp2 puzzle&quot;. With the searching function, we found BBa_K1893016(pBAD + gp2). With its already-made inducing condition data, we successfully find the
                                     desirable inducing conditions and made gp2 works without time-wasting testing or, giving up gp2——which means throwing our design and ideas as trash.</p>
                                 <p><img data-src="https://2021.igem.org/wiki/images/5/5f/T--Fudan--software5.jpg" alt="pic"></p>
-                                <p>Fig2: The searching results of 'gp2' with Part Camera</p>
+                                <p>Figure 2. The searching results of 'gp2' with Part Camera</p>
                                 <p>We find a breakthrough for our experiment barrier through pBAD + GP2, the topmost searching result.</p>
                                 <ol start="2">
                                     <li>In registering periods.</li>
                                 </ol>
                                 <p>When we are about to register our parts, we use Part Camera for a reconfirmation of reptation. We let our part go through blast modules. Take BBa_K3790086 as an example, our results data show the overlappings with the exact
                                     parts before with their part BBa ID, which CANNOT be found in iGEM official blast results and part imfos on their pages. implying that our research results can be added to iGEM part information as a supplementary.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/d/d5/T--Fudan--software3.jpg" alt="pic"><br>Fig3: The direct output of Part Camera's Blast inputting BBa_K3790086</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d5/T--Fudan--software3.jpg" alt="pic"><br>Figure 3. The direct output of Part Camera's Blast inputting BBa_K3790086</p>
                                 <p>We found many similar parts with IDs( marked by a red box) that are not shown from official Blast tools.</p>
                                 <h1 id="about-our-software-tool-part-camera"><a class="anchor" href="#about-our-software-tool-part-camera">#</a> About Our Software Tool: Part Camera</h1>
                                 <p>Part Camera is a search engine for the iGEM part repository developed by python. The keyword most distinct our software tool from the others is ‘Links Between Parts’. We focus on analyzing and demonstrating the relationships
@@ -166,7 +166,7 @@
                                 <p>In the design part, in order to have a more straightforward image of our whole program, we will take a search for BBa_K3606036 in a user's view and track the whole data flow as an example to show you how a searching process
                                     is done.</p>
                                 <h2 id="set-the-database"><a class="anchor" href="#set-the-database">#</a> Set the Database</h2>
-                                <p><img data-src="https://2021.igem.org/wiki/images/2/22/T--Fudan--software11.jpg" alt="pic"><br>Fig4: the program flow chart of setting the database</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/2/22/T--Fudan--software11.jpg" alt="pic"><br>Figure 4. the program flow chart of setting the database</p>
                                 <p>Before the search is started, some preparations have to be done——set the database. But usually, users don't need to do this on their computer since 2021 iGEM Team Fudan will help you set the Database and you may just reach
                                     them on Github or the linkings at the end of this page! see more in the ''Get our data here&quot; section.</p>
                                 <p>File 'get_parts_data.py' is specially designed for setting the database, when being run, the central part -Module Selenium starts to work. Selenium is a suite of tools for automating web browsers, which allows us to get
@@ -246,7 +246,7 @@
                                 <h2 id="process-our-data"><a class="anchor" href="#process-our-data">#</a> Process Our Data</h2>
                                 <p>In order to save time for searching as well as to dig the potentials of original data, the procession of data is necessary. Our original data went through the following steps to become more valuable——exposing both the strong
                                     and weak relationships between parts.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/d/d5/T--Fudan--software12.jpg" alt="pic"><br>Fig5: the program flow chart of processing data</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d5/T--Fudan--software12.jpg" alt="pic"><br>Figure 5. the program flow chart of processing data</p>
                                 <ol>
                                     <li>Breaking down the whole contents from the part page using Participle Method and finding the cited or mentioned parts on its wiki as a representative of the weak association.</li>
                                     <li>Set the web of weak associations based on the cite-cited relationship and use lists to preserve every node's result for further usage.</li>
@@ -354,7 +354,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p>Table2: our data format after processing</p>
+                                <p>Table 2. our data format after processing</p>
                                 <p>Assembling standards*: five digits represents for RFC[10], RFC[12], RFC[21], RFC[23], RFC[25], RFC[1000]. '1' stands for 'compatible', '0' stands for 'incompatible'</p>
                                 <p>Scores** : 'Scores' represents for the significance of a part. it is calculated as the following formula: Scores = 15*distribution_kits + 3*used_times + 1*cited_times</p>
                                 <h2 id="fp-growth"><a class="anchor" href="#fp-growth">#</a> Fp-growth</h2>
@@ -372,12 +372,12 @@
                                     calls backstage python file to return a few compliant parts lists and searches for details based on this list. We also have a quick show of our core feature——relationship. At the top of part blocks, we add short tags
                                     or parts, these tags may not have obvious connections with the searching ones, but they have potential links or similar usage (for example, RFP may be one tag when searching for GFP), which are gotten by Keyword Algorithm.
                                     you may click and know more about these related parts and have inspirations when browsing.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/6/6d/T--Fudan--software10.jpg" alt="pic"><br>fig6 : A search block marked with corresponding info.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/6/6d/T--Fudan--software10.jpg" alt="pic"><br>Figure 6. A search block marked with corresponding info.</p>
                                 <h2 id="treemap"><a class="anchor" href="#treemap">#</a> TreeMap</h2>
                                 <p>TreeMap is the total representative of the relationship of the parts. With a clickable treemap set by Pyecharts with our data, it fully exposes the relation map of the target part, in a way that users can grab all the relationships
                                     within a glance. You may continue your exploration or brainstorming according to this map.</p>
                                 <p><img data-src="https://2021.igem.org/wiki/images/7/79/T--Fudan--contributiongif.gif" alt="pic"></p>
-                                <p>Fig7: clickble treemap of BBa_K3606036. This gif shows us how our treemap works.</p>
+                                <p>Figure 7. Clickble treemap of BBa_K3606036. This gif shows us how our treemap works.</p>
                                 <h1 id="features-and-future"><a class="anchor" href="#features-and-future">#</a> Features and Future</h1>
                                 <ol>
                                     <li>Fp-tree data may help the optimization of distribution kits.</li>
