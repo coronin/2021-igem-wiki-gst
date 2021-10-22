@@ -4,6 +4,20 @@
 
 
 
+/* 2021-10-23 fix font files blocked by CORS policy */
+@font-face {
+    font-family: ic;
+    src: url('/T--Fudan--icon.eot');
+    src: url('/T--Fudan--icon.eot#iefix') format('embedded-opentype'),
+         url("/T--Fudan--icon2.woff") format('woff2'),
+         url('/T--Fudan--icon.woff') format('woff'),
+         url('/T--Fudan--icon.ttf') format('truetype'),
+         url('/T--Fudan--icon.svg#iconfont') format('svg');
+}
+
+
+
+
 a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
 /* cache key: 2021_igem_org:resourceloader:filter:minify-css:7:329647e7075f31ea1bfe23cc06e29c9e */
 

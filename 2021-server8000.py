@@ -12,13 +12,15 @@ class MyRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
         if self.path == '/':
             # default routing, change index.html if needed
             self.path = '/index.html'
-        elif self.path.startswith('/wiki/index.php?title=Template:Fudan'):
-            self.path = self.path.replace('&action=raw&ctype=text/css', ''
-                                ).replace('/wiki/index.php?title=Template:Fudan/', '/')
-            self.path = self.path.replace('&action=raw&ctype=text/javascript', ''
-                                ).replace('/wiki/index.php?title=Template:Fudan/', '/')
-        elif self.path.find('/T--Fudan-index') > 0 and self.path.endswith('.svg'):
-            self.path = '/' + self.path.split('/')[-1]
+        ## 2021 all starting with https://
+        #elif self.path.startswith('/wiki/index.php?title=Template:Fudan'):
+        #    self.path = self.path.replace('&action=raw&ctype=text/css', ''
+        #                        ).replace('/wiki/index.php?title=Template:Fudan/', '/')
+        #    self.path = self.path.replace('&action=raw&ctype=text/javascript', ''
+        #                        ).replace('/wiki/index.php?title=Template:Fudan/', '/')
+        ## 2021 no .svg
+        #elif self.path.find('/T--Fudan-index') > 0 and self.path.endswith('.svg'):
+        #    self.path = '/' + self.path.split('/')[-1]
         elif self.path.startswith('/Team:Fudan/'):
             self.path = '/' + self.path.split('Team:Fudan')[1] + '.html'
         return SimpleHTTPServer.SimpleHTTPRequestHandler.do_GET(self)
