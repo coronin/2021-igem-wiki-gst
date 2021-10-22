@@ -9,10 +9,10 @@ def fetch_create(filename):
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <script src="/load_startup.js"></script>
-  <script src="/load_jquery.js"></script>
-  <script src="/load_jquery.accessKeyLabel.js"></script>
-  <link rel="stylesheet" href="/load_mediawiki.legacy.commonPrint.css" />
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
   <link rel="stylesheet" href="/2ic.css" />
   <title>%s</title>
 </head>
