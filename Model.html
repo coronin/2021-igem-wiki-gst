@@ -105,7 +105,7 @@
                             <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
                             <!-- begin here -->
                             <div class="body md" itemprop="articleBody">
-                                <h1 id="key-problems"><a class="anchor" href="#key-problems">#</a> Key Problems</h1>
+                                <h1 id="key-problems"><a class="anchor" href="#key-problems">#</a>1. Key Problems</h1>
                                 <p>Our T7 expression model enables host bacterial enzyme production with 3 basic parts: genes encoding T7 phage polymerase, inhibitor protein gp, and target Bst (GFP in our lab experiments) with T7P promoter.</p>
                                 <p>Gp2 and gp5.7 are two inhibitors of host bacteria genes by binding specifically to transcription factors σ70 and σs. Thus, to purify our target protein, it’s necessary to downregulate the endogenous protein of E. coli.
                                     We designed two ways to express Igp5.7 which will inhibit ss, and the first aim of our model is to demonstrate the better one.</p>
@@ -117,7 +117,7 @@
                                     <li>High Expression and Purity of Target Protein Bst (written GFP in our model).</li>
                                     <li>Better Way to Downregulate Endogenous Transcription</li>
                                 </ol>
-                                <h1 id="key-parameters-and-processes"><a class="anchor" href="#key-parameters-and-processes">#</a> Key Parameters and Processes</h1>
+                                <h1 id="key-parameters-and-processes"><a class="anchor" href="#key-parameters-and-processes">#</a>2. Key Parameters and Processes</h1>
                                 <p>To accurately describe our reactions and system behavior, our model is based on Kinetic Equations and Modeling. Our model basically involves four parts: 1. Kinetic Constant, 2. Key Variable, 3. Key Process, 4. Key Differential
                                     Equation.
                                 </p>
@@ -162,8 +162,9 @@
                                 </p>
                                 <p>Parameter itself represents its own concentration. To: 1. Choose the best plan for Igp5.7 expression, 2. Seek the best induction time. We here list some main parameters.</p>
                                 <p><img data-src="https://2021.igem.org/wiki/images/2/2c/T--Fudan--modeling12.jpg" alt="pic"><br><strong>Table 2.4 List of all main parameters found in multiple equations.</strong></p>
-                                <p>Due to the complexity of our model, it’s hard to list them all. Here is the link for all equations:</p>
-                                <h1 id="parameter-tuning-and-validate"><a class="anchor" href="#parameter-tuning-and-validate">#</a> Parameter Tuning and Validate</h1>
+                                <p>To simiplifed the presentation on thie wiki page, we only explained the important equations. Below is the link for all equations:<br/>
+                                    <a href="@@@@T--Fudan--Equations-in-modeling-20211021.pdf" target="_blank">Equations in modeling ver.2021.10.21</a></p>
+                                <h1 id="parameter-tuning-and-validate"><a class="anchor" href="#parameter-tuning-and-validate">#</a>3. Parameter Tuning and Validate</h1>
                                 <h2 id="simulate-with-runge-kutta-method"><a class="anchor" href="#simulate-with-runge-kutta-method">#</a> Simulate with Runge-Kutta Method</h2>
                                 <p>Due to the complexity of the whole model, the analytical solution of function cannot be analyzed in elementary function. Floating points are essential in our model as we mentioned. Therefore, Euler's Method as a general
                                     simulation method cannot meet the accuracy. To match real curve to the most, we choose Runge-Kutta Method rather than Euler’s Method.</p>
@@ -193,7 +194,7 @@
                                 <p>GFP1~6 are experiment data, points</p>
                                 <p><strong>Reference:</strong></p>
                                 <p>[7]: Arnoldini M, Heck T, Blanco-Fernández A, et al. Monitoring of dynamic microbiological processes using real-time flow cytometry[J]. PloS one, 2013, 8(11): e80117.</p>
-                                <h1 id="results"><a class="anchor" href="#results">#</a> Results</h1>
+                                <h1 id="results"><a class="anchor" href="#results">#</a>4. Results</h1>
                                 <h2 id="induction-addition"><a class="anchor" href="#induction-addition">#</a> Induction Addition</h2>
                                 <p>Two states of inducers include intercellular and extracellular. We assumed active transport for inducer transmembrane. Set aside the quantity of internal ATP, we considered the kinetic modeling of transport as linear. Thus,
                                     the intercellular inducer concentration can be measured more effectively. Here we show a figure of lactose. It's clear that extracellular lactose is transported effectively while intercellular lactose is consumed indicating
