@@ -146,7 +146,7 @@
                                 <p><img data-src="https://2021.igem.org/wiki/images/2/28/T--Fudan--modeling7.jpg" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/b/bd/T--Fudan--modeling8.jpg" alt="pic"><br><strong>Table 2.2 List of all the key variables in 5 categories: transcription factors, mRNAs, proteins, inducers, complexes. Concentration unit is mmol/mL.</strong></p>
                                 <p>References of Variables</p>
                                 <p>[5] Battesti A, Majdalani N, Gottesman S. The RpoS-mediated general stress response in Escherichia coli[J]. Annual review of microbiology, 2011, 65: 189-213.</p>
-                                <p>[6] Tabib-Salazar A, Liu B, Barker D, et al. T7 phage factor required for managing RpoS in Escherichia coli[J]. Proceedings of the National Academy of Sciences, 2018, 115(23): E5353-E5362.</p>
+                                <p>[6] Tabib-Salazar A, Liu B, Barker D, <i>et al</i>. T7 phage factor required for managing RpoS in Escherichia coli[J]. Proceedings of the National Academy of Sciences, 2018, 115(23): E5353-E5362.</p>
                                 <h2 id="key-processes-in-model"><a class="anchor" href="#key-processes-in-model">#</a> Key Processes in Model</h2>
                                 <p>To clearly simulate our model, we set the processes below to explain our understanding of the whole reaction. All processes are presented with a kinetic model. Parameters on the left show <strong>the Substances Involved in the Reaction</strong>.
                                     Parameters on the arrow with a “K” are the kinetic constant present <strong>the Speed</strong> of this reaction. Parameters on the right are <strong>the Products</strong> of corresponding reaction. Thus, we can briefly
@@ -193,7 +193,7 @@
                                 <p>P1, blue line, model protein.</p>
                                 <p>GFP1~6 are experiment data, points</p>
                                 <p><strong>Reference:</strong></p>
-                                <p>[7]: Arnoldini M, Heck T, Blanco-Fernández A, et al. Monitoring of dynamic microbiological processes using real-time flow cytometry[J]. PloS one, 2013, 8(11): e80117.</p>
+                                <p>[7]: Arnoldini M, Heck T, Blanco-Fernández A, <i>et al</i>. Monitoring of dynamic microbiological processes using real-time flow cytometry[J]. PloS one, 2013, 8(11): e80117.</p>
                                 <h1 id="results"><a class="anchor" href="#results">#</a>4. Results</h1>
                                 <h2 id="induction-addition"><a class="anchor" href="#induction-addition">#</a> Induction Addition</h2>
                                 <p>Two states of inducers include intercellular and extracellular. We assumed active transport for inducer transmembrane. Set aside the quantity of internal ATP, we considered the kinetic modeling of transport as linear. Thus,
@@ -266,7 +266,7 @@
 <p>Please download our modeling script and result figures from <a href="https://github.com/Fudan-iGEM/2021-model" target="_blank">https://github.com/Fudan-iGEM/2021-model</a>.</p>
                                 <p>To summarize, we achieved an accurate description of the T7-<i>E. coli</i> expression model with a complex network of interrelated biochemical reactions. We included all processes (transcription, translation, inhibition, transmembrane
                                     transportation, etc.) in our ODEs and chose to run Runge-Kutta method with ode45 to achieve optimum fitting.</p>
-                                <p></p>
+                                <!-- p empty -->
                                 <p>We derived all parameters reliably through references and rationale. We further tuned our parameters based on several important and reasonable assumptions：(i)We reasoned that the ideal curve for all variables must converge
                                     in a system with unlimited materials. This gave us a direct way to examine whether unknown parameters have been tuned correctly. (ii) We described bacteria metabolic stress with the rate of endogenous protein expression.
                                     (iii) We took minimum values into consideration to reflect how extremely small amounts of elements could participate in reactions.</p>
