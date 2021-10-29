@@ -20,7 +20,7 @@ def fetch_create(filename):
 </head>
 <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_%s skin-igem action-view pace-done loaded">
 <div id="globalWrapper"><div id="top_menu_14"></div>
-<div class="igem_content_wrapper">
+<!-- div.menu_container --> <div class="igem_content_wrapper">
 <div class="igem_column_wrapper">
 <!--
     hexo hexo
