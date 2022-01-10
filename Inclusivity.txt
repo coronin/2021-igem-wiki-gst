@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Inclusivity</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Inclusivity skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Inclusivity</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+
+
+<p class="note info">Updated on 2021-11-18: You might found <a href="https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf" target="_blank">this file, which we prepared for the Judging Session,</a> helpful to understand our goals, approaches and what have been achieved.</p>
+<p class="note danger">Updated on 2021-11-10: we were nominated for the Best Inclusivity award.</p>
+
+                                <h1 id="highlights-of-inclusivity"><a class="anchor" href="#highlights-of-inclusivity">#</a> More access to SynBio</h1>
+                                <p>This year, Team Fudan included children with intellectual disabilities and the elderly into the learning community of synthetic biology, and built bridges for them to access synthetic biology.</p>
+                                <p>To investigate the barriers, we had interviews with experts studying senior citizens and professors in the field of lifelong education. We also conducted surveys of 87 elderly people across 16 districts in Shanghai.</p>
+                                <p>Considering the preference of elderly in Shanghai is socializing in the park, we designed posters and promoted synthetic biology and our project in the park. We cataloged all the games produced by previous iGEM teams, and
+                                    noticed the gap for the elderly so we programmed two new games suitable for the elderly. We also built senior-friendly wiki. We introduced synthetic biology to children with intellectual disabilities in a local Sunshine
+                                    House and the local university of the third age. Our efforts allow a wider population to access synthetic biology.</p>
+                                <h1 id="inclusion-of-our-project"><a class="anchor" href="#inclusion-of-our-project">#</a> Inclusion</h1>
+                                <p>Inclusion has been deeply rooted in our project -- from the project design to a more comprehensive endeavor to shed light on STEM, we hope to influence as many people as possible.</p>
+                                <p>Our product aims to provide simple, fast, and cheap detection of <i>C. albicans</i>, a pathogen causing vulvovaginal candidiasis. We paid extra attention to providing access for comprehensive potential users. First, we fully took
+                                    resource-limited users into consideration. Through the gene circuits we designed, the cost of our product could be tremendously lowered, and poverty will no longer be the barrier to detection for women. What's more,
+                                    we cared about the simplicity of product usage so that we made vivid video instructions aiding users to carry out the detection in both text and video forms, easy to understand for both children and the elderly.</p>
+                                <p>Then we turned our attention beyond the project to the broader field of syn biology and the STEM field and trying to help underrepresented groups get more access to science and synthetic biology.</p>
+                                <p><strong>For each activity we carried out, we divide them into three parts: Motivation, details, and summary, with the motivation introducing why and details conveying how we carried out the activity and the summary summarizing what we learn and how the activity shaped inclusivity as a whole.</strong></p>
+                                <h1 id="build-a-bridge-between-science-and-the-elderly"><a class="anchor" href="#build-a-bridge-between-science-and-the-elderly">#</a> Build a bridge for elderly</h1>
+                                <h2 id="background-aging-trend"><a class="anchor" href="#background-aging-trend">#</a> Background: aging trend</h2>
+                                <p>Shanghai, where our team is located, is one of the largest cities both in China and all over the world. By the end of 2020, the registered population of Shanghai has reached 14.7809 million among which the elderly population
+                                    of 60 and above has been 5.3349 million, <strong>accounting for 36.1% of the total population</strong>.[1]The modern city is challenged by the aging population.</p>
+                                <p>Aging is more than a local phenomenon, according to the United Nations, there were 727 million persons aged 65 years or over in the world in 2020. Over the next three decades, the global number of older persons is projected
+                                    to more than double, and <strong>the share of the global population aged 65 years or over is expected to increase from 9.3 percent in 2020 to 16.0 percent by 2050</strong>(United Nations, 2019a)[2]. With such a growing
+                                    ratio of elderly people among the population, there’s an urgent need for methods to facilitate elderly people to live a better life, preventing them from being lagged in the avalanche of information explosion. As an
+                                    iGEM team, we were inspired that <strong>we shouldn't exclude the elderly from the iGEM community eithe, and access for the aged to synthetic biology and iGEM projects should be produced and improved!</strong></p>
+                                <p>Team Fudan 2020 was the first team in the iGEM community to care about the inclusion of elderly people. They visited the elderly people in pension institutions and wrote a textbook teaching youngsters to educate their elder
+                                    family members. By teaching the elderly people Mulan Quan and imparting health care knowledge to them (<span class="exturl" data-url="aHR0cHM6Ly8yMDIwLmlnZW0ub3JnL1RlYW06RnVkYW4vSW5jbHVzaW9u">https://2020.igem.org/Team:Fudan/Inclusion</span>).
+                                    Team Fudan 2020 endeavored to help the elderly to build a healthier lifestyle, and this year Team Fudan 2021 is building upon our predecessors, hoping to enlarge the influence of our efforts and build a consolidated
+                                    bridge between iGEM and the aged.</p>
+                                <h2 id="investigating-in-depth-the-barriers-to-science-for-local-elderly-people"><a class="anchor" href="#investigating-in-depth-the-barriers-to-science-for-local-elderly-people">#</a> Investigating in depth the barriers to science for local elderly people</h2>
+                                <p>To first get to know systematically about <strong>our target group--local elderly people with age above 60</strong>, we took advantage of literature online, on-campus and off-campus resources. We read research papers (see
+                                    2.1), participated in courses discussing the learning ability of elderly people (see 2.2) and we also held a conversation with specialists (see 2.3) to dig deeper into the current problems for elderly to learn (not
+                                    only synthetic biology) and possible solutions. Finally, we designed a questionnaire ourselves and investigated 96 respondents covering 16 districts of Shanghai to enhance the comprehensiveness of the list of barriers
+                                    we summarized.</p>
+                                <h3 id="literature-studying-of-characteristics-of-the-local-elderly"><a class="anchor" href="#literature-studying-of-characteristics-of-the-local-elderly">#</a> Literature studying of characteristics of the local elderly</h3>
+                                <h4 id="motivation"><a class="anchor" href="#motivation">#</a> Motivation</h4>
+                                <p>Literatures provide a systematic insight into the elderly's living and learning characteristics. Only by standing on giants' shoulders can we propose a valued solution to the barriers between science and the elderly in
+                                    order to uplift the life quality of the elderly.</p>
+                                <h4 id="details"><a class="anchor" href="#details">#</a> Details</h4>
+                                <p>Works of literature studies went through the whole inclusivity project. Each time we got inspired, we turned to the literature for further understandings. (If you are curious about the improvement cycle of inclusivity,
+                                    see the text below.)</p>
+                                <h5 id="basic-demography-of-the-elderly-in-shanghai"><a class="anchor" href="#basic-demography-of-the-elderly-in-shanghai">#</a> Basic demography of the elderly in Shanghai</h5>
+                                <p>By the end of 2020, the registered population of Shanghai has reached 14.7809 million among which the elderly population of 60 and above has been 5.3349 million, <strong>accounting for 36.1% of the total population</strong>.</p>
+                                <h5 id="the-learning-characteristic-of-the-elderly-in-shanghai"><a class="anchor" href="#the-learning-characteristic-of-the-elderly-in-shanghai">#</a> The learning characteristic of the elderly in Shanghai</h5>
+                                <p>(1) Significance and goals of learning of the elderly in Shanghai</p>
+                                <p>First, it is assumed that learning should help lift the elderly's quality of life, which is defined as the elderly's right to their material life, spiritual and cultural life, physical and mental health, their quality and
+                                    enjoyment, and the overall evaluation of objective conditions and subjective feelings in terms of rights and interests and living environment. [3]</p>
+                                <p>Plus, with the deepening of aging in Shanghai, a large number of elderly people have left their jobs. Many of them still have a strong demand to continue to serve the community, but because of the lack of learning opportunities
+                                    and various reasons, their demands have not been well responded to, resulting in a large number of elderly human resources being idle and wasted. Under such a background, providing high-quality education and promoting
+                                    learning among the elderly is of great practical significance, which prepares the elderly as important human resources. [4]</p>
+                                <p>(2) Learning needs of the elderly in Shanghai</p>
+                                <p>In and existing investigation and analysis of the learning purpose of the elderly students in Chengjiaqiao Community School, it is learned that the top five purposes for the elderly students to participate in community
+                                    school learning activities are **&quot;satisfying their own interests and hobbies&quot;**accounted for 72.8%, 50.6% for <strong>&quot;learning new knowledge and keeping pace with the times&quot;</strong>, 46.2% for
+                                    <strong>&quot;strong physical fitness, physical and mental health&quot;,</strong> and 31.7% for <strong>&quot;making friends and protecting the circle of communication&quot;</strong>. So visible, a considerable proportion
+                                    of the elderly into community schools to learn in order to meet their own interests and hobbies, is to improve their own quality, improve themselves: is to constantly charge, constantly learn new knowledge, keep up
+                                    with the development of the times, keep up with the development of society. [5]</p>
+                                <h5 id="brief-introduction-of-life-long-education-and-senior-educaiton-in-shanghai-and-globally"><a class="anchor" href="#brief-introduction-of-life-long-education-and-senior-educaiton-in-shanghai-and-globally">#</a> Brief introduction of Life-long education and senior educaiton in Shanghai and globally</h5>
+                                <p>After interviewing professor Rong Wan (see 2.3.2), we noticed that the group of students of the university of the third age is a group of seniors with strong learning needs, especially those who take health care courses,
+                                    their content is very relevant to life sciences, medical, and health, and also related to our projects, so <strong>we decided to use the university of third age in Shanghai as a cut-off to build bridges between the seniors and the iGEM community.</strong>                                    We collected relevant information about the senior universities, by browsing the admission information of the various senior universities in Shanghai, visits to senior universities, and we then have some overall understanding
+                                    of the current curriculum of geriatric universities, in order to follow up the selection of suitable locations for synthetic biology preaching among the students there.</p>
+                                <p>With the French &quot;third-age university&quot; in 1972 and the founding of the Red Cross University in Shandong Province in 1983 as the symbol, the modern old age education in the West has only gone through more than
+                                    40 years of history, while the modern street education in China is only 30 years old, and the old age education is still in the early stage of exploration. In order to solve the problem of the aging of the world's population,
+                                    the World Congress, held in Vissner in 1982, adopted the Vienna International Plan of Action on Ageing, which raised the issue of the development of education for the elderly, and called on governments around the world
+                                    to take practical and effective measures to address the development of education for the elderly. There are three main definitions of old age education in domestic academic circles: the first definition of old age education
+                                    is that &quot;old age education is the later stage of lifelong education, is also an important part of adult education, is a person's life to accept the last branch of the series of education.&quot; The second definition
+                                    of old age education is that &quot;the study and education activities in the process of old age education are aimed at increasing the knowledge of the humanities of the elderly, in order to enrich the leisure and old
+                                    life of the elderly, in order to enhance the spiritual quality of the elderly, in order to cultivate the sentiment of the elderly, improve and enhance the health of the elderly&quot;. The third kind defines the connotation
+                                    of old age education from both broad sense and obtained meaning. <strong>Broadly speaking, geriatric education refers to a variety of colorful, various types of learning and education activities, these activities will have a positive and positive impact on the knowledge and skills of the elderly, physical and mental health level, self-improvement and promotion level. In terms of entitlement, old-age education refers to all learning and educational activities received by older persons at senior universities or at local schools/community schools.[5]</strong></p>
+                                <h4 id="summary"><a class="anchor" href="#summary">#</a> Summary</h4>
+                                <p>Through literature study, we can tell that Shanghai has plentiful high-quality education resources-including scientific learning resources for elderly people and the elderly have strong learning desire as well as learning
+                                    capabilities. However, there are barriers keeping the elderly away from learning such as health conditions, the drain of intellectual ability, and so on. For us, <strong>we were inspired that we should take advantage of the current resources</strong>                                    and connect the elderly to science more broadly while catering to their characteristics and the local public value.</p>
+                                <h3 id="courses-taking"><a class="anchor" href="#courses-taking">#</a> <strong>Courses taking</strong></h3>
+                                <h4 id="motivation-2"><a class="anchor" href="#motivation-2">#</a> <strong>Motivation</strong></h4>
+                                <p>Fudan university is a comprehensive university providing courses of high-quality every summer holiday. These courses are usually themed courses which are taught by several teachers at the same time. This year, we happened
+                                    to have the chance to attend a themed course focusing on named &quot;Demand-based services for the elderly and technological innovation&quot;, which helps the elderly to come across the digital gap.
+                                </p>
+                                <h4 id="details-2"><a class="anchor" href="#details-2">#</a> <strong>Details</strong></h4>
+                                <p>Our team member Kana Ren, a second-year medical student, signed up for the summer course named <strong>&quot;Demand-based services for the elderly and technological innovation&quot;</strong> given by <strong>professor Chen</strong>                                    of Fudan University, whose interest in research is technology and social development for the aged and methods helping the old to tackle with the digital gap. The course focused on how to modify current websites and
+                                    to make them friendly for senior users which provided us with many<strong>inspirations to modify our wiki pages</strong> to cater to the senior's demand which we will discuss in the following content. (see 3.3) We took
+                                    the whole process of courses and discussed the topic with professors after class to understand the current barriers to impart knowledge to the old and facilitate their lives solidly and systematically.
+                                </p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/6/69/T--Fudan--inclusivity17.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/82/T--Fudan--inclusivity9.png" alt="pic"></p>
+                                <p>Figure 1. Our team member Kana Ren attending the online courses</p>
+                                <h4 id="summary-2"><a class="anchor" href="#summary-2">#</a> <strong>Summary</strong></h4>
+                                <p>We were deeply touched while attending the course that the teacher mentioned <strong>the well-being of this group of elderly people includes the enrichment and ensurance of their mental life</strong>, such as the university
+                                    for the third age, which can meet their need to continue to acquire knowledge and maintain an active and healthy life. It is also said by professor Chen to us that she encouraged us to consolidately carry out the inclusivity
+                                    practise for elderly since <strong>study of the elderly requires young minds.</strong></p>
+                                <p>It was summarized in the course that the main barriers fot the elderly to use the internet is that first, they don't want to use the internet since there are problems such as complicated operation demand, small texts and
+                                    much advertisement on the Internet. Second, the elderly can't use the internet because of health conditions or lacking necessary knowledge and instructions and third, they don't dare to surf the Internet because of
+                                    the false and fake information by which they can be easily decieved and suffer from financial loss.</p>
+                                <p><strong>According to the above points, we decided to build an elderly-friendly wiki page which allows the senior to use and get to know about our projects.</strong></p>
+                                <h3 id="interviews-with-specialists"><a class="anchor" href="#interviews-with-specialists">#</a> Interviews with specialists</h3>
+                                <h4 id="interviewing-dean-of-monitoring-center-for-lifelong-learning-needs-and-skills"><a class="anchor" href="#interviewing-dean-of-monitoring-center-for-lifelong-learning-needs-and-skills">#</a> Interviewing dean of Monitoring Center for Lifelong Learning Needs and Skills</h4>
+                                <p><img data-src="https://2021.igem.org/wiki/images/2/25/T--Fudan--inclusivity13.png" alt="pic"><br>Figure 2. Prof. Cuiping Zhou</p>
+                                <h5 id="motivation-3"><a class="anchor" href="#motivation-3">#</a> Motivation</h5>
+                                <p>Life-long education has been discussed a lot in recent years since the best way to avoid being lagged is to keep learning. We managed to contact <strong>professor Cuiping Zhou, vice dean of Monitoring Center for Lifelong Learning Needs and Skills,</strong>                                    who kindly listened to our proposal to include the elderly in the iGEM community as well and our wish to impart knowledge and better education among the aged.</p>
+                                <h5 id="details-3"><a class="anchor" href="#details-3">#</a> Details</h5>
+                                <p>Prof. Zhou shared her work with us and <strong>pointed out what we were trying to focus on should be &quot;Senior education&quot;</strong>. She told us that Shanghai happens to be the city with most universities for
+                                    the third age in China and the government provided plentiful resources for the elderly to learn at low costs. She introduced the current system of senior education in Shanghai and suggested us to dig deeper into the
+                                    elderly's learning needs and characteristics to provide them with useful knowledge in their life which arouses their interests. She mentioned a few points of the elderly's major needs to come to the senior college:
+                                    to socialize, to seek better knowledge about educating their kids and about their health. What's more, courses such as photography, painting, and sports are more popular than mere health-related lectures so <strong>she suggests that we can think about how to get the aged involved by entertaining them.</strong>                                    Finally, she acknowledged our intention to take the elderly into consideration while promoting our projects and wishing to impart knowledge to the elderly and her researches proved that there is a strong desire to learn
+                                    among the aged group and that up to <strong>2/5 of the elderly respondents simply had no idea about how to find learning resources and existing access to the knowledge provided by the government, which also became one of the barriers that we decided to tackle with.</strong></p>
+                                <h5 id="summary-3"><a class="anchor" href="#summary-3">#</a> Summary</h5>
+                                <p>Prof. Zhou provided us with inspiration to take full use of the resouses of Shanghai government-hundreds of universities of the third age in Shanghai and she gave us a list of main reasons that the elderly respondents
+                                    failed to attend the senior college in her latest research. (The list was ranked by the precantage of respondents but we were asked not to entail detailed number of the precentage.)</p>
+                                <ol>
+                                    <li>
+                                        <p><strong>Body disabilities and illness.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>Traffic inconvenience.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>Lack of information and having no idea of the access to senior education.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>Courses are boring or meaningless.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>Teachers at the schools for senior are unprofessional.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>Failure to find interesting courses.</strong></p>
+                                    </li>
+                                    <li>
+                                        <p><strong>The price of attending the university of the third age is too high.</strong></p>
+                                    </li>
+                                </ol>
+                                <h4 id="interviewing-director-of-research-department-of-shanghai-university-of-the-third-age"><a class="anchor" href="#interviewing-director-of-research-department-of-shanghai-university-of-the-third-age">#</a> Interviewing director of Research Department of Shanghai University of the Third Age</h4>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/ba/T--Fudan--inclusivity15.png" alt="pic"></p>
+                                <p>​ <img data-src="https://2021.igem.org/wiki/images/d/db/T--Fudan--inclusivity14.png" alt="pic"></p>
+                                <p>Figure 3. Interviewing Prof. Rong Wan</p>
+                                <h5 id="motivation-4"><a class="anchor" href="#motivation-4">#</a> Motivation</h5>
+                                <p>Inspired by professor Zhou, we continued our research investigation and managed to talk to specialists in the field of senior education - professor Rong Wan.</p>
+                                <h5 id="details-4"><a class="anchor" href="#details-4">#</a> Details</h5>
+                                <p>Prof. Rong Wan is the director of the Research Department of Shanghai University of the Third Age, with research interests in adult education, senior education, education, and education management. She kindly responded
+                                    to our email and had a real-life meeting with our team members and offered us a great amount of information about universities of the third age in Shanghai and provided us with suggestions to promote science among the
+                                    aged.
+                                </p>
+                                <h5 id="summary-4"><a class="anchor" href="#summary-4">#</a> Summary</h5>
+                                <p>Prof. Rong Wan mentioned that there are more arts courses in humanities and social sciences at the university for the elderly than courses in science and technology considering the difficulty of <strong>opening courses in science and technology for elderly requires more professional teachers and resources</strong>                                    while there is higher risks for the courses not welcomed by the elderly.</p>
+                                <p>She also provided further depiction of the old people in Shanghai are different from the old people in the whole country. <strong>Shanghai's elderly people are very rich, and their needs focus more on health, socializing, entertaining and child-raising.</strong></p>
+                                <p>Finally, professor Rong Wan suggested us to contact Jing'an District Amateur School, which is one of the laargest senior school in Shanghai with more than 15,000 senior students. Since our project cares about the health
+                                    of women and we hoped to make detection of vagin pathogens a daily routine for women, we could asked for permission to introduce our project and synthetic biology to the students of the department of health.</p>
+                                <h3 id="real-life-and-online-questionnaire-investigation"><a class="anchor" href="#real-life-and-online-questionnaire-investigation">#</a> Real-life and online questionnaire investigation</h3>
+                                <h4 id="motivation-5"><a class="anchor" href="#motivation-5">#</a> Motivation</h4>
+                                <p>To test the authenticity of the information we gathered and to provide effective solutions against the barriers between science and the elderly, we decided to carry out an investigation on 87 elderly in 16 districts of
+                                    Shanghai. We would like to whether they have access to health/science-related education and what are the possible barriers they encountered.</p>
+                                <h4 id="details-5"><a class="anchor" href="#details-5">#</a> Details</h4>
+                                <p>Within the questionnaire, we collected information as basic demographic information, if they are engaged in any forms of science education activities, what are the possible access they possess to science/health knowledge.
+                                    If they don't have any access to science education, what stopped them from doing so?</p>
+                                <h4 id="results"><a class="anchor" href="#results">#</a> Results</h4>
+                                <p>Our respondents include 38 males and 45 females crossing 16 districts in Shanghai and the main</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/f/f9/T--Fudan--inclusivity3.png" alt="pic"><br>Figure 4. Statistic analysis of barriers to synthetic biology for the elderly</p>
+                                <h3 id="summary-barriers-to-science-for-the-elderly"><a class="anchor" href="#summary-barriers-to-science-for-the-elderly">#</a> Summary: barriers to science for the elderly</h3>
+                                <h4 id="ranking-of-the-barriers-for-elderly-to-science"><a class="anchor" href="#ranking-of-the-barriers-for-elderly-to-science">#</a> Ranking of the barriers for elderly to science:</h4>
+                                <ol>
+                                    <li><strong>Body disabilities and illness.</strong></li>
+                                    <li><strong>Traffic inconvenience.</strong></li>
+                                    <li><strong>Lack of information and having no idea of the access to senior education.</strong></li>
+                                    <li><strong>Lack of interests.</strong></li>
+                                    <li><strong>Teachers at the schools for senior are unprofessional.</strong></li>
+                                    <li><strong>Failure to find interesting courses.</strong></li>
+                                    <li><strong>The price of attending the university of the third age is too high.</strong></li>
+                                </ol>
+                                <h4 id="the-barriers-that-we-endeavored-to-come-across"><a class="anchor" href="#the-barriers-that-we-endeavored-to-come-across">#</a> The barriers that we endeavored to come across</h4>
+                                <p>Among the many barriers, we tried to focus on barriers No.2 and to build a bridge between access to science for seniors. Then we tried to overcome barrier No.3 and No.6 to make science and synsthetic biology more interesting
+                                    and more approachable. Finally, we would like to deal with barrier No.6 and screen quality online resources suitable for the elderly to learn from.</p>
+                                <h2 id="breaking-the-barriers-expand-science-and-synthetic-biology-more-broadly-to-the-elderly-people"><a class="anchor" href="#breaking-the-barriers-expand-science-and-synthetic-biology-more-broadly-to-the-elderly-people">#</a> <strong>Breaking the barriers: expand science and synthetic biology more broadly to the elderly people</strong></h2>
+                                <h3 id="building-a-game-platform-for-the-elderly-to-impart-to-them-fundamental-biology-knowledge"><a class="anchor" href="#building-a-game-platform-for-the-elderly-to-impart-to-them-fundamental-biology-knowledge">#</a> Building a game platform for the elderly to impart to them fundamental biology knowledge</h3>
+                                <h4 id="motivation-6"><a class="anchor" href="#motivation-6">#</a> Motivation</h4>
+                                <p>Taking professor Zhou's advice that most elderly entertaining education a lot more than into consideration and considering the local public value of the elderly, we designed two types of games that we assumed to be attractive
+                                    among the aged group.</p>
+                                <h4 id="details-6"><a class="anchor" href="#details-6">#</a> Details</h4>
+                                <p>We first played ourselves and summarized all the existing game developed by previous iGEM teams and provided a board view for all the games, of which we picked out the games suitable for the elderly.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/19/T--Fudan--inclusivity16.png" alt="pic"><br>Figure 5. Games we summarized
+                                <span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL3dpa2kvaW1hZ2VzL2EvYTUvVC0tRnVkYW4tLUdhbWVTdW1tYXJ5Lnhsc3g=">(GameSummary.xlsx)</span></p>
+                                <p>Then we programmed two brand new games especially for the eldrely but can also be played by people of all ages. <strong>The character size of two games are adjustable and enlarged, and the instructions are plain and simple, offering ease to play.</strong></p>
+                                <p>The first game is named <strong>Synthesis Biology</strong> and players only need to drop a ball at the proper location and two matching balls will be synthesized into a larger ball, after synthesizing a larger ball, a popover
+                                    will appear with basic molecular biology that elderly people can also understand. Balls were assigned with important biological elements such as DNA, RNA, and proteins. Every time a new bigger ball gets synthesized,
+                                    there will be flashcards with simple and fundamental molecular biology knowledge on them and the characters are huge.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/ef/T--Fudan--inclusivity4.png" alt="web game 1"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/48/T--Fudan--Partnership9.png" alt="web game 2"></p>
+                                <p>Figure 6. Screen shots of Sythesis Biology</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly90b21naG9zdHNtaXRoLmdpdGh1Yi5pby9TeW5CaW8vaW5kZXguaHRtbA==">Play it now！</span></p>
+                                <p>The second game is called <strong>Snake</strong>, which is a game that has been existed for decades so that the elderly are familiar with it, we replace the body segment of the snake with different types of amino acids
+                                    and every time elongation with a new type of amino acids take place, brief and interesting information about the nutritional value of the amino acid appears in the middle of the screen with big characters.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/1a/T--Fudan--inclusivity6.png" alt="pic"><br>Figure 7. Screen shots of Snake</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly90b21naG9zdHNtaXRoLmdpdGh1Yi5pby9HcmVlZHlTbmFrZS9tYWluLmh0bWw=">Play it now！</span></p>
+                                <h4 id="collecting-feedback-from-senior-players"><a class="anchor" href="#collecting-feedback-from-senior-players">#</a> Collecting feedback from senior players</h4>
+                                <p>After launching the game on Wechat, we designed a questionnaire collecting feedbacks from our players - the elderly especially.</p>
+                                <h3 id="introducing-synthetic-biology-and-our-project-in-the-university-of-the-third-age"><a class="anchor" href="#introducing-synthetic-biology-and-our-project-in-the-university-of-the-third-age">#</a> Introducing synthetic biology and our project in the university of the third age</h3>
+                                <h4 id="motivation-7"><a class="anchor" href="#motivation-7">#</a> Motivation</h4>
+                                <p>From the above literature review, interviews with experts, and the questionnaire, we concluded that there is a strong learning desire among the elderly and that a great amount of elderly was excluded from synthetic biology
+                                    simply because they were absolutely unaware of available accesses. Therefore, we determined to provide access to synthetic biology and iGEM projects to the elderly students in the university of the third age to <strong>build a bridge between senior school and iGEM.</strong>                                    Meanwhile, we hope to improve the way we promote our project to elderly people excluded in the biological field by collecting feedbacks from our elderly audiences.</p>
+                                <h4 id="details-7"><a class="anchor" href="#details-7">#</a> Details</h4>
+                                <p>After sending dozens of e-mails, we managed to enter the university of the third age in Jingan District of Shanghai and impart fundamental synthetic biology knowledge to the elderly students.</p>
+                                <h5 id="offering-online-synthetic-biology-learning-resources-for-the-elderly"><a class="anchor" href="#offering-online-synthetic-biology-learning-resources-for-the-elderly">#</a> Offering online synthetic biology learning resources for the elderly.</h5>
+                                <p>We provided the teacher of Medicine and health of the elderly with the video resources we screened online that introduces synthetic biology in a plain and simple but also vivid way, which is suitable for the elderly to
+                                    watch and learn from.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b3/T--Fudan--inclusivity7.png" alt="pic"><br>Figure 8. online synthetic biology learning video resources for the elderly.</p>
+                                <h5 id="giving-a-lecture-about-synthetic-biology-and-our-projects-to-the-students-of-the-university-of-the-third-age"><a class="anchor" href="#giving-a-lecture-about-synthetic-biology-and-our-projects-to-the-students-of-the-university-of-the-third-age">#</a> Giving a lecture about synthetic biology and our projects to the students of the
+                                    University of the third age</h5>
+                                <p><img data-src="https://2021.igem.org/wiki/images/a/a2/T--Fudan--inclusivity8.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/82/T--Fudan--inclusivity9.png" alt="pic"></p>
+                                <p>Figure 8. Introducing synthetic biology to the elderly</p>
+                                <h5 id="collecting-feedbacks-and-making-improvements"><a class="anchor" href="#collecting-feedbacks-and-making-improvements">#</a> Collecting feedbacks and making improvements</h5>
+                                <p>At the end of each game, we attached a questionnaire link to facilitate the completion of the game, players enter the questionnaire interface to fill in feedback. Besides, we did a face-to-face investigation with elderly
+                                    people by teaching them how to play the game and collecting their feelings and suggestions.</p>
+                                <p class="note info">Download our questionnaire:
+                                <span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL3dpa2kvaW1hZ2VzLzEvMWEvVC0tRnVkYW4tLWluY2x1c2l2aXR5RDIuZG9jeA==">iGEM in University of the third age.docx</span></p>
+                                <p>We collected 32 answer sheets. Our respendents include 23 women and 19 men, the average age of whom was 63.4. All of them haven't heard of synthetic biology but 35% of them were insterested in biology. After our introduction,
+                                    62.1% of the respondents said they knew slightly about our project and 54% of teh respondents said they knew slightly about synthetic biology.</p>
+                                <p>We recieved feedbacks including suggestions such as prolonging the time of instruction, using more vedio materials and further simplify our language. We were also suggested to bring</p>
+                                <p>When we left, the teacher in the university of the third age thanked us for bringing them an engaging lecture and they kindly <strong>welcomed future teams to come every year and convey the up-front biology knowledge to the elderly using plain and simple language.</strong></p>
+                                <h4 id="summary-5"><a class="anchor" href="#summary-5">#</a> Summary</h4>
+                                <p>Through giving a lecture to the elderly, we found that elderly people actually possess the ability and interest to know about front-edged knowledge and information as long as we provide intriguing and high-quality communication
+                                    to them.</p>
+                                <p><strong>Tips to impart knowledge to the elderly:</strong></p>
+                                <ol>
+                                    <li><strong>The elderly prefer small gifts such as towels and brushes to stationary</strong></li>
+                                    <li><strong>The elderly prefer vedio to ppt (Do not include to much animation!!)</strong></li>
+                                    <li><strong>The elderly prefer analogues close to their lives</strong></li>
+                                    <li><strong>The elderly prefer slow pace and the voice as well as the text should be large and clear.</strong></li>
+                                </ol>
+                                <h3 id="building-a-senior-mode-on-our-wiki"><a class="anchor" href="#building-a-senior-mode-on-our-wiki">#</a> Building a senior mode on our Wiki</h3>
+                                <h4 id="motivation-8"><a class="anchor" href="#motivation-8">#</a> Motivation</h4>
+                                <p>Since we hoped to create access for the aged to our project and the iGEM community, modifying our wiki into an elderly-friendly one will be the first step. After investigations, we decided to improve our wiki according
+                                    to the newly released <strong>&quot;Information technology—Internet content accessibility technical requirements and conformance testing&quot; by the Chinese government</strong>to build standardlized accessible wiki
+                                    pages for the old.</p>
+                                <h4 id="details-8"><a class="anchor" href="#details-8">#</a> Details</h4>
+                                <p>The senior mode mainly include to improvement of the website. <strong>The first is a senior mode button on the right-up corner of the page, which enlarge the text size immediately above 18 pt</strong>, according to the
+                                    Information technology—Internet content accessibility technical requirements and conformance testing. <strong>What's more, we provided voice reading the content of several crucial pages to understand our project.</strong></p>
+                                <p>Click &quot;Senior mode&quot; on these wiki pages to see our suggestion!</p>
+                                <h4 id="summary-6"><a class="anchor" href="#summary-6">#</a> Summary</h4>
+                                <p>Due to time limitation, we failed to test the effect of the senior mode on our wiki, which hopefully could be fulfilled by future teams inspired by us.</p>
+                                <h3 id="park-promotion-of-our-project-and-synthetic-biology-to-the-elderly"><a class="anchor" href="#park-promotion-of-our-project-and-synthetic-biology-to-the-elderly">#</a> Park promotion of our project and synthetic biology to the elderly</h3>
+                                <h4 id="motivation-9"><a class="anchor" href="#motivation-9">#</a> Motivation</h4>
+                                <p>The elderly in China is characterized by socializing in parks. Taking such local public value into concern, we developed</p>
+                                <h4 id="details-9"><a class="anchor" href="#details-9">#</a> Details</h4>
+                                <p>We designed posters of our projects and tried to post them in park but we failed in gaining permission to put it up in the park so we turned to sending out brochures in the park in the morning since that's the time we found
+                                    most elderly in the park and chatting with each other.We received many positive feedback from the elderly in the park who kindly asked who were we, which college we were from and why did we carried out the activity.</p>
+                                <h4 id="summary-7"><a class="anchor" href="#summary-7">#</a> Summary</h4>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL3dpa2kvaW1hZ2VzL2YvZjgvVC0tRnVkYW4tLWluY2x1c2l2aXR5RDEucGRm">Park promotion.pdf</span></p>
+                                <h3 id="bringing-the-elderly-as-well-as-the-general-public-into-the-laboratory-through-a-vlog"><a class="anchor" href="#bringing-the-elderly-as-well-as-the-general-public-into-the-laboratory-through-a-vlog">#</a> Bringing the elderly as well as the general public into the laboratory through a vlog</h3>
+                                <h4 id="motivation-10"><a class="anchor" href="#motivation-10">#</a> Motivation</h4>
+                                <p>As mentioned above, one barrier between science and the elderly is the professionality of science-related courses and the lack of resonance between the elderly and scientific researchers. It is because there is such a huge
+                                    gap between the elderly and the lab that resulted in horror and fierce opposition among the elderly against genetic modification, for example. We made a vlog revealing everyday life in the lab and uploaded it onto our
+                                    bilibili account to give them vivid display of our everyday laboratory life.</p>
+                                <h4 id="details-10"><a class="anchor" href="#details-10">#</a> Details</h4>
+                                <p>which received 5395 views, 110 likes and 242 subscribers. <strong>Many of the viewers were grandparents of our team member who got to know about what their grandchildren were doing in the lab for the very first time</strong>                                    and left messages such as &quot;Wish to see more videos&quot;</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/4d/T--Fudan--inclusivity11.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/5/58/T--Fudan--inclusivity12.png" alt="pic"></p>
+                                <p>Figure 9. Screen shots of the vlog we uploaded on bilibili</p>
+                                <h1 id="lead-children-with-intellectual-disabilities-into-the-field-of-synthetic-biology"><a class="anchor" href="#lead-children-with-intellectual-disabilities-into-the-field-of-synthetic-biology">#</a> Old and young
+                                </h1>
+                                <h2><a class="anchor" href="#visit">#</a> Visit to the Sunshine House</h2>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/e4/T--Fudan--inclusivity1.png" alt="pic"><br>Figure 10. Introducing synthetic biology to children of the Sunshine House</p>
+                                <p>Left picture is the art works of the children dipicting synthetic biology in their mind after our introduction</p>
+                                <p>Our recent practice feels like a process of gradually opening my eyes and being able to see the world. Even though we see only part of it, even though there are no telescopes, even though the horizon is still there. <strong>The experienc provided us a great shock and we were deeply touched so we decided to share the whole record of our feeling.</strong></p>
+                                <p>This was the first exposure to Sunshine Home trainees. Although we imagined all kinds of possible situations and made certain psychological preparations when we drew the PPT the night before, the actual situation will always
+                                    be the one that is accurately out of expectation.</p>
+                                <p>There were six students in total. A is an older uncle. His cognitive level is not much different from that of ordinary uncle in the park, and he lacks the pride of ordinary uncle in the park. B is a girl of the same age
+                                    as us. She is careful, shy and does not talk much, but I believe she must use all her feelings in study and communication. C is the aunt generation, from the dressing style, look and speech way, really look no different
+                                    from ordinary Shanghai aunt; D is a class II intellectual disability, who can only express himself through facial expressions. Illiterate and unable to speak, the degree of mouth opening can be used to distinguish the
+                                    degree of emotional intensity. E is also uncle level. She likes to talk about the elder generation and shakes hands with us formally when we meet. F is of the same age and feels very smart. Sometimes he is distracted
+                                    because he is holding a mobile phone. He reminds us of some naughty boys in primary school.</p>
+                                <h2 id="feelings-of-our-teammember-kana-ren"><a class="anchor" href="#feelings-of-our-teammember-kana-ren">#</a> How Kana felt</h2>
+                                <p><strong>Speak slowly</strong></p>
+                                <p>Speak slowly and clearly. As soon as I met the sunshine House teacher today, language was the first difference I felt. The teacher doesn't speak very fast, and I guess that's the speed that works best for Sunshine Home
+                                    students in their long-term relationship, so that you can hear them clearly and not be offended.</p>
+                                <p><strong>Laugh and laugh</strong></p>
+                                <p>I don't know why, you laugh brilliant! Very sincere. The teacher told me that most of us do not have mobile phones, which means that we do not have such a modern way of self-observation as selfies. I wonder if this is the
+                                    reason why you know more about what kind of laughter is the most sincere expression of emotion in your heart?</p>
+                                <p><strong>To be accepted and tolerated</strong></p>
+                                <p>The content prepared last night was half an hour overtime and only half of it was said. This half is mainly to awaken my various associations as a child, the description of various daily things in life and the way to use
+                                    words and sentences. Keep it as close to life as possible, use lots of metaphors, and make sure students understand how something as scientific as biology is relevant to everyday life. Perhaps too used to passively
+                                    accept knowledge input, so sometimes paralyzed as a child active imagination, only to turn my blunt head and some of the barren imagination of the brain circuit weeding. Many of the links I have never thought about
+                                    since I learned, although some of the links I mentioned can not erase the far-fetched traces of improvism, thanks to the students are also very bought to keep nodding, indicating understanding. As I nodded my head many
+                                    times, I was moved to be understood and gradually felt that this was a process of being accepted and tolerated by you.</p>
+                                <p><strong>practice</strong></p>
+                                <p>I finally came to know and understand the &quot;real&quot; society, or rather, I was allowed to &quot;see&quot; these little parts by embracing the various components of the real world, and tried to piece together in my
+                                    mind the picture of what society was like.</p>
+                                <p><strong>Summary and future prospects</strong></p>
+                                <p>The success of inclusivity should not be measured by how much so-called scientific knowledge is taught to special groups, but by giving them access to synthetic biology knowledge that society cannot.**At the same time,
+                                    we also learned about the way such groups receive information from such popular science.</p>
+                                <p>Aging is a huge and complex problem that could by no means be solved easily, and the intellectual properties of children with disbilities as well as the elderly couldn't be reversed either. However, despite all the barriers
+                                    we firmly believe that with a strong intention to help the minorities to keep up, we will narrow the digital and information gap for them day by day and impart scientific knowledge to more people to benefit their lives.
+                                    As for the iGEM community, we hope that we have provided future iGEM teams with inspirations and references to entail and care about elderly people and children with intellectual disabilities in their projects. Since
+                                    we <strong>uploaded as much editable resources as possible</strong>, we hope our experience can help more people to notice and help such marginalized groups and future teams to build on us.</p>
+
+<h2><a class="anchor" href="#">#</a> References</h2>
+
+                                <ol>
+                                    <li><span class="exturl" data-url="aHR0cDovL3dzamt3LnNoLmdvdi5jbi90anNqMi8yMDIwMDUyNy8wNjg3M2U2ZWM4ZjU0YTE1OGMyNTQ3NWRiYmI1NzRhNi5odG1s">http://wsjkw.sh.gov.cn/tjsj2/20200527/06873e6ec8f54a158c25475dbbb574a6.html</span></li>
+                                    <li>World Population Ageing Report (2019) <span class="exturl" data-url="aHR0cHM6Ly93d3cudW4ub3JnL3poL2dsb2JhbC1pc3N1ZXMvYWdlaW5n">https://www.un.org/zh/global-issues/ageing</span></li>
+                                    <li>Zhou Yuanpeng and Hong Na. (2011) Dilemma and Way Out: Thinking about Improving the Quality of Life of Shanghai's Elderly Population. <em>Scientific Development (10)</em>, 106-112. doi:CNKI:SUN:KXFZ.0.2011-10-015.
+                                    </li>
+                                    <li>Zhai Zeping. Research on human resources development for the elderly in Shanghai under the background of deep aging. East China Normal University, 2015.</li>
+                                    <li>Li Hong. Study on learning needs of the elderly group in Shanghai, Southwest Jiaotong University, 2016</li>
+                                </ol>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#highlights-of-inclusivity"><span class="toc-number">1.</span> <span class="toc-text">More access to SynBio</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#inclusion-of-our-project"><span class="toc-number">2.</span> <span class="toc-text">Inclusion</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#build-a-bridge-between-science-and-the-elderly"><span class="toc-number">3.</span> <span class="toc-text">Build a bridge for elderly</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#background-aging-trend"><span class="toc-number">3.1</span> <span class="toc-text">Background: aging trend</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#investigating-in-depth-the-barriers-to-science-for-local-elderly-people"><span class="toc-number">3.2</span> <span class="toc-text">Investigating in depth the barriers to science for local elderly people</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#literature-studying-of-characteristics-of-the-local-elderly"><span class="toc-number">3.2.1</span> <span class="toc-text">Literature studying of characteristics of the local elderly</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation"><span class="toc-number">3.2.1.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details"><span class="toc-number">3.2.1.2</span> <span class="toc-text">Details</span></a>
+                                                                    <ol class="toc-child">
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#basic-demography-of-the-elderly-in-shanghai"><span class="toc-number">3.2.1.2.1</span> <span class="toc-text">Basic demography of the elderly in Shanghai</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#the-learning-characteristic-of-the-elderly-in-shanghai"><span class="toc-number">3.2.1.2.2</span> <span class="toc-text">The learning characteristic of the elderly in Shanghai</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#brief-introduction-of-life-long-education-and-senior-educaiton-in-shanghai-and-globally"><span class="toc-number">3.2.1.2.3</span> <span class="toc-text">Brief introduction of Life-long education and senior educaiton in Shanghai and globally</span></a></li>
+                                                                    </ol>
+                                                                </li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#summary"><span class="toc-number">3.2.1.3</span> <span class="toc-text">Summary</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#courses-taking"><span class="toc-number">3.2.2</span> <span class="toc-text">Courses taking</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-2"><span class="toc-number">3.2.2.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-2"><span class="toc-number">3.2.2.2</span> <span class="toc-text">Details</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#summary-2"><span class="toc-number">3.2.2.3</span> <span class="toc-text">Summary</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#interviews-with-specialists"><span class="toc-number">3.2.3</span> <span class="toc-text">Interviews with specialists</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#interviewing-dean-of-monitoring-center-for-lifelong-learning-needs-and-skills"><span class="toc-number">3.2.3.1</span> <span class="toc-text">Interviewing dean of Monitoring Center for Lifelong Learning Needs and Skills</span></a>
+                                                                    <ol class="toc-child">
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#motivation-3"><span class="toc-number">3.2.3.1.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#details-3"><span class="toc-number">3.2.3.1.2</span> <span class="toc-text">Details</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#summary-3"><span class="toc-number">3.2.3.1.3</span> <span class="toc-text">Summary</span></a></li>
+                                                                    </ol>
+                                                                </li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#interviewing-director-of-research-department-of-shanghai-university-of-the-third-age"><span class="toc-number">3.2.3.2</span> <span class="toc-text">Interviewing director of Research Department of Shanghai University of the Third Age</span></a>
+                                                                    <ol class="toc-child">
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#motivation-4"><span class="toc-number">3.2.3.2.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#details-4"><span class="toc-number">3.2.3.2.2</span> <span class="toc-text">Details</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#summary-4"><span class="toc-number">3.2.3.2.3</span> <span class="toc-text">Summary</span></a></li>
+                                                                    </ol>
+                                                                </li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#real-life-and-online-questionnaire-investigation"><span class="toc-number">3.2.4</span> <span class="toc-text">Real-life and online questionnaire investigation</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-5"><span class="toc-number">3.2.4.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-5"><span class="toc-number">3.2.4.2</span> <span class="toc-text">Details</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#results"><span class="toc-number">3.2.4.3</span> <span class="toc-text">Results</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#summary-barriers-to-science-for-the-elderly"><span class="toc-number">3.2.5</span> <span class="toc-text">Summary: barriers to science for the elderly</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#ranking-of-the-barriers-for-elderly-to-science"><span class="toc-number">3.2.5.1</span> <span class="toc-text">Ranking of the barriers for elderly to science:</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#the-barriers-that-we-endeavored-to-come-across"><span class="toc-number">3.2.5.2</span> <span class="toc-text">The barriers that we endeavored to come across</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                    </ol>
+                                                </li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#breaking-the-barriers-expand-science-and-synthetic-biology-more-broadly-to-the-elderly-people"><span class="toc-number">3.3</span> <span class="toc-text">Breaking the barriers: expand science and synthetic biology more broadly to the elderly people</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#building-a-game-platform-for-the-elderly-to-impart-to-them-fundamental-biology-knowledge"><span class="toc-number">3.3.1</span> <span class="toc-text">Building a game platform for the elderly to impart to them fundamental biology knowledge</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-6"><span class="toc-number">3.3.1.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-6"><span class="toc-number">3.3.1.2</span> <span class="toc-text">Details</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#collecting-feedback-from-senior-players"><span class="toc-number">3.3.1.3</span> <span class="toc-text">Collecting feedback from senior players</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#introducing-synthetic-biology-and-our-project-in-the-university-of-the-third-age"><span class="toc-number">3.3.2</span> <span class="toc-text">Introducing synthetic biology and our project in the university of the third age</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-7"><span class="toc-number">3.3.2.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-7"><span class="toc-number">3.3.2.2</span> <span class="toc-text">Details</span></a>
+                                                                    <ol class="toc-child">
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#offering-online-synthetic-biology-learning-resources-for-the-elderly"><span class="toc-number">3.3.2.2.1</span> <span class="toc-text">Offering online synthetic biology learning resources for the elderly.</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#giving-a-lecture-about-synthetic-biology-and-our-projects-to-the-students-of-the-university-of-the-third-age"><span class="toc-number">3.3.2.2.2</span> <span class="toc-text">Giving a lecture about synthetic biology and our projects to the students of the University of the third age</span></a></li>
+                                                                        <li class="toc-item toc-level-5"><a class="toc-link" href="#collecting-feedbacks-and-making-improvements"><span class="toc-number">3.3.2.2.3</span> <span class="toc-text">Collecting feedbacks and making improvements</span></a></li>
+                                                                    </ol>
+                                                                </li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#summary-5"><span class="toc-number">3.3.2.3</span> <span class="toc-text">Summary</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#building-a-senior-mode-on-our-wiki"><span class="toc-number">3.3.3</span> <span class="toc-text">Building a senior mode on our Wiki</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-8"><span class="toc-number">3.3.3.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-8"><span class="toc-number">3.3.3.2</span> <span class="toc-text">Details</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#summary-6"><span class="toc-number">3.3.3.3</span> <span class="toc-text">Summary</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#park-promotion-of-our-project-and-synthetic-biology-to-the-elderly"><span class="toc-number">3.3.4</span> <span class="toc-text">Park promotion of our project and synthetic biology to the elderly</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-9"><span class="toc-number">3.3.4.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-9"><span class="toc-number">3.3.4.2</span> <span class="toc-text">Details</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#summary-7"><span class="toc-number">3.3.4.3</span> <span class="toc-text">Summary</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#bringing-the-elderly-as-well-as-the-general-public-into-the-laboratory-through-a-vlog"><span class="toc-number">3.3.5</span> <span class="toc-text">Bringing the elderly as well as the general public into the laboratory through a vlog</span></a>
+                                                            <ol class="toc-child">
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#motivation-10"><span class="toc-number">3.3.5.1</span> <span class="toc-text">Motivation</span></a></li>
+                                                                <li class="toc-item toc-level-4"><a class="toc-link" href="#details-10"><span class="toc-number">3.3.5.2</span> <span class="toc-text">Details</span></a></li>
+                                                            </ol>
+                                                        </li>
+                                                    </ol>
+                                                </li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#lead-children-with-intellectual-disabilities-into-the-field-of-synthetic-biology"><span class="toc-number">4.</span> <span class="toc-text">Old and young</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#visit"><span class="toc-number">4.1</span> <span class="toc-text">Visit the Suneshine House</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#feelings-of-our-teammember-kana-ren"><span class="toc-number">4.2</span> <span class="toc-text">How Kana felt</span></a></li>
+                                            </ol>
+                                        </li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Lead by: Xin&nbsp;Lan</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->

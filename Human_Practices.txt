@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Human_Practices</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Human_Practices skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Human Practice</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+                                <h1 id="overview"><a class="anchor" href="#overview">#</a> Overview</h1>
+                                <p>Having identified the objective of our project as developing a <strong>suitable kit</strong> to test a <strong>widespread menstrual pathogen</strong> for <strong>remote areas with limited facilities</strong>, we adopted
+                                    a novel procedure for our integrated human practice :</p>
+                                <p>a. We first investigated the No Period Shaming Program on campus as a <strong>smaller, local version</strong> of our project to identify main stakeholders and possible problems in distributing menstrual products for common
+                                    use. This inspired our initial idea for <em>Candida Camera</em>: a nucleic acid test for remote areas.</p>
+                                <p>b. Time, cost, required conditions as well as test sensitivity all matter for our project. We then consulted experts and the experience of fellow iGEMers to tackle these issues and further identify the flaws in our design.</p>
+                                <p>c. We decided to <strong>think bigger</strong> by looking into governmental public health policies and thinking about how we can incorporate our potential product into a medical aid program.</p>
+                                <p>The entire storyline is very much like lab work: referring to an existing local program as <strong>pre-experiment data</strong> to locate critical issues, collecting and <strong>processing feedback</strong> to improve our
+                                    project, and then <strong>discussing</strong> the potential impact of our work.</p>
+                                <!-- p empty -->
+                                <h1 id="before-the-lab"><a class="anchor" href="#before-the-lab">#</a> Before the Lab</h1>
+                                <p>On the Fudan campus, a &quot;health towel aid&quot; program caught our attention - women's restrooms in each teaching building are equipped with a sanitary towel mutual aid bag containing one or two separately packaged
+                                    sanitary napkins, providing these aid items to all who require them. We realized, however, that without a registry to keep track of usage, these sanitary napkins would be left in a humid environment for an unknown period,
+                                    making it a potential health hazard.</p>
+                                <p>Our initial idea was to address this problem from the source by testing the sanitary napkins directly, but through discussion, we decided that a cost-efficient test for a menstrual pathogen would yield greater impact and
+                                    suit our objectives better.</p>
+                                <p>Through surveys and interviews, our investigation into the Health Towel Aid Program on campus yielded gave us several insights:</p>
+                                <p>a. Contamination from the environment is a critical issue for aid supplies such as menstrual pads. This led our attention to menstrual pathogen and its detection, which we believe is a solution to the existing problem.</p>
+                                <p>b. A reliable distribution system is needed both for safety and efficiency. Stakeholders would then include not only users but also organizations(preferably government health agencies)distributing medical aid to remote
+                                    areas.
+                                </p>
+                                <!-- p empty -->
+                                <h1 id="feedback-for-the-lab"><a class="anchor" href="#feedback-for-the-lab">#</a> Feedback for the Lab</h1>
+                                <p>Our hope for <em>Candida Camera</em> is for it to be a low-cost, foolp..roof and efficient testing method that can be widely applied in rural areas and third-world regions. After proposing a conceptual solution, integrated
+                                    human practices helped us assess its effectiveness and feasibility through interviews with various stakeholders.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/be/T--Fudan--iHP0.jpg" alt="pic"></p>
+                                <h2 id="identifying-the-problem"><a class="anchor" href="#identifying-the-problem">#</a> Identifying the Problem</h2>
+                                <p>We first needed to understand the current methods in fungi pathogen testing and their limitations. We interviewed Prof. <a href="https://life.fudan.edu.cn/91/61/c28176a299361/page.htm" target="_blank">Guanghua Huang</a> to learn about the lab methods for fungi detection, interviewed Dr. Tingyan Shi to understand
+                                    the limitations of clinical diagnostics for mycotic/fungal infections, studied the work of team UiOslo 2018 who also developed a test for <em>Candida albicans</em>, and interviewed Prof. Hongli Yan to learn about the
+                                    limited medical resources in China’s remote rural areas.</p>
+                                <h2 id="assessing-the-demand"><a class="anchor" href="#assessing-the-demand">#</a> Assessing the Demand</h2>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/91/61/c28176a299361/page.htm" target="_blank">Guanghua Huang</a>, Fudan University - Department of Microbiology and Immunology</p>
+                                <p>Prof. Huang's lab has researched various detection methods on multiple types of fungi pathogen over the years. He told us that apart from DNA tests using PCR(and in our case, isothermal amplification), chromogenic medium
+                                    and biochemical methods are also commonly applied. The issue with chromogenic medium (which requires fungi culture) and specific biochemical reactions is that it requires a lab environment, technicians, and too much
+                                    time.
+                                </p>
+                                <p>Fungi pathogen testing has always lacked sufficient research and therefore there is no established detection limit (the current aim is to make the detection limit as low as possible).</p>
+                                <p>The lack of a reliable detection method for pathogen fungi, specifically one which can be done outside the lab, indicates the demand for our <em>Candida Camera</em>.</p>
+                                <!-- p empty -->
+                                <p>Dr. Tingyan Shi, Zhongshan Hospital Department of Gynecological Oncology</p>
+                                <p>“Most of the patients with <i>C. albicans</i> fungal infection are drug-sensitive to Clotrimazole. They respond well to antifungal treatment at first, but the repeated occurrence is a problem.”</p>
+                                <p class="note info">We learned from Dr. Shi that <em>Candida albicans</em> infections are generally silent infections. For patients who present to the clinic with manifested symptoms, the routine test is leukorrhea examination: swab samples
+                                    of vaginal secretion are treated with 1mL saline and subjected to microscopic examination. Pseudo-capillitium is a defining trait of fungal infection and the mis-diagnostic rate is quite low. Diagnosed patients are
+                                    then treated with antifungal drugs (e.g. Clotrimazole), to which most patients show good sensitivity.</p>
+                                <p>The greatest characteristic of these infections, according to Dr. Shi, is that they occur repetitively, often around monthly periods or when personal hygiene is compromised. Patients are advised to follow up in accordance
+                                    with their monthly periods and take caution when using the medication, as improper use could lead to false-negative results in clinical tests, cause vaginal internal environment disturbance, and most importantly, cause
+                                    drug resistance. Drug-resistant patients are difficult to treat and may suffer greatly in their daily lives.</p>
+                                <p>Her advice: <strong>promote education about medication compliance and awareness for fungal infections</strong>.</p>
+                                <p>Dr. Shi’s insight helped us realize the need for a testing kit accessible and usable for individuals, which could <strong>guide patients with potentially repetitive cases of <em>Candida albicans</em> infection to proper medical treatment</strong>,
+                                    preventing repeated infections and the consequent development of drug infections.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/c/c5/T--Fudan--iHP3.jpg" alt="pic"><br><strong>Interviewing Dr. Tingyan Shi</strong></p>
+                                <p>Team UiOslo, iGEM 2018</p>
+                                <p>In 2018, Team UiOslo developed a fast detection kit for <em>Candida albicans</em> infections using CRISPR/dCas9. The design was to first treat swab samples with glucanase to selectively lyse yeast cells walls, exposing
+                                    the fungal DNA, and then use a modified dCas9 complex to bind to a specific sequence of <em>Candida albicans</em>, cleave its substrate and produce a colored product.</p>
+                                <p>However, this prior project involved too many lab procedures and was not designed to suit the needs of resource-limited areas.</p>
+                                <!-- p empty -->
+                                <p>Prof. Hongli Yan, Changhai Hospital</p>
+                                <p>“Facilities aren’t the biggest issues as they can be solved with more investment, the fundamental problem is that there is no staff to go with the lab.”</p>
+                                <p>Prof. Yan was part of a rural aid program targeting villages in Yunnan province in southwest China. As a medical advisor, he noted that government health agencies invested in a nucleic acid (and in some cases, antigen)
+                                    testing facilities for rural clinics. Also, purchasing analyzing equipment (e.g. hematology analyzer, biochemical analyzer) is within the budget of public clinics.</p>
+                                <p>However, a lack of professional personnel and sufficient investment to rebuild the entire facility limits the testing capacity of rural clinics. Building a PCR lab costs considerably more than equipment, as it also includes
+                                    building a laminar-flow clean room that meets all anti-contamination requirements. Recruiting technicians is also a major issue. Therefore, while highly automated tests can be carried out, a resource for microbiological
+                                    and molecular diagnosis is limited even with an existing lab.</p>
+                                <p>​</p>
+                                <h2 id="proposing-a-conceptual-solution"><a class="anchor" href="#proposing-a-conceptual-solution">#</a> Proposing a Solution</h2>
+                                <p>Summarizing the insight of Prof. Huang and Prof. Yan, lack of professional personnel, testing equipment, and need for lower cost are the 3 factors specifically important for resource-limited areas.</p>
+                                <p>We believe a point-of-care nucleic acid test based on isothermal amplification could address these problems. Using isothermal amplification would lower the detection limit and make our test more sensitive, while a low-cost,
+                                    point-of-care test would have increased accessibility to women in rural areas. We elaborate on our solution and the feedback we received below.</p>
+                                <!-- p empty -->
+                                <h2 id="evaluating-our-solution"><a class="anchor" href="#evaluating-our-solution">#</a> Evaluating our Solution</h2>
+                                <p>The idea for <em>Candida Camera</em> has 3 key concepts: 1) Isothermal amplification of the pathogen genome to remove the necessity of lab equipment. 2) Expression of the required enzyme through a host-vector system to
+                                    further reduce production cost. 3) Applying microfluidic assays to get rapid, visualized results. We interviewed academic players who have done important work on these techniques to understand the status quo of their
+                                    application, as well as their strengths and limitations.</p>
+                                <!-- p empty -->
+                                <p>Prof. <a href="https://life.fudan.edu.cn/e7/3d/c28175a386877/page.htm" target="_blank">Yongming Wang</a>, Fudan University Center for Biotechnology:</p>
+                                <p>According to Prof. Wang’s insight, cascading a Cas-mediated reaction to isothermal amplification is widely applied in lab practice in recent years. Regarding the specific method of isothermal amplification, we were told
+                                    that LAMP and RPA are potentially better alternatives to our tHDA method. When testing RNA viruses, rt-RPA was shown to yield false-positive results, while LAMP is relatively more sensitive and cost-efficient.</p>
+                                <p class="note info">Prof. Wang directed our attention to the issue of sensitivity: do we need high concentrations of nucleic acid samples for the test to be sensitive? (If so, a centrifuge-free processing method would be required to achieve
+                                    POCT) Using microfluidic chips is far less reliable in terms of sensitivity than qPCR (as a smaller sample volume has a smaller chance of collecting the pathogen).</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/6/62/T--Fudan--iHP5.jpg" alt="pic"><br><strong>Interviewing Prof. <a href="https://life.fudan.edu.cn/e7/3d/c28175a386877/page.htm" target="_blank">Yongming Wang</a></strong></p>
+                                <p>Wang Zhao, Fudan University Department of Environmental Science:</p>
+                                <p>The objective of a point-of-care test(POCT) is to be cost-efficient, foolproof, and require no lab equipment. A slightly higher false-positive rate is an acceptable tradeoff but it is important no positive case is missed.</p>
+                                <p>Two considerations based on this principle:</p>
+                                <ol>
+                                    <li>
+                                        <p>Selecting the appropriate nucleic acid extraction method according to the detection threshold. Digesting the pathogen (in this case fungi) cell wall with enzymes like snailase or cellulase is a possible alternative
+                                            to conventional extraction methods. Acquiring a novel method from related papers is difficult, as it is most likely to be protected by corporate confidentiality.</p>
+                                    </li>
+                                    <li>
+                                        <p>Designing a reporting system with adequate sensitivity, low production cost, and visualized results. Fluorescence and electrophoresis have quantified results but cannot be applied outside the lab, and using probes
+                                            would mean a higher production cost.</p>
+                                    </li>
+                                </ol>
+                                <p>LAMP and RPA each have their limitations: LAMP has a much higher yield of false-positive results due to nucleic acid contamination. RPA’s false-positive rate is lower, but has the drawback of higher cost, with 4 types of
+                                    enzymes in the reaction mix.</p>
+                                <p>In terms of our idea for producing the catalytic mix directly from a host-vector system, Dr. Zhao reminded us of the problems it would face in mass production: 1) The difficulty of gaining stable yield due to the volatility
+                                    of induction conditions. 2) Tagging the target protein, if purification is required, might affect its activity; if purification is not required, security issues and quality control in host bacteria production and transportation
+                                    must be taken into consideration.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/0/05/T--Fudan--iHP4.jpg" alt="pic"><br><strong>Interviewing Dr. Wang Zhao</strong></p>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/4f/d1/c31279a413649/page.htm" target="_blank">Lv Hong</a> Fudan University Faculty of Life Sciences</p>
+                                <p>Prof. Lv affirmed the feasibility of in vivo protein expression followed by in vitro catalyzation. She provided insight from previous work of developing and optimizing an in vitro synthetic enzymatic biosystem facilitating
+                                    conversion of starch to mannitol, which was similar to the one-pot reaction we envisioned.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/0/0b/T--Fudan--iHP2.jpg" alt="pic"><br><strong>Interviewing Prof. Hong Lv</strong></p>
+                                <p>Prof. Yongen Fang, Fudan University Department of Chemistry</p>
+                                <p>Prof. Fang recently developed a Bst-FEN1 fusion protein and applied this modified polymerase in a detection/report system following isothermal amplification. He informed us that in his research, the detection limit ranged
+                                    from 100 to 1000 copies per mL and that our unpurified mix could cause inefficient isothermal amplification. He also told us it was possible to link the polymerase of our choice with FEN1 and develop a fusion protein.</p>
+                                <p>In terms of delivery, Prof. Fang said the technique of transporting bacteria at room temperature in the form of lyophilized powder is well developed and could be used to distribute our product. However, biosafety regulations
+                                    must be strictly followed.</p>
+                                <p class="note info">We followed up on Prof. Wang’s comment on bacterial transport and discovered that the use of compound cryoprotectants could <strong>increase bacterial survival rate up to 90% under a storage period of 6 months</strong>,
+                                    which certainly meets our needs.</p>
+                                <!-- p empty -->
+                                <h2 id="impact-on-our-design"><a class="anchor" href="#impact-on-our-design">#</a> Impact on our design</h2>
+                                <p>The feedback collected sums up to 5 aspects: sample collection, testing, kit production, delivery, and disposal. We addressed these issues to the best of our abilities and took the limited resources of remote areas into
+                                    consideration by designing simplified protocols.</p>
+                                <p>Sample Collection:</p>
+                                <p>a. We took Dr. Zhao’s insight into consideration. In our final design, one optional method for DNA extraction uses <strong>snailase</strong> to digest <i>Candida albicans</i> cell walls.</p>
+                                <p>b. For remote areas, vaginal sab samples are quickly processed in 20℃ water. We decided the simplest version of nucleic acid extraction would be to process the sample in 95 ℃ water and directly add the diluted sample to
+                                    our reagent paper.</p>
+                                <!-- p empty -->
+                                <p>Testing:</p>
+                                <p>a. Considering relatively high cost, pollution in the waste disposal, and unsatisfactory sensitivity, we replaced microfluidic chips with <strong>lateral flow assay</strong>. A roughly diluted sample can be directly added,
+                                    which further simplifies the protocol.</p>
+                                <p>b. Inspired by Prof. Fang's work, we designed Bst fusion protein to achieve higher polymerase activity and better amplification results.</p>
+                                <!-- p empty -->
+                                <p>Production:</p>
+                                <p>Dr. Zhao’s concern about the unstable yield of the target protein and the negative effects of Bst polymerase purification on amplification outcome has been addressed in our dry lab practices:</p>
+                                <p>Through modeling, we determined the optimum design for our composite parts which would best inhibit <i>E. coli</i> internal protein expression while maintaining high-level target protein expression, and thus <strong>reducing the necessity for purification</strong>.
+                                    We further identified the best time interval for harvesting protein to ensure <strong>the adequate yield of Bst polymerase and minimum interference from other proteins</strong>.</p>
+                                <!-- p empty -->
+                                <p>Delivery:</p>
+                                <p>We took Prof. Fang’s advice and selected <strong>lyophilized powder</strong> as the delivery form for our <i>E. coli</i> Potentially we consider using cryoprotectants to further reduce cell loss and boost transport efficiency.</p>
+                                <!-- p empty -->
+                                <p>Disposal:</p>
+                                <p>Prof. Fang reminded us that bio-safety must be followed along the whole process, which includes <i>E. coli</i> transportation, testing kit usage, and disposal.</p>
+                                <p>Considering the potential bio-risk of bacterial leakage, we designed our host bacteria to be <strong>auxotrophic</strong>, meaning they would not survive without the necessary nutrients in cell culture.</p>
+                                <p>We also worried about the <strong>accidental spread of the amplified target fragment</strong> since mutations inevitably occur when these fragments are amplified. So we planned to entail a Potassium Permanganate solution
+                                    in our product so as to completely destroy the bacteria as well as its nucleic acid.</p>
+                                <h1 id="further-considerations"><a class="anchor" href="#further-considerations">#</a> Further Considerations</h1>
+                                <h2 id="nucleic-acid-testing-kit-distribution-a-government-policy-study"><a class="anchor" href="#nucleic-acid-testing-kit-distribution-a-government-policy-study">#</a> Nucleic acid testing kit distribution-a government policy study</h2>
+                                <p>Facing the imminent public health crisis of Covid-19, the Chinese government demonstrated its capacity for promoting nucleic acid tests on a national basis. The latest price policy update includes 2 instructions for public
+                                    hospitals nationwide：</p>
+                                <p>a. Nucleic acid/ antigen tests are categorized under the same price policy regardless of the pathogen/ procedure.</p>
+                                <p>b. Consumables used in sample collection, processing, marking, recycling, and issuing diagnostics reports are priced under the medical service price item. <strong>Test kits are excluded from this item and should be priced with zero difference rate</strong>.</p>
+                                <p>The zero difference rate policy mandates medical items be priced at import price at public hospitals and community clinics, with the government offering partial compensation for the lost profit. Under this policy, <strong>cost-efficient consumables are favorable to patients, hospitals, and local governments.</strong></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/bb/T--Fudan--iHP1.jpg" alt="pic"><br><strong>Medicare Office Decree 【2020】30</strong></p>
+                                <p>Website source <span class="exturl" data-url="aHR0cDovL3d3dy5uaHNhLmdvdi5jbi9hcnQvMjAyMC82LzE5L2FydF8zN18zMjY1Lmh0bWw=">http://www.nhsa.gov.cn/art/2020/6/19/art_37_3265.html</span></p>
+                                <p>Our project has 2 major advantages corresponding with national policy:</p>
+                                <p>a. Our <strong>nucleic acid test</strong>, if distributed by local hospitals/clinics, would be under the same price item as other existing nucleic acid tests(e.g. the Covid 19 test). This would mean patient-friendly
+                                    pricing and no additional costs under China's current policy.</p>
+                                <p>b. <strong>Bacterial production of Uvrd enzyme</strong> in our test kit reduces its production cost. As test kits are individually purchased and priced, hospitals and clinics are would be inclined the select low-cost
+                                    kits, which also benefit patients.</p>
+                                <p>c. Apart from production costs, we <strong>lowered transportation requirements</strong> and therefore costs for transportation. Transporting and storing enzymes requires a minimum of -4 ℃ conditions while transporting
+                                    <i>E. coli</i> under room temperature is a developed and low-cost procedure. This reduces the cost of consumable kits from yet another aspect.</p>
+                                <!-- p empty -->
+                                <h2 id="inspiration-to-future-projects"><a class="anchor" href="#inspiration-to-future-projects">#</a> Inspiration to future projects</h2>
+                                <p>There are 3 main ways future teams could benefit from our work:</p>
+                                <p>1. Through interviews, we have reached an accurate understanding of the <strong>medical resource limitations in rural Chinese areas</strong>. Not only have these limitations instructed us in improving our project design,
+                                    but they can also guide future Chinese teams in designing test kits for rural China.</p>
+                                <p>2. Insight regarding <strong>fungi detection</strong> and <strong>designing testing kits for resource-limited regions</strong>. Through interviews, we learned about conventional methods of fungi detection (including
+                                    PCR) and why their limitations make them unsuitable for resource-limited regions. We compared factors including time, cost, sensitivity, accuracy, and facility requirements and identified facility requirements and cost
+                                    as the most important factors for remote areas with little resources. The lab conditions in China’s remote areas, as well as the lower condition requirements in transporting bacteria.</p>
+                                <p class="note info">Based on these insights, our innovation in distributing host bacteria for enzyme production can also <strong>inspire future teams aiming to reduce the transportation/ production cost for their kits</strong>.</p>
+                                <p>3. For future teams in the diagnostics track, we <strong>recommend our cycle as the outline for integrated human practices</strong>: (1) Investigate the conditions of local hospital labs and determine the types of tests
+                                    they can perform; (2) Identify the most important factor for diagnostics under such circumstances: time/ cost/ sensitivity/ accuracy/ minimum requirement for lab facilities; (3) Having identified the most important factor,
+                                    design the project to address this factor as a priority.</p>
+
+
+<h1 id="summ"><a class="anchor" href="#summ">#</a> To summarize</h1>
+
+                                <p><strong>Our iHP helps every step of our project:</strong></p>
+                                <p>(1) We were inspired by an on-campus program and investigated rural hospital conditions to assess the demand of our testing produce.</p>
+                                <p>(2) We consulted academic experts to redesign our isothermal amplification protocol. (3) We studied governmental policies and discussed with stakeholders (health administration, public hospitals, private clinics, individuals
+                                    in both urban and rural areas) whether Candida Camera testing fits into the national public health agenda.</p>
+                                <p class="note info">We then improve our product from all aspects, including but not limited to, cost/production efficiency, user-friendliness, bio-safety, public distribution, and application potential. Here, we present Candicamera, a reliable
+                                    testing kit for resource-limited regions.</p>
+                                <p>Future teams in the diagnostics track could refer both to our findings and to our approaches, for developing kits for rural areas. For projects targeted for different regions, we recommend the following:</p>
+                                <p>(i) Investigate the conditions of targeted regions and determine the types of test they are able to perform;</p>
+                                <p>(ii) Identify the most important factor for targeted users, time/ cost/ sensitivity/ accuracy/ minimum equiretmental requirements/ etc;</p>
+                                <p>(iii) draft an initial proposal and improve it by talking to experts in all areas.</p>
+                                <p>Good Luck!</p>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#overview"><span class="toc-number">1.</span> <span class="toc-text">Overview</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#before-the-lab"><span class="toc-number">2.</span> <span class="toc-text">Before the Lab</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#feedback-for-the-lab"><span class="toc-number">3.</span> <span class="toc-text">Feedback for the Lab</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#identifying-the-problem"><span class="toc-number">3.1.</span> <span class="toc-text">Identifying the Problem</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#assessing-the-demand"><span class="toc-number">3.2.</span> <span class="toc-text">Assessing the Demand</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#proposing-a-conceptual-solution"><span class="toc-number">3.3.</span> <span class="toc-text">Proposing a Solution</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#evaluating-our-solution"><span class="toc-number">3.4.</span> <span class="toc-text">Evaluating our Solution</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#impact-on-our-design"><span class="toc-number">3.5.</span> <span class="toc-text">Impact on our design</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#further-considerations"><span class="toc-number">4.</span> <span class="toc-text">Further Considerations</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#nucleic-acid-testing-kit-distribution-a-government-policy-study"><span class="toc-number">4.1.</span> <span class="toc-text">Nucleic acid testing kit distribution-a government policy study</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#inspiration-to-future-projects"><span class="toc-number">4.2.</span> <span class="toc-text">Inspiration to future projects</span></a></li>
+                                            </ol>
+                                        </li>
+
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#summ"><span class="toc-number">5.</span> <span class="toc-text">To summarize</span></a>
+                                        </li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href=""><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Lead by: Peisong&nbsp;Yan</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->

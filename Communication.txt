@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Communication</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Communication skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Communication</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+                                <p>The purpose of our communication this year is &quot;wider geographical coverage and wider age range&quot;. We earnestly ensured more communication with the elderly and children groups that the past iGEM teams haven't often
+                                    communicated with and combined the knowledge of synthetic biology with our listener's life to entail more fun in the educating process. Also, we attended this year's CCiC8 conference and made a project report, and we
+                                    also popularized the subject knowledge of synthetic biology to middle school students in remote areas. Last but not least, we impart synthetic biology to freshmen in Fudan University while introducing our project to
+                                    them.
+                                </p>
+                                <h1 id="introducing-our-project-at-ccic8"><a class="anchor" href="#introducing-our-project-at-ccic8">#</a> Presenting at CCiC8</h1>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d3/T--Fudan--collaboration3.jpg" alt="pic"><br>Figure 1. the CCiC conference</p>
+                                <p>We attended the CCiC conference in China. At the conference, our team members showed our project concept, gene circuit, product design principle, modeling formula, etc. We fully communicated with other teams to help each
+                                    other and solve problems together. Finally, we also won the best presentation and other awards at this CCiC conference.</p>
+                                <h1 id="a-lecture-for-the-university-of-the-elderly"><a class="anchor" href="#a-lecture-for-the-university-of-the-elderly">#</a> A lecture for the elderly</h1>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/82/T--Fudan--inclusivity9.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/a/a2/T--Fudan--inclusivity8.png" alt="pic"></p>
+                                <p>Figure 2. the lecture for the old</p>
+                                <p>We went to the University of the Elderly to introduce the knowledge of synthetic biology and our project to the elderly. In the process of education, we first guided the elderly to imagine their life and biology-related
+                                    content, and then we introduced the knowledge of synthetic biology to them in detail. We also had many interactions with the elderly and deepened their understanding of synthetic biology from our answers. We also introduced
+                                    our project to the elderly, so that we can further popularize the knowledge of synthetic biology combined with the project. Finally, we asked the elderly to fill out a questionnaire to investigate their learning of
+                                    synthetic biology. The results showed that our education effect was very good.</p>
+                                <h1 id="introducing-our-program-and-synthetic-biology-to-children-with-intellectual-disabilities"><a class="anchor" href="#introducing-our-program-and-synthetic-biology-to-children-with-intellectual-disabilities">#</a> To children with intellectual disabilities</h1>
+                                <p><img data-src="https://2021.igem.org/wiki/images/c/c9/T--Fudan--SDG20.png" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/e/e4/T--Fudan--inclusivity1.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/9/9e/T--Fudan--inclusivity2.png" alt="pic"></p>
+                                <p>Figure 3. the &quot;Sunshine House&quot; lecture</p>
+                                <p>We got in touch with the &quot;sunshine house&quot; in the community and introduced the knowledge of synthetic biology and our project-related information to children with intellectual disabilities. By personifying the
+                                    knowledge of synthetic biology and combining it with life reality, we brought these children a rich and interesting lecture on synthetic biology. At the beginning of the lecture, we asked the children to describe the
+                                    biology in their hearts. The children's paintings were full of rich imagination and a lively atmosphere. Then we showed the children the beauty of synthetic biology through lectures and videos. Finally, the children
+                                    gained richly from it and wished them more and more beautiful life in the future.</p>
+                                <h1 id="the-synthetic-biology-lecture-with-the-dream-qinghai-practice-team-of-fudan-university-and-the-women-project-team-of-the-chinese-university-of-hong-kong"><a class="anchor" href="#the-synthetic-biology-lecture-with-the-dream-qinghai-practice-team-of-fudan-university-and-the-women-project-team-of-the-chinese-university-of-hong-kong">#</a> The synthetic biology lecture with
+                                    the &quot;dream Qinghai&quot; practice team of Fudan University and the &quot;Women&quot; project team of the Chinese University of Hong Kong</h1>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b3/T--Fudan--Education13.jpg" alt="pic"><br>Figure 4. the cooperation lecture</p>
+                                <p>In cooperation with Fudan University's &quot;Fumeng Qinghai&quot; practice team and the Chinese University of Hong Kong's &quot;women&quot; practice team, we brought a lecture on synthetic biology to the children of Huangzhong
+                                    No. 1 middle school in Xining City, Qinghai Province through online and offline combination. We combined high school biology textbooks with the expansion of synthetic biology knowledge to bring them DNA and RNA related
+                                    to high school biology, Protein, and other related biological knowledge so that they can feel the current strength of synthetic biology and the bright future.</p>
+                                <h1 id="introducing-the-igem-knowledge-in-the-activity-of-fudan-university"><a class="anchor" href="#introducing-the-igem-knowledge-in-the-activity-of-fudan-university">#</a> iGEM @ Fudan</h1>
+                                <p><img data-src="https://2021.igem.org/wiki/images/0/0b/T--Fudan--Education12.jpg" alt="pic"><br>Figure 5. the activity in Fudan University</p>
+                                <p>We also participated in the activities of many associations in Fudan University and popularized the knowledge of iGEM to the majority of teachers and students. On the site, we made models of gene elements such as promoter,
+                                    ribosomal binding site, terminator, and enhancer. Students can learn about synthetic biology by simulating gene circuits. At the same time, In the game, we also introduced the brief introduction of the iGEM competition,
+                                    so that students can have a better understanding of synthetic biology and iGEM competition.</p>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#introducing-our-project-at-ccic8"><span class="toc-number">1.</span> <span class="toc-text">Presenting at CCiC8</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#a-lecture-for-the-university-of-the-elderly"><span class="toc-number">2.</span> <span class="toc-text">A lecture for the elderly</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#introducing-our-program-and-synthetic-biology-to-children-with-intellectual-disabilities"><span class="toc-number">3.</span> <span class="toc-text">To children with intellectual disabilities</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#the-synthetic-biology-lecture-with-the-dream-qinghai-practice-team-of-fudan-university-and-the-women-project-team-of-the-chinese-university-of-hong-kong"><span class="toc-number">4.</span> <span class="toc-text">Online meetups</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#introducing-the-igem-knowledge-in-the-activity-of-fudan-university"><span class="toc-number">5.</span> <span class="toc-text">iGEM @ Fudan</span></a></li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Lead by: Xin&nbsp;Lan</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->

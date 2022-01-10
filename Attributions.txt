@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Attributions</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Attributions skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Attributions</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+                                <h1 id="abstract"><a class="anchor" href="#abstract">#</a> 2021 Team Fudan</h1>
+                                <p>We are a positive and loving team. From the beginning of the project design, all team members actively participate in project construction and take advantage of their abilities. Through discussion and cooperation, we have
+                                    made a lot of progress both within and outside the competition. We developed a close and trusting relationship and became very good friends.</p>
+                                <h1 id="team"><a class="anchor" href="#team">#</a> Team</h1>
+                                <h2 id="table"><a class="anchor" href="#table">#</a> In a Table</h2>
+                                <p>&quot;🏆&quot; means he or she is responsible for it</p>
+                                <p>&quot; 📷&quot; represents the degree of contribution (ranges from 1 to 5)</p>
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th style="text-align:left"><strong>Name</strong></th>
+                                            <th style="text-align:left"><strong>Wet&nbsp;Lab</strong></th>
+                                            <th style="text-align:left"><strong>Modeling</strong></th>
+                                            <th style="text-align:left"><strong>Human Practice</strong></th>
+                                            <th style="text-align:left"><strong>Software</strong></th>
+                                            <th style="text-align:left"><strong>Videos and Music</strong></th>
+                                            <th style="text-align:left"><strong>Art and Design</strong></th>
+                                            <th style="text-align:left"><strong>Wiki Template</strong></th>
+                                            <th style="text-align:left"><strong>Wiki Contents</strong></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align:left">● Xin&nbsp;Lan</td>
+                                            <td style="text-align:left">🏆LAMP<br/>📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Guonan&nbsp;Cai</td>
+                                            <td style="text-align:left">🏆Measure<br/>📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Chongwen&nbsp;Cao</td>
+                                            <td style="text-align:left">🏆Basic<br/>📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Guanqiao&nbsp;Chi</td>
+                                            <td style="text-align:left;white-space:nowrap">🏆Composite<br/>📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Shitao&nbsp;Gong</td>
+                                            <td style="text-align:left">📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Fei&nbsp;Hu</td>
+                                            <td style="text-align:left">📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Renbin&nbsp;Liu</td>
+                                            <td style="text-align:left">🏆Parts<br/>📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Shaorong&nbsp;Lu</td>
+                                            <td style="text-align:left">📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Runze&nbsp;Miao</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Kana&nbsp;Ren</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Wencheng&nbsp;Shao</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="text-align:left">Peisong&nbsp;Yan</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">🏆📷📷📷📷📷</td>
+                                            <td style="text-align:left">📷📷📷📷</td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left"></td>
+                                            <td style="text-align:left">📷📷</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <h2 id="details"><a class="anchor" href="#details">#</a> Details</h2>
+                                <h3 id="xin-lan"><a class="anchor" href="#xin-lan">#</a> Xin Lan</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/2/2a/T--Fudan--LX.png/180px-T--Fudan--LX.png" alt="people symbol" style="float:right;width:90px">Xin Lan, our dear team leader, takes charge of the Results, Presentation, Experiment, Project description, and Inclusivity part, who also helps in Notebook's writing, Collaborations, Partnership, Communication as well as
+                                    Education. It attributes to her that led us to finish this project. Here are the pages she has taken part in:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRGVzY3JpcHRpb24=">https://2021.igem.org/Team:Fudan/Description</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRXhwZXJpbWVudHM=">https://2021.igem.org/Team:Fudan/Experiments</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vQ29sbGFib3JhdGlvbnM=">https://2021.igem.org/Team:Fudan/Collaborations</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUGFydG5lcnNoaXA=">https://2021.igem.org/Team:Fudan/Partnership</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vQ29tbXVuaWNhdGlvbg==">https://2021.igem.org/Team:Fudan/Communication</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUmVzdWx0cw==">https://2021.igem.org/Team:Fudan/Results</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSW5jbHVzaXZpdHk=">https://2021.igem.org/Team:Fudan/Inclusivity</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRGVzY3JpcHRpb24=">https://2021.igem.org/Team:Fudan/Description</span></p>
+                                <h3 id="chongwen-cao"><a class="anchor" href="#chongwen-cao">#</a> Chongwen Cao</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/f/f5/T--Fudan--CCW.png/180px-T--Fudan--CCW.png" alt="people symbol" style="float:right;width:90px">
+                                Chongwen Cao, responsible for the basic part, is one of the main players in the wet lab. He is also in charge of the Notebook, Parts, Improve, and the Results part. Here are the pages he has contributed to:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTm90ZWJvb2s=">https://2021.igem.org/Team:Fudan/Notebook</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUGFydHM=">https://2021.igem.org/Team:Fudan/Parts</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUmVzdWx0cw==">https://2021.igem.org/Team:Fudan/Results</span></p>
+                                <h3 id="guonan-cai"><a class="anchor" href="#guonan-cai">#</a> Guonan Cai</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/7/7b/T--Fudan--CGN.png/240px-T--Fudan--CGN.png" alt="people symbol" style="float:right;width:90px" />
+                                Guonan Cai, another main experimenter of the wet lab, has mainly contributed to Safety, Measurement, and Engineering part. He does also contribute to Notebook's writing, and here are the pages he has taken part in:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTm90ZWJvb2s=">https://2021.igem.org/Team:Fudan/Notebook</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTWVhc3VyZW1lbnQ=">https://2021.igem.org/Team:Fudan/Measurement</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRW5naW5lZXJpbmc=">https://2021.igem.org/Team:Fudan/Engineering</span></p>
+                                <h3 id="guanqiao-chi"><a class="anchor" href="#guanqiao-chi">#</a> Guanqiao Chi</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/d/d6/T--Fudan--CGQ.png/180px-T--Fudan--CGQ.png" alt="people symbol" style="float:right;width:90px">
+                                Guanqiao Chi, our wet lab member who helps with the Notebook, Results, and Parts part. Here are the pages he has taken part in:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTm90ZWJvb2s=">https://2021.igem.org/Team:Fudan/Notebook</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUmVzdWx0cw==">https://2021.igem.org/Team:Fudan/Results</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUGFydHM=">https://2021.igem.org/Team:Fudan/Parts</span></p>
+                                <h3 id="renbin-liu"><a class="anchor" href="#renbin-liu">#</a> Renbin Liu</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/5/5e/T--Fudan--LRB.png/180px-T--Fudan--LRB.png" alt="people symbol" style="float:right;width:90px">
+                                Renbin Liu, taking charge of Part Collections, also contributes to the Notebook, Proof of Concept, Results, and Improve part.</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTm90ZWJvb2s=">https://2021.igem.org/Team:Fudan/Notebook</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUHJvb2ZfT2ZfQ29uY2VwdA==">https://2021.igem.org/Team:Fudan/Proof_Of_Concept</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUmVzdWx0cw==">https://2021.igem.org/Team:Fudan/Results</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vUGFydF9Db2xsZWN0aW9u">https://2021.igem.org/Team:Fudan/Part_Collection</span></p>
+                                <h3 id="shitao-gong"><a class="anchor" href="#shitao-gong">#</a> Shitao Gong</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/1/10/T--Fudan--GJ.png/180px-T--Fudan--GJ.png" alt="people symbol" style="float:right;width:90px">
+                                Shitao Gong, our reliable friend, the master of programming, greatly contributes to software, educational games programs as well as wiki constructions. Here is the Wiki he mainly responded for:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vU29mdHdhcmU=">https://2021.igem.org/Team:Fudan/Software</span></p>
+                                <h3 id="shaorong-lu"><a class="anchor" href="#shaorong-lu">#</a> Shaorong Lu</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/5/59/T--Fudan--O.png/180px-T--Fudan--O.png" alt="people symbol" style="float:right;width:90px">
+                                Shaorong Lu, a student majoring in Biology with a heart of a musician. Besides helping with wet lab experiments and writing software programs, he also takes charge of the promotion video and presentation video. Here are
+                                    the wikis that he is responsible for:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vU29mdHdhcmU=">https://2021.igem.org/Team:Fudan/Software</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vQ29udHJpYnV0aW9u">https://2021.igem.org/Team:Fudan/Contribution</span></p>
+                                <h3 id="peisong-yan"><a class="anchor" href="#peisong-yan">#</a> Peisong Yan</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/0/00/T--Fudan--YPS.png/240px-T--Fudan--YPS.png" alt="people symbol" style="float:right;width:90px" />
+                                Peisong Yan mainly takes charge of the Model, Integrated Human Practices, and Implementation part. Here is the wiki he has contributed to:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSHVtYW5fUHJhY3RpY2Vz">https://2021.igem.org/Team:Fudan/Human_Practices</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSW1wbGVtZW50YXRpb24=">https://2021.igem.org/Team:Fudan/Implementation</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTW9kZWw=">https://2021.igem.org/Team:Fudan/Model</span></p>
+                                <h3 id="wencheng-shao"><a class="anchor" href="#wencheng-shao">#</a> Wencheng Shao</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/c/c9/T--Fudan--SWC.png/180px-T--Fudan--SWC.png" alt="people symbol" style="float:right;width:90px">
+                                Wencheng Shao, an experienced modeler, mainly contributes to the Model part, and here is the wiki link:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vTW9kZWw=">https://2021.igem.org/Team:Fudan/Model</span></p>
+                                <h3 id="kana-ren"><a class="anchor" href="#kana-ren">#</a> Kana Ren</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/7/73/T--Fudan--RKN.png/180px-T--Fudan--RKN.png" alt="people symbol" style="float:right;width:90px">
+                                Kana Ren, our friendly interviewee, uses her lovely personality charm and superb conversation skills to help our team connect with others, and get help from others. Here are the pages of Human Practices and Sustainable
+                                    part she is responsible to:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vU3VzdGFpbmFibGU=">https://2021.igem.org/Team:Fudan/Sustainable</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSHVtYW5fUHJhY3RpY2Vz">https://2021.igem.org/Team:Fudan/Human_Practices</span></p>
+                                <h3 id="runze-miao"><a class="anchor" href="#runze-miao">#</a> Runze Miao</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/b/b3/T--Fudan--MRZ.png/240px-T--Fudan--MRZ.png" alt="people symbol" style="float:right;width:90px" />
+                                Runze Miao, one of the main members of human practice, is responsible for the education part. He designed the games and gave lectures to lots of groups. Here are the pages he has contributed to:</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vRWR1Y2F0aW9u">https://2021.igem.org/Team:Fudan/Education</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSW5jbHVzaXZpdHk=">https://2021.igem.org/Team:Fudan/Inclusivity</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vQ29tbXVuaWNhdGlvbg==">https://2021.igem.org/Team:Fudan/Communication</span></p>
+                                <h3 id="fei-hu"><a class="anchor" href="#fei-hu">#</a> Fei Hu</h3>
+                                <p><img src="https://2021.igem.org/wiki/images/thumb/a/a9/T--Fudan--HF.png/180px-T--Fudan--HF.png" alt="people symbol" style="float:right;width:90px">
+                                Fei Hu, in charge of our team's art design, has designed our team uniform, as well as the Wiki's design. She is also responsible for the Attributions, that is, she is introducing herself now. Here are the pages
+                                    that she is responsible to :</p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vQXR0cmlidXRpb25z">https://2021.igem.org/Team:Fudan/Attributions</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4=">https://2021.igem.org/Team:Fudan</span></p>
+                                <p><span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vVGVhbQ==">https://2021.igem.org/Team:Fudan/Team</span></p>
+                                <h1 id="support"><a class="anchor" href="#support">#</a> Support</h1>
+                                <h2 id="supervisor"><a class="anchor" href="#supervisor">#</a> Supervisors</h2>
+<p><a href="https://life.fudan.edu.cn/e7/3c/c28175a386876/page.htm" target="_blank">Daru Lu</a>, our PI instructor, who secure our funding and help us contact stakeholders.</p>
+<p>Liang Cai, our respectful instructor, not only provide us with lab resources but also instruct us in every part without reservation.</p>
+                                <h2 id="advisors"><a class="anchor" href="#advisors">#</a> Advisors</h2>
+                                <p>Shizheng Tian: Great help during https://ccic8.site</p>
+                                <p>Jingqi Zhang: Help us on the safety form and CCiC8</p>
+                                <p>Yiyang Yao: Great help during https://ccic8.site</p>
+                                <p>Xiaohui Jiang: Help us on CCiC8</p>
+                                <p>Qiu Zhang: Give us advice on human practices</p>
+                                <p class="note info">We are grateful for their timely advice.</p>
+                                <h2 id="other-support"><a class="anchor" href="#other-support">#</a> Other Support</h2>
+                                <p>Changcheng Li</p>
+                                <p>Zetao Hu</p>
+                                <p>Yuanlong He</p>
+                                <p>Chuyue Zhang, Rongrong Du, Yefan Hu: Help us with zoom testing</p>
+                                <p class="note info">We sincerely appreciate their help in the experimental operation.</p>
+                                <h2 id="lab-support"><a class="anchor" href="#lab-support">#</a> Lab Support</h2>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/e7/3c/c28175a386876/page.htm" target="_blank">Daru Lu</a></p>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/b3/74/c28175a308084/page.htm" target="_blank">Jinzhong Lin</a></p>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/e7/3d/c28175a386877/page.htm" target="_blank">Yongming Wang</a></p>
+                                <p>Prof. Hong Lv</p>
+                                <p class="note info">We thank the professors to give us professional and inspiring instructions.</p>
+                                <h2 id="human-practice-support"><a class="anchor" href="#human-practice-support">#</a> Human Practice Support</h2>
+                                <p>Zhaoyu Zhou, a teacher in the School of Innovation and Entrepreneurship, Tongji University. She used to be a designer who focused on women. We appreciate her sincere suggestions on the commercialization of our project.</p>
+                                <p>Yishu Wu, a senior majoring in Economics, participated in an on-campus innovation and entrepreneurship competition, whose project was about an App designed for women's period and health. We discussed her business plan and
+                                    the talk gave both of us inspiration.</p>
+                                <p>Prof. Jing and Prof. Sun, are famous for their project on the mental health of the elderly in rural areas. They offer us an insightful overview of rural issues based on their long-term fieldwork.</p>
+                                <p>Yang, a junior majoring in biology, is one of the organizers of the NoPeriodShaming Program in Fudan. We talk to learn about the NPSP 's story and exchange our opinion about the difficulties women have met nowadays.</p>
+                                <p>Emma is the founder of Relief, which is a cutting-edge lingerie brand dedicated to providing women with comfortable, healthy, and sustainable underwear products driven by innovative technologies. We interviewed her through
+                                    WeChat and got advice on commercialization and marketing.</p>
+                                <p>Two debate teams from Shanghai Medical College of Fudan University and Shanghai Jiao Tong University School of Medicine. They participate in the debate of &quot;SHOULD FREE MENSTRUAL PRODUCTS TO BE LEGISLATED IN CHINA&quot;,
+                                    their opinions did also inspire us to a deeper thinking degree.</p>
+                                <p>Shen Ke is a professor on population policy and intergenerational relationships. We interviewed her after her online lecture, getting a gender view on the seemingly glorious Opening and Reform policy, and learned that inequality
+                                    might be created even it was long thought to be a good-willed policy.</p>
+                                <h2 id="ihp-support"><a class="anchor" href="#ihp-support">#</a> iHP Support</h2>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/91/61/c28176a299361/page.htm" target="_blank">Guanghua Huang</a>, Fudan University - Department of Microbiology and Immunology</p>
+                                <p>Dr. Tingyan Shi, Zhongshan Hospital - Department of Gynecological Oncology</p>
+                                <p>Team UiOslo, iGEM 2018</p>
+                                <p>Prof. Hongli Yan, Changhai Hospital</p>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/e7/3d/c28175a386877/page.htm" target="_blank">Yongming Wang</a>, Fudan University - Center for Biotechnology</p>
+                                <p>Wang Zhao, Fudan University - Department of Environmental Science</p>
+                                <p>Prof. <a href="https://life.fudan.edu.cn/4f/d1/c31279a413649/page.htm" target="_blank">Lv Hong</a>, Fudan University - Faculty of Life Sciences</p>
+                                <p>Prof. Yongen Fang, Fudan University - Department of Chemistry</p>
+                                <p class="note info">We appreciate their support in our iHP.</p>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#abstract"><span class="toc-number">1.</span> <span class="toc-text">Summary</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#team"><span class="toc-number">2.</span> <span class="toc-text">Team</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#table"><span class="toc-number">2.1</span> <span class="toc-text">In a Table</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#details"><span class="toc-number">2.2</span> <span class="toc-text">Details</span></a>
+                                                    <ol class="toc-child">
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#xin-lan"><span class="toc-number">2.2.1</span> <span class="toc-text">Xin Lan</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#chongwen-cao"><span class="toc-number">2.2.2</span> <span class="toc-text">Chongwen Cao</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#guonan-cai"><span class="toc-number">2.2.3</span> <span class="toc-text">Guonan Cai</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#guanqiao-chi"><span class="toc-number">2.2.4</span> <span class="toc-text">Guanqiao Chi</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#renbin-liu"><span class="toc-number">2.2.5</span> <span class="toc-text">Renbin Liu</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#shitao-gong"><span class="toc-number">2.2.6</span> <span class="toc-text">Shitao Gong</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#shaorong-lu"><span class="toc-number">2.2.7</span> <span class="toc-text">Shaorong Lu</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#peisong-yan"><span class="toc-number">2.2.8</span> <span class="toc-text">Peisong Yan</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#wencheng-shao"><span class="toc-number">2.2.9</span> <span class="toc-text">Wencheng Shao</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#kana-ren"><span class="toc-number">2.2.10</span> <span class="toc-text">Kana Ren</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#runze-miao"><span class="toc-number">2.2.11</span> <span class="toc-text">Runze Miao</span></a></li>
+                                                        <li class="toc-item toc-level-3"><a class="toc-link" href="#fei-hu"><span class="toc-number">2.2.12</span> <span class="toc-text">Fei Hu</span></a></li>
+                                                    </ol>
+                                                </li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#support"><span class="toc-number">3.</span> <span class="toc-text">Support</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#supervisor"><span class="toc-number">3.1</span> <span class="toc-text">Supervisors</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#advisors"><span class="toc-number">3.2</span> <span class="toc-text">Advisors</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#other-support"><span class="toc-number">3.3</span> <span class="toc-text">Other Support</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#lab-support"><span class="toc-number">3.4</span> <span class="toc-text">Lab Support</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#human-practice-support"><span class="toc-number">3.5</span> <span class="toc-text">Human Practice Support</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#ihp-support"><span class="toc-number">3.6</span> <span class="toc-text">iHP Support</span></a></li>
+                                            </ol>
+                                        </li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Members</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Written by: Fei&nbsp;Hu</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->

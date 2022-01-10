@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Sustainable</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Sustainable skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Sustainable<br>With CandiCamera What Can We Do</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+
+<p class="note info">Updated on 2021-11-18: You might found <a href="https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf" target="_blank">this file, which we prepared for the Judging Session,</a> helpful to understand our goals, approaches and what have been achieved.</p>
+<p class="note danger">Updated on 2021-11-10: we were nominated for the Best Sustainability award.</p>
+
+                                <h1 id="overview"><a class="anchor" href="#overview">#</a> <strong>Overview</strong></h1>
+                                <p>We conducted a series of SDG activities around women. The focus is on SDG5 -- gender equality, cooperation with SDG10 -- reducing inequality, SDG12 -- responsible production and consumption, SDG16 -- peace justice, and
+                                    strong institutions. Our activities include organizing and studying the No Period Shaming Project on campus, debates on policies, holding feminism workshops, discussing and improving our project with entrepreneurs,
+                                    designers, and other stakeholders. In addition, we studied the serious aging problem of Shanghai. We studied the right to get educated, especially intellectually disabled and elderly. Our sustainability studies focus
+                                    on SDG5, and expanded into other SDGs, with detailed documentation for others to build on in future projects.</p>
+                                <p>Our project on <em>Candida albicans</em> testing started with keywords including</p>
+                                <p><strong>menstrual period and vaginal health.</strong></p>
+                                <p>To achieve our goal, we design and improve our experiments, hoping that one day our paltry effort could help women get better informed of their vaginal health, without the shame of worldly prejudice or real-life difficulty
+                                    caused by it. For most women in the world, vaginal health is of the same importance as intestinal health or respiratory tract health. They are all part of their body and worthy of equal attention, or even more attention
+                                    if there’s something wrong with their health condition.</p>
+                                <p>Not long did we realize that to achieve our goal or in other words get closer, we had to step out of the lab, walk into real life and get more people involved in our project.</p>
+                                <p>In our process of observation, practice, and reflection, it dawned on us that seventeen <strong>Sustainable Development Goals</strong>(SDGs) are not isolated but concepts interwoven with each other in our own investigations,
+                                    interviews, and debates.</p>
+                                <p>As John Donn has put down the concept of universal relation in poetic words:</p>
+                                <p><em>'No man is an island.'</em></p>
+                                <p>The sociality of human beings has put everyone and everything in a universal relation. Sustainable Development Goals are no exception and being beautiful pursuits of human life, they are also part of the universal relation,
+                                    which are interrelated and interactive. This is an insight we've learned about SDGs from our practice.</p>
+                                <p>The main concern of our project is SDG5, <strong>Gender Equality</strong>, and other SDGs——SDG10, <strong>Reduced Inequality</strong>, SDG12, <strong>Responsible Consumption and Production</strong> and SDG16, <strong>Peace Justice and Strong Institutions</strong>                                    are also included.</p>
+                                <h1 id="sdg-5-gender-equality"><a class="anchor" href="#sdg-5-gender-equality">#</a> <strong>SDG 5 Gender Equality</strong></h1>
+                                <blockquote>
+                                    <p><em>Achieve gender equality and empower all women and girls.</em><br><em>Gender equality is not just a primary human right, but also the cornerstone for peace prosperity, and sustainability of the world.</em><br><em>UN</em></p>
+                                </blockquote>
+                                <h1 id="no-period-shaming-projectnpsp-on-campus-of-fudan"><a class="anchor" href="#no-period-shaming-projectnpsp-on-campus-of-fudan">#</a> <strong>No Period Shaming Project</strong></h1>
+                                <p>The story begins with a packet in the toilet.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/81/T--Fudan--SDG4.JPG" alt="pic"><br>“Being a girl growing up with the habit of taking my menstrual pad everywhere in case of the sudden visit, I was more than surprised
+                                    to embrace the idea. Even though it’s just for emergencies like you’ve changed your bag and totally forgot your coming period. No Period Shaming is more than a helping hand in emergencies but spiritual support. Boys
+                                    could never imagine how torturing period feels but for most girls, we have no choice but to suffer it, monthly.”</p>
+                                <p>That’s exactly how I feel at the beginning of our story. But being a team, we soon realized that we could do more.</p>
+                                <h2 id="questionnaire-how-is-no-period-shaming-program-from-a-students-perspective"><a class="anchor" href="#questionnaire-how-is-no-period-shaming-program-from-a-students-perspective">#</a> <strong>Questionnaire: how is No Period Shaming Program from a student’s perspective?</strong></h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p>We distributed questionnaires to students randomly and collected 138 copies. Most of the interviewees are <strong>students taking course in school building within the scope of our activities.</strong></p>
+                                <ul>
+                                    <li>Why did we choose them?</li>
+                                </ul>
+                                <p>The questionnaire was distributed online and spread in WeChat groups by students of Fudan University. So, it might be the interviewees that had chosen us, with their <strong>concern and expectation to NPSP, trusting that we could make NPSP better</strong>.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>Here is the <strong>questionnaire analysis</strong>.</p>
+                                <p><em>A total of 138 questionnaires were collected, 120 of which met the requirement of &quot;having used women's restroom in teaching building of Handan Campus&quot;, and were recorded as group A. A total of 10 cases eligible for &quot;used sanitary napkins placed in toilets&quot; were marked as group B.</em></p>
+                                <p><em><strong>For group A:</strong></em></p>
+                                <p><em>94.17% of the students agreed that &quot;the humid environment of the toilet will breed pathogenic bacteria&quot;, (1.1)</em></p>
+                                <p><em>70% of the students were worried about &quot;possible sanitary problems of mutual aid sanitary napkins&quot;, (1.2)</em></p>
+                                <p><em>80% of the students had heard about &quot;diseases that may be caused by menstrual products that do not meet hygienic standards, such as toxic shock syndrome and vaginitis&quot;, (1.3)</em></p>
+                                <p><em>On the five-point scale, the average score of our proposed &quot;quick and convenient detection method for small disc discoloration is adopted&quot; is 3.96, (1.4)</em></p>
+                                <p><em>The average score of &quot;Whether the detection method will increase the possibility of students using sanitary napkins&quot; was 3.55, (1.5)</em></p>
+                                <p><em>The average score for &quot;does our proposed test improve women's health?&quot; was 4.08. (1.6)</em></p>
+                                <p><em><strong>For group B</strong></em> <em>(the sample size is relatively small)</em>:</p>
+                                <p><em>One student found that the waterproof bag was not zipped properly when using sanitary napkins for mutual aid.</em></p>
+                                <p><em>Four students put back their pads on the day, and six students put back their pads within three days,</em></p>
+                                <p><em>On the five-point scale, the average score of &quot;rapid and convenient detection method of small disc discoloration was adopted&quot; proposed by us was 4.2, significantly higher than the average score of group A.</em></p>
+                                <p><em>The average score of &quot;whether the detection method will increase the possibility of students using sanitary napkins for mutual aid&quot; was 3.8, which was also significantly higher than the average of group A.</em></p>
+                                <p><em>The average score for &quot;can our proposed test further protect women's health?&quot; was 4.1, which was close to the average for group A.</em></p>
+                                <p><em>In addition, some students left comments at the end of the questionnaire, calling for a more complete &quot;sanitary napkin mutual aid&quot; guarantee mechanism, independent and safe selling devices, and universal physiological health education (a questionnaire filler said he was male in his remarks and made the third suggestion)Male not excluded?????.</em></p>
+                                <p><em>Through simple analysis of the questionnaire, we believe that the safety of mutual sanitary napkins and even the health protection of women during menstruation is a local problem that has attracted widespread attention, especially among women. Therefore, we decide to take this as the direction and start looking for our solutions.</em></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b0/T--Fudan--SDG15.JPG" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/6/60/T--Fudan--SDG16.png" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/2/2e/T--Fudan--SDG17.png"
+                                        alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/b/bb/T--Fudan--SDG18.png" alt="pic"></p>
+                                <h2 id="action-girlshelpinggirlsperiod-ambassador-in-shanghai"><a class="anchor" href="#action-girlshelpinggirlsperiod-ambassador-in-shanghai">#</a> Action: GirlsHelpingGirls. Period ambassador in Shanghai</h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p><em>This problem needs recognition from anyone. It’s not just about girls helping girls, it’s everyone helping each other.</em></p>
+                                <p><em>-Quinn Joy, Girls Helping Girls. Period. Co-Founder</em></p>
+                                <p><strong>Girls Helping Girls. Period. is a volunteer effort started by two New Jersey sisters, and their mom.</strong> Emma and Quinn and their family have always been active in volunteer work. GHGP started as a limited
+                                    campaign of the girls' first volunteer group, Small Acts.</p>
+                                <p>When the girls were just 13 and 17, Girls Helping Girls. Period. took on a life of its own-- they asked guests at a neighborhood party to bring a box of pads or tampons as a &quot;gift&quot; they would donate. Not only
+                                    did their friends bring donations, but word spread, an article was written and within a few weeks the family's house was filled with boxes!</p>
+                                <p>The &quot;girls&quot; of Girls Helping Girls. Period. work now as vice presidents of the organization that their mom, Elise, runs as executive director. Emma is an environmental science student at American University, and
+                                    Quinn is headed to the University of Delaware to study in a health-related field. They continue to teach workshops, give talks, work on social media campaigns, communicate with donors, and pack products.</p>
+                                <p>Wedsite: <span class="exturl" data-url="aHR0cDovL3d3dy5naXJsc2hlbHBpbmdnaXJsc3BlcmlvZC5vcmcv">http://www.girlshelpinggirlsperiod.org</span></p>
+                                <ul>
+                                    <li>Why did we choose them?</li>
+                                </ul>
+                                <p>When first met NPSP in Fudan, we saw the phrase #girlshelpinggirls. Out of curiosity, we searched the phrase and <strong>coincidently found GHGP</strong>.</p>
+                                <ul>
+                                    <li>What did we do?</li>
+                                </ul>
+                                <p>We learned the way girls help girls in America and <strong>compared it with NPSP in Fudan</strong>. We reached the conclusion that GHGP was <strong>an example worth following</strong>, especially some problems that occurred
+                                    as the enthusiasm of NPSP cooled down and spontaneous donation of menstrual products was used up. <strong>A beautifully decorated website with goodwill and deeds clearly illustrated on it might help NPSP find a more sustainable way to maintain. A better-organized structure with a reasonable division of labor can both guarantee the quality and extend the life of NPSP.</strong></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/9/97/T--Fudan--SDG3.JPG" alt="pic"><br>So we <strong>organized an appointment with one of the core organizers of NPSP in Fudan</strong>.</p>
+                                <h2 id="interview-one-of-the-organizers-of-npsp-in-fudan"><a class="anchor" href="#interview-one-of-the-organizers-of-npsp-in-fudan">#</a> <strong>Interview: one of the organizers of NPSP in Fudan</strong></h2>
+                                <ul>
+                                    <li>Who is she?</li>
+                                </ul>
+                                <p>Yang is a junior majoring biology. She was <strong>one of the organizers of No Period Shaming Project in Fudan</strong>.</p>
+                                <ul>
+                                    <li>Why did we choose her?</li>
+                                </ul>
+                                <p>On one hand, we should <strong>share the result of our questionnaire with NPSP organizers</strong>. On the other hand, we wanted to know <strong>more about stories behind NPSP</strong>, not just a few pads and a bag hanging
+                                    on the toilet wall.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>We listened to the story of No Period Shaming Prpject and were amazed at <strong>how difficult it was to do something about gender equality</strong>.</p>
+                                <p><em><strong>(1) Failed attempt</strong></em></p>
+                                <p><em>At the beginning, we sought the school’s documentary certificate and applied for the project in the fall, but the teacher temporarily repented and used humiliating language. But we believe that women should not be ashamed of mentioning health.</em></p>
+                                <p><em>Then, we contacted Teacher Yan Chen from the School of Life Sciences, successfully participated in the online defense of the item, and got high marks, but the higher-level refused to show it publicly, and some other teachers took on security issues. But we actually want to achieve the role of propaganda and awakening, and find someone to do propaganda and produce textbooks.</em></p>
+                                <p><em><strong>(2) Try again</strong></em></p>
+                                <p><em>On the first weekend of November 2020, sealed bags were placed in two libraries and three teaching buildings, and they were put in the sanitary ware, and placed in the small box (starting to put 5-10 sanitary napkins, Write the card and when to put it in) We wrote the label to prevent worry.</em></p>
+                                <p><em><strong>(3) Feedback</strong></em></p>
+                                <p><em>The installation of one of the teaching buildings was removed at noon that day. The property stated that it must be certified by the school. Some of the library is used, and some students put it in again. The sanitary napkins in the other teaching building were put in by the classmates of social work. The cleaning aunt felt very good, and only removed it after a few weeks.</em></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/3/36/T--Fudan--SDGsup1.png" alt="pic"></p>
+                                <h2 id="audio-video-collection-debate-team-members-and-friends-interested-in-our-program"><a class="anchor" href="#audio-video-collection-debate-team-members-and-friends-interested-in-our-program">#</a> <strong>Audio-video collection: debate team members and friends interested in our program</strong></h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p>We shared what we’ve done on social media like QQ Zone and WeChat Moment. Some of our friends and classmates <strong>expressed their interest in our program</strong>.</p>
+                                <ul>
+                                    <li>Why did they choose us?</li>
+                                </ul>
+                                <p>Most of them are girls who care about issues like gender equality and women empowerment. They came not only for praising our efforts but <strong>sharing their own stories and views</strong>.</p>
+                                <ul>
+                                    <li>What did we do?</li>
+                                </ul>
+                                <p><strong>It was uplifting for our team to receive so much support from people around us. We collected some videos from those willing to share their attitude with all those who care and welcome more contributors to the topic.</strong></p>
+                                <p>You can also send us your own video clip. It will be displayed on Bilibili after we review.</p>
+                                <p><strong>A single spark can start a prairie fire. Every voice matters.</strong></p>
+
+                                <!-- p><strong>AUDIO-VIDEO collection</strong></p -->
+
+                                <h1 id="reflection-gender-perspective-on-our-daily-life"><a class="anchor" href="#reflection-gender-perspective-on-our-daily-life">#</a> <strong>Reflection on our daily life</strong></h1>
+                                <h2 id="course-culture-of-vision-and-gender"><a class="anchor" href="#course-culture-of-vision-and-gender">#</a> <strong>Course: Culture of vision and Gender</strong></h2>
+                                <ul>
+                                    <li>Who is our teacher?</li>
+                                </ul>
+                                <p><strong>Yifei Shen</strong>is director of the Family Development Research Centre of Fudan University, visiting scholar of Havard-Yenching Institute. Besides, she is <strong>an influencing feminist on stream media</strong>                                    like Bilibili and Podcast, especially popular among the generation after the 80s and 90s.</p>
+                                <ul>
+                                    <li>Why did we choose the course?</li>
+                                </ul>
+                                <p>Our team member first encountered Prof. Shen on Podcast. We listened to her program and really got <strong>interested in feminism</strong>. So, it was really surprising to find her name on our courses. As an old Chinese
+                                    saying goes, it might be destiny that ties people together.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>We learned some <strong>basic theories of feminism and analyzed some heated debates in China with academic methods according to the fundamental realities of our country</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/1b/T--Fudan--SDG14.JPG" alt="pic"></p>
+                                <h2 id="poster-a-brief-insight-into-patriarchal-society"><a class="anchor" href="#poster-a-brief-insight-into-patriarchal-society">#</a> <strong>Poster: A Brief Insight into Patriarchal Society</strong></h2>
+                                <ul>
+                                    <li>What is that?</li>
+                                </ul>
+                                <p>The course on Culture of Vision and Gender really gave us <strong>a brand new perspective</strong>. And the poster was a practice about how we imply the perspective to reflect our daily life.</p>
+                                <ul>
+                                    <li>Why did we choose the topic?</li>
+                                </ul>
+                                <p>Reflection on daily life is an important part of contemporary feminist studies. Through Shen's course, we realized that <strong>things we take for granted in our daily life are the products of many social and cultural factors.</strong></p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>The <strong>impact of the patriarch is everywhere</strong> though we don’t even notice. The poster is organized in the order of age and biological gender, and divided into two domains, public(white) or private(black).</p>
+                                <p>We found this was a great way to hold ourselves to account for acting throughout the day. Only through prolonged and occasional meditation can we <strong>achieve the grace of implementing the feminist perspective in every aspect of life</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/7/71/T--Fudan--SDGsup2.png" alt="pic"></p>
+                                <h2 id="workshop-the-first-lesson-of-feminism-for-team-members"><a class="anchor" href="#workshop-the-first-lesson-of-feminism-for-team-members">#</a> <strong>Workshop: the first lesson of feminism for team members</strong></h2>
+                                <ul>
+                                    <li>Who are we?</li>
+                                </ul>
+                                <p>Our team consists of <strong>3 girls and 9 boys</strong>, all from biology and clinical medicine.</p>
+                                <ul>
+                                    <li>Why did we choose the topic?</li>
+                                </ul>
+                                <p>Even though there are more boys than girls in our team, our project is women-oriented. So, it’s quite important to make sure that all our team members are well educated in feminism. Take one of our teammates as a case in
+                                    point, he used to take feminism for female chauvinism. And other team members didn’t know what feminism really means.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>We tidy up the notes after the workshop and <strong>here’s our note for latter team interested in our topic</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/4e/T--Fudan--SDG6.JPG" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/f/f8/T--Fudan--SDG7.JPG" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/a/aa/T--Fudan--SDG8.JPG"
+                                        alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/0/08/T--Fudan--SDG9.JPG" alt="pic"><br>Besides, our team members felt that the workshop was very rewarding. Here are <strong>some of their feelings</strong>.</p>
+                                <ol>
+                                    <li><em>Through the workshop, I understand that women should be respected by us. What impresses me most is the current social responsibility of women, which makes me better understand the value and significance of women to society.</em></li>
+                                    <li><em>Through the workshop, I found that the only person responsible for women's fate can be women themselves. Truly and objectively understand your situation, understand your weaknesses and limitations, and accept them to a certain extent.</em></li>
+                                    <li><em>My understanding of the definition of feminism is to recognize the mystery of women's physiology and psychology, pursue gender equality, and encourage women to pursue individual survival feeling preferences and live their own life.</em></li>
+                                    <li><em>For women, since the matriarchal clan era was replaced by the paternal clan era, they have basically been in a subordinate position in this society.</em></li>
+                                    <li><em><strong>Women are not born but shaped.</strong></em></li>
+                                    <li><em>Femininity is a result of domination and a reflection of women's own situation. Women themselves are also complicit in this domination. The most basic problem for women is the coordination of reproductive and productive roles. Motherhood does not exist.</em></li>
+                                </ol>
+                                <h2 id="film-recommendation-introduction-to-feminism-for-men"><a class="anchor" href="#film-recommendation-introduction-to-feminism-for-men">#</a> <strong>Film recommendation: Introduction to feminism for men</strong></h2>
+                                <p><strong>Can the gap caused by biological differences be bridged with the help of movies and books?</strong></p>
+                                <ul>
+                                    <li>What are the films and television series?</li>
+                                </ul>
+                                <p><strong>Hannah Arendt</strong></p>
+                                <p>Synopsis:</p>
+                                <p>In 1960, Israel announced the capture of Adolf Eichmann, the former Nazi German official known as the &quot;executor,&quot; and his trial in Jerusalem in 1961. Hannah Arendt (Barbara Sukowa), a famous Jewish philosopher
+                                    who has lived in the United States for many years, is invited by The New Yorker to contribute to the trial. When Hannah Arendt went to Jerusalem to watch the trial, she found a gap between Eichmann's narrative, public
+                                    opinion, and her own philosophical thinking. As Arendt raised Eichmann's actions to a philosophical level, her essay predictably provoked criticism, with some of Hannah Arendt's old friends breaking with her. The female
+                                    protege under Heidegger wanted to retreat in the storm but found that everything was not as simple as they expected.</p>
+                                <p><strong>Awakening Age</strong></p>
+                                <p>Synopsis:</p>
+                                <p>The TV series &quot;Awakening Age&quot; from 1915 &quot;Youth magazine&quot; came out to 1921 &quot;new Youth&quot; became the organ publication of the Communist Party of China throughout, showing from the New Culture Movement,
+                                    the May 4th Movement to the establishment of the Communist Party of China this magnificent historical picture scroll, tells the awakening era of social customs and life in all forms. The play to Li Dazhao, Chen Duxiu,
+                                    Hu Shi from an acquaintance, acquaintance to break up, embarked on a different life path of the legendary story as the basic narrative line, Mao Zedong, Zhou Enlai, Chen Yannian, Chen Qiaonian, Deng Zhongxia, Zhao Shiyan,
+                                    and other revolutionary youth to pursue the truth of the rough experience as auxiliary line, It artistically reproduces a period of surging years of pursuing truth and burning ideal which was performed by Chinese advanced
+                                    elements and a group of hot-blooded youth 100 years ago, and profoundly reveals the historical inevitability of the combination of Marxism and Chinese workers' movement and the establishment of the Communist Party of
+                                    China.
+                                </p>
+                                <ul>
+                                    <li>Why did we choose the topic?</li>
+                                </ul>
+                                <p>Feminism-related films can be a good introduction for those who are unfamiliar with the topic and thought-provoking to those who are interested in the topic.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>Film recommendation was initially designed for men around us. However, it wasn’t because of the gender perspective that makes feminism worth learning but because of its tolerant and inclusive nature.</p>
+                                <p>Here are some feedbacks from our friends and classmates.</p>
+                                <p><em>Zhu:</em></p>
+                                <p><em>As a biographical film, the film itself should not focus on one typical event to unfold the character of the subject. Hence, it’s intelligible that apart from detailing the trial of Eichmann, the director depicted a gathering talk at the beginning and cozy acts of Hannah and her husband, which interspersed the movie. Besides being a tough thinker, Hannah was a person who cherished friendship and a wife who deeply loved her spouse, also longing for endearments.</em></p>
+                                <p><em>When we shift back to the trial, a stunning trick that ought to be mentioned is that the filmmaker shows the original videotape and the scene of Hannah’s response alternately, more explicitly demonstrating the scenario while meantime leaving space for the audience to ‘think’ independently. However, crime couldn’t easily be calculated as punishment and it was unfair to accuse a ‘spike’ of the sin of a whole system. Understanding doesn’t equal forgiving, but it’s a way for us to seek out the underlying ethical or philosophical problems undermining our society and avoid repeating the pain without thorough reflection.</em></p>
+                                <p><em>What is evil? The end told everyone this question bothered Hannah till she died. The core of Hannah’s theory was the ability to think and it was because of the lack of it that made Eichmann commit a crime, carrying the banality of evil. She called Eichmann a ‘nobody’, giving up thinking and mechanically performing his duty. During Nuremberg Trials, the war criminals claimed to have followed the law and they shouldn’t be punished. If there was something wrong, it should be the law itself. Never had anyone abandoned thinking without reasons, so it’s not enough to only discuss the concept of non-person. Is a bad law a law? Socrates tried to preserve the authority of law, but dramatically he died because of a bad law. We can’t say Socrates is also a ‘nobody’ in that he thought over before accepting the proceedings. The authority of law decides the stability of a nation, but the law should also present a kind of justice deriving from public order and morals. When the law offends justice to an extent that hurts and erodes humanity, the law will be illegal law, losing its validity. Who are to inspect the law? I suppose it should be ourselves. Keeping on thinking protects the completeness of our individuality and revises the law that normalizes society.</em></p>
+                                <p><em>Hu:</em></p>
+                                <p><em>There is no doubt that the Age of Awakening, as a tribute to the centenary of the founding of the Communist Party of China, can be said to be excellent. The portrayal of the characters by the old opera and the new generation is very vivid, and the scenes and habits of the characters also make people have a sense of generation. Looking at the awakening era from a personal perspective, it is also to make the process of the founding of the Communist Party of China come alive from the history books. However, as a tribute, it certainly has many shortcomings.</em></p>
+                                <p><em>One is the concealment of the criticism of the characters. Of course, this is understandable for a tribute film, but it will also mislead some audiences, for example, why Chen Duxiu's two sons call his wife aunt, is because she was the sister of Chen’s former wife, being intellectuals, they shared more opinions and love came in time, they finally eloped together. This is not shown at all in the play except for the title.</em></p>
+                                <p>**<em>What impressed me most was the neglect of the portrayal of women. The male characters are all vividly portrayed, while female characters are nothing but attachment, plainly put, just lovers of the male characters. Here are really a lot of examples, the elder generation, Gao Junman, and Chen Duxiu, Zhao Renlan and Li Dazhao, Jiang Dongxiu and Hu Shi, the younger generation, Liu Mei and Chen Yannian, Bai Lan and Guo Xingang, Yi Qunxian and He Mengxiong. However, a lack of female portrayal is the biggest problem I think. Being an intellectual though, Kao Junman was just positioned as Chen Duxiu's good wife in the whole film, and she was not smart enough to be with Chen Duxiu as a talent who knows him well. Gao Junman, Zhao Renlan, and Jiang Dongxiu are all portrayed on the identity of the &quot;wife&quot;, while Liu and Bai are also depicted in a bond with Chen and Guo, without whom they almost do not appear. It's fair to say they're fictional characters, so they're not. However, at that time, there was no lack of women worthy of portrayal, but the drama always lacked such a woman who was portrayed as the main supporting role with an independent personality, which was a very uncomfortable and regrettable deficiency of this drama.</em></p>
+                                <h1 id="sdg-10-reduced-inequality"><a class="anchor" href="#sdg-10-reduced-inequality">#</a> <strong>SDG 10 Reduced Inequality</strong></h1>
+                                <blockquote>
+                                    <p><em>Reduce inequality within and among countries.</em><br><em>UN</em></p>
+                                </blockquote>
+                                <h1 id="beyond-our-community-within-our-country"><a class="anchor" href="#beyond-our-community-within-our-country">#</a> <strong>Beyond our community</strong></h1>
+                                <h2 id="people-with-intellectual-disabilities-the-right-to-get-educated"><a class="anchor" href="#people-with-intellectual-disabilities-the-right-to-get-educated">#</a> <strong>People with intellectual disabilities: the right to get educated</strong></h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p><em>We were thinking the night before about what to call you. We should reflect on whether we had stigmatized the word &quot;intellectually disabled&quot; in my mind rather than the outside world, which is why I don't want to say it and why I feel inappropriate. Today, my teacher told me to call you &quot;cadets&quot;. Originally in want not to call &quot;classmate&quot; I thought to myself, good! &quot;Cadets&quot;, &quot;cadets&quot;, means that although we are slightly different, we are not &quot;classmates&quot;, but fortunately you are still given the right to learn and improve.</em></p>
+                                <ul>
+                                    <li>What did we do?</li>
+                                </ul>
+                                <p><em><strong>&quot;Speak slowly&quot;</strong></em></p>
+                                <p><em>Speak slowly and clearly. As soon as I met the sunshine House teacher today, language was the first difference I felt. The teacher doesn't speak very fast, and I guess that's the speed that works best for Sunshine Home students in their long-term relationship, so that you can hear them clearly and not be offended.</em>**</p>
+                                <p><em><strong>&quot;Smile&quot;</strong></em></p>
+                                <p><em>I don't know why, you laugh brilliant! Very sincere. The teacher told me that most of us do not have mobile phones, which means that we do not have such a modern way of self-observation as selfies. I wonder if this is the reason why you know more about what kind of laughter is the sincerest expression of emotion in your heart?</em></p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p><em><strong>&quot;To be accepted and tolerated&quot;</strong></em></p>
+                                <p><em>The content prepared last night was half an hour overtime and only half of it was said. This half is mainly to awaken my various associations as a child, the description of various daily things in life and the way to use words and sentences. Keep it as close to life as possible, use lots of metaphors, and make sure students understand how something as scientific as biology is relevant to everyday life. Perhaps too used to passively accept knowledge input, so sometimes paralyzed as a child active imagination, only to turn my blunt head and some of the barren imagination of the brain circuit weeding. Many of the links I have never thought about since I learned, although some of the links I mentioned cannot erase the far-fetched traces of improvise, thanks to the students are also very bought to keep nodding, indicating understanding. As I nodded my head many times, I was moved to be understood and gradually felt that this was a process of being accepted and tolerated by you.</em></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/c/c9/T--Fudan--SDG20.png" alt="pic"></p>
+                                <h2 id="interview-jun-jing-weiwei-sun-scholars-and-their-research-in-rural-china"><a class="anchor" href="#interview-jun-jing-weiwei-sun-scholars-and-their-research-in-rural-china">#</a> <strong>Interview Jun Jing, Weiwei Sun: scholars and their research in rural China</strong></h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p><strong>Jun Jing</strong> is now <strong>a professor in the Department of Sociology at Tsinghua University and director of the Public Health Research Center at Tsinghua University</strong>. He got his Ph.D. in the Department
+                                    of anthropology at Harvard University in 1994. And from 1994 to 2000, he taught at the City University of New York and got tenure. He came back in the summer of 2001 to Tsinghua University and was named &quot; Cheung
+                                    Kong scholars&quot; in 2005. The main research direction includes historical memory, reservoir immigrants, ecological uprising, child-rearing, suicidal behavior, and HIV/AIDS Current research focuses on social and policy
+                                    issues closely related to public health.</p>
+                                <p><strong>Weiwei Sun</strong> is <strong>an associate professor from the School of Sociology and Psychology, Central University of Finance and Economics</strong>. She majors in Medical Sociology, Gerontology, Family Sociology.
+                                    Her research interests are Mental health and family relationships, mental health in the elderly population.</p>
+                                <ul>
+                                    <li>Why did we choose them?</li>
+                                </ul>
+                                <p>Prof. Jing and Prof. Sun are famous for <strong>their project on the mental health of the elderly in rural areas</strong>. They can offer us an insightful overview of rural issues based on their long-term fieldwork.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>In her fieldwork, Prof. Sun found <strong>a higher rate of depression among the elderly, especially women</strong>, in rural China. She introduced a gatekeeper's psychological intervention model, which she adopted and
+                                    successfully improved the psychological conditions of the elderly in many villages during her field research of more than ten years. In addition, her research has informed the Chinese government to pay more attention
+                                    to the mental health of the elderly in rural areas.</p>
+                                <p>We got the idea of <strong>the gatekeeper model of psychological intervention</strong> and realized that <strong>the ultimate purpose of social science is to change society so that all people can live better lives</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/eb/T--Fudan--SDG11.JPG" alt="pic"></p>
+                                <h2 id="interview-yueruyi-app-for-women-period-and-health"><a class="anchor" href="#interview-yueruyi-app-for-women-period-and-health">#</a> <strong>Interview: Yueruyi App for women period and health</strong></h2>
+                                <ul>
+                                    <li>Who is she?</li>
+                                </ul>
+                                <p><strong>Yishu Wu</strong> was a senior majoring in Economics. She participated in an on-campus innovation and entrepreneurship competition. We happened to be volunteers in the competition and were attracted by her project.
+                                    Her project was <strong>an APP designed for women's period and health</strong>.</p>
+                                <ul>
+                                    <li>Why did we choose her?</li>
+                                </ul>
+                                <p>Her idea was closely related to our project. We wanted to find out whether there was an overlapped area between our project and hers.</p>
+                                <ul>
+                                    <li>What did we do?</li>
+                                </ul>
+                                <p>In our interview, Yishu displayed her business plan to us. We discussed the possibility of cooperation. We asked her about the fee for the membership and found that she might exclude the low-income women or rural women
+                                    from her customer. So, **our team offered Yishu some pieces of advice in poverty and inclusivity, like charging difference according to income difference and another version with a bigger text size for the elderly.**Yishu
+                                    told us that she would <strong>take all our advice into consideration and further improve her APP design</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/9/97/T--Fudan--SDG19.png" alt="pic"></p>
+                                <h1 id="sdg-12-responsible-consumption-and-production"><a class="anchor" href="#sdg-12-responsible-consumption-and-production">#</a> <strong>SDG 12 Responsible Consumption and Production</strong></h1>
+                                <blockquote>
+                                    <p><em>Ensure sustainable consumption and production patterns.</em><br><em>UN</em></p>
+                                </blockquote>
+                                <h1 id="design-of-our-project"><a class="anchor" href="#design-of-our-project">#</a> <strong>Design of our project</strong></h1>
+                                <h2 id="reagent-paper"><a class="anchor" href="#reagent-paper">#</a> <strong>Reagent Paper</strong></h2>
+                                <p>We use test strips for testing. On the one hand, this medium allows our products to be transported at room temperature, which greatly reduces energy consumption. On the other hand, it can also minimize environmental pollution
+                                    in unexpected situations such as package damage.</p>
+                                <h2 id="auxotrophic"><a class="anchor" href="#auxotrophic">#</a> <strong>Auxotrophic</strong></h2>
+                                <p>The auxotrophic bacteria make it unnecessary to design a kill switch to prevent possible leakage. This is also a consideration for achieving responsible production and consumption from the design of our bacteria.</p>
+                                <h2 id="non-toxic-reagent-in-our-experiment"><a class="anchor" href="#non-toxic-reagent-in-our-experiment">#</a> <strong>Non-toxic reagent in our experiment</strong></h2>
+                                <p>We did not use highly toxic reagents in our experiments and bacterial production.</p>
+                                <h2 id="plastic-replacement-of-our-package"><a class="anchor" href="#plastic-replacement-of-our-package">#</a> <strong>Plastic replacement of our package</strong></h2>
+                                <p>We replace the plastic packaging of our products with paper packaging or biodegradable plastics to reduce white pollution.</p>
+                                <h1 id="design-of-period-product"><a class="anchor" href="#design-of-period-product">#</a> <strong>Design of period product</strong></h1>
+                                <h2 id="corporation-with-relief"><a class="anchor" href="#corporation-with-relief">#</a> <strong>Corporation with Relief</strong></h2>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p><strong>Relief, short for Relief Underwear Technology Co., LTD</strong>., is a cutting-edge lingerie brand dedicated to <strong>providing women with comfortable, healthy, and sustainable underwear products</strong> driven
+                                    by innovative technologies.</p>
+                                <p>&quot;We took the diverse needs of female users as the direction of product innovation and created a 'women's underwear brand',&quot; said Emma Chen, founder of Relief.</p>
+                                <ul>
+                                    <li>Why did we choose them?</li>
+                                </ul>
+                                <p>When we talked to <strong>our advisor</strong> about the product design, she <strong>recommended Relief</strong>. We joined the customer WeChat group chat of Relief, attended an online Relief women empowerment workshop,
+                                    and kept in touch with Emma Chen.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>We hope to learn the experience of design for women from an established brand like Relief to help improve our design. Besides, we <strong>shared the same ideas like women empowerment, responsible consumption, and other feministic issues like &quot;no period shame&quot; and &quot;reducing menstrual poverty&quot;.</strong>                                    Also, our team members were very much inspired by the quote of Relief, &quot;make menstruation cooler!&quot;</p>
+                                <p>We consulted Emma, the founder, through WeChat and got advice on commercialization and marketing. She told us that her target group was the millennials, feature of which was a ceaseless curiosity for new stuff. Being an
+                                    80s, she also shared <strong>some insight with us about her generation and the 90s</strong>. So, we really had an overview of business for women and for the post-80s. With the success of Relief, Emma illustrated that
+                                    a good story could help us a lot if we would like to commercialize our project. Lastly, <strong>beauty premium</strong> was what we should spend effort on. <strong>A plain box wouldn’t be appealing to any woman today and it should be both utility-oriented and beauty-oriented. Our improvement was to change the color of the kit or put some relative comics on the kit.</strong></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/e9/T--Fudan--SDG5.JPG" alt="pic"></p>
+                                <h2 id="interview-zhaoyu-zhou-about-design-for-women"><a class="anchor" href="#interview-zhaoyu-zhou-about-design-for-women">#</a> <strong>Interview: Zhaoyu Zhou about design for women</strong></h2>
+                                <ul>
+                                    <li>Who is she?</li>
+                                </ul>
+                                <p><strong>Zhaoyu Zhou</strong> is now <strong>a teacher in the School of Innovation and Entrepreneurship, Tongji University</strong>. She used to be a designer who focused on women.</p>
+                                <ul>
+                                    <li>Why did we choose her?</li>
+                                </ul>
+                                <p>We met Zhou in <strong>an online symposium topic of which was the technology and social development for the elderly</strong>. She told us her background and we were excited to share our own idea with her. She was attracted
+                                    by our project and generously offered us six pieces of advice.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>We were really moved when we got a letter from Zhou. <strong>She offered us advice in a rather holistic way</strong>. She suggested that our product can be <strong>applied in another scene: production inspection</strong>.
+                                    And without any reserve, she shared with us her summary of the difficulties of designing for women in business. Here’s her letter and <strong>6 pieces of advice on commercialization</strong>.</p>
+                                <p>Here's her advice to our project:</p>
+                                <p><em>Hello, iGEM Team Fudan!</em></p>
+                                <p><em>The design of this vaginal test kit immediately reminded me of an &quot;AIDS&quot; test kit I saw on campuses around the country five years ago (or so). The team put boxes into machines that were innovative for the time (vending machines are more widely used today) and a successful project</em></p>
+                                <p><em>The only question is the actual participation rate of the specific purchase/gift of the project, I don't know (you can search it online).</em></p>
+                                <p><em>According to your design, there is another scene that is also suitable for me: domestic production inspection. Namely, at least one vaginal test during pregnancy. My case is: it is very tiring to wait in line for the equality test in the hospital during late pregnancy. After a process, I feel that there is no need to go to the hospital (the hospital is crowded) if there is a simple test paper</em></p>
+                                <p><em>Another professional question: I found out I was pregnant in Singapore, and I bought two boxes of pregnancy tests, which can measure the exact period in the first trimester (down to a few weeks). I don't know what the latest science on the test paper was, but it felt very advanced. I also communicated with my friends in China, but they said that this kind of pregnancy test has not appeared on the market</em></p>
+                                <p><em>There was a time when people thought I had a bad memory when I was pregnant, but it's true</em></p>
+                                <p><em>Then I would like to combine some of my own experience in women's products with the following suggestions (I am a businessman so I think more about economic questions) :</em></p>
+                                <p><em>Whether the funds and resources you invested in the early stage can be effectively and forcefully supported, and whether the specific amount is enough for you to make a demo (complete product experience test)</em></p>
+                                <p><em>Specific and clear market positioning (for people). Whether it is a public welfare route or a capital accumulation route, the direction should be clear, which is more helpful to future development (team development)</em></p>
+                                <p><em>Your design can be developed in two ways (personal suggestion): In China, women's issues are still wandering among first-tier cities. We can try to integrate some pure design flows and take a conceptual display route of design concepts (such as cooperation with art centers). Secondly, we can implement physical products, that is, make your products available to the hospitals in the village and the people who need them the most.</em></p>
+                                <p><em>Also, I haven't query data, but this kind of design should not be your sole, so what is your team's core competitiveness, have not been with a category instead of the advantages of (this don't try so hard, can do slowly found) if you can go to the end, fully implement the plan, your advantage is that a few of you (it is difficult to achieve, Most teams just walk away)</em></p>
+                                <p><em>In addition, in the initial production/market of any product there are only two ways :(1) a way of small profits and quick sales (business logic, specific not to expand) can use the least cost, the fastest speed to do the largest scale promotion. (2) Small but refined, this choice takes time in terms of manpower, material resources, and energy. It is a road in line with China's future market, but difficult to take (all categories are being upgraded at present).</em></p>
+                                <p><em>Lastly, it is impossible to find the most suitable partner (physical materials) for any project at the very beginning. You can cast a wide net to catch the big fish.</em></p>
+                                <p><em>This one depends on your luck, but also your strength. The world is fair, big carrot for the big hole.</em></p>
+                                <h1 id="sdg-16-peace-justice-and-strong-institutions"><a class="anchor" href="#sdg-16-peace-justice-and-strong-institutions">#</a> <strong>SDG 16 Peace, Justice and Strong Institutions</strong></h1>
+                                <blockquote>
+                                    <p><em>Promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels.</em><br><em>UN</em></p>
+                                </blockquote>
+                                <h1 id="debate-should-free-menstrual-products-be-legislated-in-china"><a class="anchor" href="#debate-should-free-menstrual-products-be-legislated-in-china">#</a> <strong>Debate: should free menstrual products be legislated in China?</strong></h1>
+                                <ul>
+                                    <li>Who are they?</li>
+                                </ul>
+                                <p><strong>Two debate teams participated was from Shanghai Medical College of Fudan University and Shanghai Jiao Tong University School of Medicine.</strong> Medical background enables two teams to see menstruation issues
+                                    more objectively, or in other words, with fewer prejudices. We hope that there will be fewer biases in such a debate, and increase thinking depth in the activity of no period shame.</p>
+                                <ul>
+                                    <li>Why did we choose the topic?</li>
+                                </ul>
+                                <p>The debate is proposed by our team. The idea came from 《<strong>Period Products (Free Provision) (Scotland) Bill》, which was voted by the Scottish parliament</strong> on November 24, 2020. Passage of the bill means that
+                                    public places in Scotland, including primary and secondary schools and universities, will provide free menstrual products, and local government and education institutions will be obliged to guarantee a free supply of
+                                    Menstrual products.</p>
+                                <p><strong>We wanted to discuss to what extent could the bill apply to China.</strong></p>
+                                <ul>
+                                    <li>What did we learn in the debate?</li>
+                                </ul>
+                                <p><em>The main points of pro are as follows:</em></p>
+                                <p><em>1. The poor tend to choose cheap menstrual products because of economic burdens.</em></p>
+                                <p><em>2. It is sub-quality or improperly stored menstrual products that lead to a higher risk of gynecological diseases.</em></p>
+                                <p><em>3. Women are burdened by physical differences that could lead to gender poverty.</em></p>
+                                <p><em>The solution they proposed was that, for the upstream, lower down the price through the centralized procurement with a quality guarantee, and for the downstream, the school should play a role in completing the distribution of free menstrual products to student groups, the street committee, and village cadres should cover the other group in need. The main advantage of the scheme is that qualified menstrual products can greatly reduce the incidence of gynecological diseases, which are represented by <i>Candida albicans</i>, and the total cost, in general, could be less than the total treatment fee. Besides the scheme can promote gender equality, and make women better exert their own potential, and create their own value. But the problem is that centralized procurement can lead to a decline in quality or corruption.</em></p>
+                                <p><em>The main points of the opposite are as follows:</em></p>
+                                <p><em>1. The executive force may not be able to achieve the desired results and could instead easily breed corruption.</em></p>
+                                <p><em>2. That may cause a waste of resources.</em></p>
+                                <p><em>3. A major cultural factor of menstrual poverty is the bad tradition of “value the male child only”, and the legislation of menstrual products might be near enough nowhere.</em></p>
+                                <p><em>The target solution is to include the period items in health care or tax breaks to reduce the price of menstrual products. But the problem is that tax breaks may have little effect and not really make some poor families affordable. The idea of inclusion in health care is more feasible.</em></p>
+                                <p><em>Although the two sides are in a different position because of the pros and cons of the debate, they are thinking about the crucial issues of menstrual poverty and gender equality, and the opinions on key issues are consistent: we need to act for women's menstrual poverty, especially in the macro level of politics. For women in China, especially in underdeveloped areas, women are better able to accept education and self-fulfillment, and we can do a lot more.</em></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/2/24/T--Fudan--SDG10.JPG" alt="pic"><br>For <strong>further links between theory and practice, we turn to experts in sociology</strong>.</p>
+                                <h1 id="interview-dr-shen-ke-lecture-analyzing-chinas-equality-policy"><a class="anchor" href="#interview-dr-shen-ke-lecture-analyzing-chinas-equality-policy">#</a> <strong>Interview: Dr. Shen Ke Lecture analyzing China's equality policy</strong></h1>
+                                <ul>
+                                    <li>Who is she?</li>
+                                </ul>
+                                <p>Prof. <strong>Shen Ke</strong> was an expert on population policy and intergenerational relationships and has published several influential articles on <em>Population and Development Review</em>,
+                                    <em>Demography</em>, <em>BMC Geriatrics</em>, <em>Eurasian Geography and Economics, Demographic Research, Chinese Sociological Review, Journal of the Economics of Ageing</em>.</p>
+                                <ul>
+                                    <li>How did we meet?</li>
+                                </ul>
+                                <p>We interviewed Prof. Ke Shen after her online lecture named <strong>The mixed blessing of living together or close by, which was an insightful observation about China's gender policy and culture</strong>.</p>
+                                <ul>
+                                    <li>What did we learn?</li>
+                                </ul>
+                                <p>Prof. Shen illustrated her findings of women’s labor participation rate and filial responsibility with solid statistics.</p>
+                                <p>She mentioned <strong>the impact of the Opening and Reform Policy on women's employment ensuring policy</strong>. Before the policy was implemented, all work was distributed to certain groups of people and gender didn’t
+                                    play much of a role in the distribution process. However, the policy led to market-oriented reform, therefore all got their job through market competition, in which men won advantage over women in most cases. For instance,
+                                    if a woman gives birth to a child and takes maternity leave, she might be denied an opportunity to promote or further study accordingly. On the other hand, men seldom take their paternity leave in China. That’s <strong>where inequality comes in</strong>.</p>
+                                <p>We got a gender view on the seemingly glorious Opening and Reform policy and learned that inequality might be created even it was long thought to be a good-willed policy. <strong>Policymakers should be reflective when there is a gender imbalance among them</strong>.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/49/T--Fudan--SDG13.JPG" alt="pic"></p>
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#overview"><span class="toc-number">1.</span> <span class="toc-text">Overview</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#sdg-5-gender-equality"><span class="toc-number">2.</span> <span class="toc-text">SDG 5 Gender Equality</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#no-period-shaming-projectnpsp-on-campus-of-fudan"><span class="toc-number">3.</span> <span class="toc-text">No Period Shaming Project</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#questionnaire-how-is-no-period-shaming-program-from-a-students-perspective"><span class="toc-number">3.1.</span> <span class="toc-text">Questionnaire: how is No Period Shaming Program from a student’s perspective?</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#action-girlshelpinggirlsperiod-ambassador-in-shanghai"><span class="toc-number">3.2.</span> <span class="toc-text">Action: GirlsHelpingGirls. Period ambassador in Shanghai</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#interview-one-of-the-organizers-of-npsp-in-fudan"><span class="toc-number">3.3.</span> <span class="toc-text">Interview: one of the organizers of NPSP in Fudan</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#audio-video-collection-debate-team-members-and-friends-interested-in-our-program"><span class="toc-number">3.4.</span> <span class="toc-text">Audio-video collection: debate team members and friends interested in our program</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#reflection-gender-perspective-on-our-daily-life"><span class="toc-number">4.</span> <span class="toc-text">Reflection on our daily life</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#course-culture-of-vision-and-gender"><span class="toc-number">4.1.</span> <span class="toc-text">Course: Culture of vision and Gender</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#poster-a-brief-insight-into-patriarchal-society"><span class="toc-number">4.2.</span> <span class="toc-text">Poster: A Brief Insight into Patriarchal Society</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#workshop-the-first-lesson-of-feminism-for-team-members"><span class="toc-number">4.3.</span> <span class="toc-text">Workshop: the first lesson of feminism for team members</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#film-recommendation-introduction-to-feminism-for-men"><span class="toc-number">4.4.</span> <span class="toc-text">Film recommendation: Introduction to feminism for men</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#sdg-10-reduced-inequality"><span class="toc-number">5.</span> <span class="toc-text">SDG 10 Reduced Inequality</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#beyond-our-community-within-our-country"><span class="toc-number">6.</span> <span class="toc-text">Beyond our community</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#people-with-intellectual-disabilities-the-right-to-get-educated"><span class="toc-number">6.1.</span> <span class="toc-text">People with intellectual disabilities: the right to get educated</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#interview-jun-jing-weiwei-sun-scholars-and-their-research-in-rural-china"><span class="toc-number">6.2.</span> <span class="toc-text">Interview Jun Jing, Weiwei Sun: scholars and their research in rural China</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#interview-yueruyi-app-for-women-period-and-health"><span class="toc-number">6.3.</span> <span class="toc-text">Interview: Yueruyi App for women period and health</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#sdg-12-responsible-consumption-and-production"><span class="toc-number">7.</span> <span class="toc-text">SDG 12 Responsible Consumption and Production</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#design-of-our-project"><span class="toc-number">8.</span> <span class="toc-text">Design of our project</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#reagent-paper"><span class="toc-number">8.1.</span> <span class="toc-text">Reagent Paper</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#auxotrophic"><span class="toc-number">8.2.</span> <span class="toc-text">Auxotrophic</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#non-toxic-reagent-in-our-experiment"><span class="toc-number">8.3.</span> <span class="toc-text">Non-toxic reagent in our experiment</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#plastic-replacement-of-our-package"><span class="toc-number">8.4.</span> <span class="toc-text">Plastic replacement of our package</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#design-of-period-product"><span class="toc-number">9.</span> <span class="toc-text">Design of period product</span></a>
+                                            <ol class="toc-child">
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#corporation-with-relief"><span class="toc-number">9.1.</span> <span class="toc-text">Corporation with Relief</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#interview-zhaoyu-zhou-about-design-for-women"><span class="toc-number">9.2.</span> <span class="toc-text">Interview: Zhaoyu Zhou about design for women</span></a></li>
+                                            </ol>
+                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#sdg-16-peace-justice-and-strong-institutions"><span class="toc-number">10.</span> <span class="toc-text">SDG 16 Peace, Justice and Strong Institutions</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#debate-should-free-menstrual-products-be-legislated-in-china"><span class="toc-number">11.</span> <span class="toc-text">Debate: should free menstrual products be legislated in China?</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#interview-dr-shen-ke-lecture-analyzing-chinas-equality-policy"><span class="toc-number">12.</span> <span class="toc-text">Interview: Dr. Shen Ke Lecture analyzing China&#39;s equality policy</span></a></li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Lead by: Kana&nbsp;Ren</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->
