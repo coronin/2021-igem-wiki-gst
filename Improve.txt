@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Improve</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Improve skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+{{IGEM_TopBar}}
+{{Fudan}}
+
+Our basic part http://parts.igem.org/Part:BBa_K3790000 , was improved from http://parts.igem.org/Part:BBa_K3416003 , which meets <font style="color:gold">Gold Medal Criterion #2</font>.
+
+This page lists all the parts we built for our project. Please check each part's Main Page on the Registry http://parts.igem.org/Main_Page
+
+Updated on 2021-11-18: We are keeping figures and text in the Registry as it was. You might found https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf (which we prepared for the Judging Session) helpful to understand our parts.
+
+<groupparts>iGEM21 Fudan</groupparts>

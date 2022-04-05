@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Part_Collection</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Part_Collection skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+{{IGEM_TopBar}}
+{{Fudan}}
+
+We are competing for the Best Part Collection Special Prize. We are explaining how all our parts form a collection on http://2021.igem.org/Team:Fudan/Parts
+
+Our parts could be divided into three major groups:
+
+(I) parts that were designed to regulate the bacteria expression, including the first full characterized σS promoter http://parts.igem.org/Part:BBa_K3790014 for the iGEM community, as well as parts were used for validation.
+
+<pre>Group I: BBa_K3790014,
+BBa_K3790009 - BBa_K3790013, BBa_K3790086,
+BBa_K3790050, BBa_K3790085,
+BBa_K3790231, BBa_K3790235,
+BBa_K3790225 - BBa_K3790230, BBa_K3790236, BBa_K3790237, BBa_K3790242</pre>
+
+(II) a set of DNA binding domains that could be used to improve polymerases, including our favorite Sso7d http://parts.igem.org/Part:BBa_K3790002
+
+<pre>Group II: BBa_K3790002,
+BBa_K3790001, BBa_K3790003, BBa_K3790004, BBa_K3790005, BBa_K3790006</pre>
+
+(III) IPTG induced Bst polymerase for isothermal DNA amplification, as well as a complete set of fusions with parts in b. We showed that even without improvement, native Bst produced in bacterial lysate is sufficient to support LAMP, documented in http://parts.igem.org/Part:BBa_K3790212
+
+<pre>Group III: BBa_K3790212,
+BBa_K3790213 - BBa_K3790224,
+BBa_K3790150 - BBa_K3790162</pre>
+
+This page lists all the parts we built for our project. Please check each part's Main Page on the Registry http://parts.igem.org/Main_Page
+
+Updated on 2021-11-18: We are keeping figures and text in the Registry as it was. You might found https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf (which we prepared for the Judging Session) helpful to understand our parts.
+
+<groupparts>iGEM21 Fudan</groupparts>

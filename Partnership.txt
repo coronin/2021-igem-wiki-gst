@@ -9,9 +9,9 @@
   <link rel="stylesheet" href="/2ic.css" />
   <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
   <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
-  <title>Measurement</title>
+  <title>Partnership</title>
 </head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Measurement skin-igem action-view pace-done loaded">
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Partnership skin-igem action-view pace-done loaded">
 <div id="globalWrapper"><div id="top_menu_14"></div>
 <!-- div.menu_container --> <div class="igem_content_wrapper">
 <div class="igem_column_wrapper">
@@ -24,7 +24,7 @@
 
 
 
-<html>         -->
+<html>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
     <meta name="theme-color" content="#FFF">
     <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
@@ -43,7 +43,7 @@
             <div class="inner">
                 <div id="brand">
                     <div class="pjax">
-                        <h1 itemprop="name headline">Measurement</h1>
+                        <h1 itemprop="name headline"></h1>
                     </div>
                 </div>
                 <nav id="nav">
@@ -103,100 +103,53 @@
                             <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
                             <!-- begin here -->
                             <div class="body md" itemprop="articleBody">
-                                <div class="note info">
-                                    <p>Updated on 2021-11-18: You might found <a href="https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf" target="_blank">this file, which we prepared for the Judging Session,</a> helpful to understand our goals, approaches and what have been achieved.</p>
-                                </div>
-                               <div class="note info">
-                                    <p>Updated on 2021-11-10: we were nominated for the Best Measurement award.</p>
-                                </div>
-                                <h1 id="overview"><a class="anchor" href="#overview">#</a> Overview</h1>
-                                <p>​ We have developed a generalizable method for measuring bacterial autolysis. During recombinant protein production, overexpression of exogenously sometimes toxic proteins in <em>E. coli</em> imposes a metabolic burden
-                                    on the host cells, which further triggers the bacterial stress response, leading to severe cellular autolysis, reduced biomass growth, and decreased recombinant protein in production. Previously, no feasible method
-                                    to assess the autolysis rate of <em>E. coli</em> in culture. Here, we use the leaked plasmid as the indicator for lysed bacteria, and optimized protocols to the extra plasmid from bacterial culture media, comparing
-                                    with those that could be extracted from bacteria pellets (intact cells). Next, we examine the autolysis during IPTG induction for BL21 (DE3) bacteria, with or without gp5.7 expression. Further, we asked people in a
-                                    nearby lab to try our method and to give us their feedback for further improvement</p>
-                                <p></p>
-                                <h1 id="optimization"><a class="anchor" href="#optimization">#</a> Optimization</h1>
-                                <p>Initially, we tried to make a mixture of EDTA, NaAc, KAc, and acetic acid in a certain ratio and add a certain concentration of purified plasmids to it to simulate the environment of supernatant after bacteriophage lysis
-                                    during plasmid extraction. And then we used silica gel membranes to absorb plasmid. However, we could not get any plasmid because the system was too complicated. Considering that the silica gel membrane would selectively
-                                    adsorb nucleic acids at high salt (e.g. 4M guanidine hydrochloride) and low pH (e.g. pH 5.0), and would release nucleic acids at low salt and high pH (e.g. pH 8.0), we added Buffer A (20 M guanidine hydrochloride, 0.3
-                                    M MES-NaOH, pH 5.0) directly to convert the supernatant after centrifugation to high salt and low pH state, so that the plasmids in the supernatant could be adsorbed by the silica gel membrane.</p>
-                                <p>To further improve the adsorption efficiency, we tried to activate the silica membrane in advance using Buffer PB (5 M guanidine hydrochloride, 30% isopropanol) before using the silica membrane to adsorb the plasmid. In
-                                    addition, we simulated the supernatant conditions after centrifugation of the bacterial broth with the configured 2×YT medium spiked with Amp antibiotics and compared the results with TE simulations and ddH2O simulations,
-                                    and found that the supernatant purified by TE simulations and ddH2O simulations yielded approximately twice as many plasmids as 2×YT medium, and we speculate that the adsorption of proteins to plasmids contributed to
-                                    this result.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/6/62/T--Fudan--measurement1.jpg" alt="pic"><br>Figure 1. Purified plasmids (9 μg each) were diluted in different media, then purified using silica membranes and eluted in
-                                    30 μL Tris-EDTA buffer.</p>
-                                <p>We then used Phenol chloroform : isoamyl : alcohol (25:24:1) solution to remove the protein interference. In addition, to measure the efficiency of silica gel membrane and ethanol precipitation to obtain pure plasmids each,
-                                    we compared the two methods using silica gel membrane and ethanol precipitation and found that the ethanol precipitation method was unstable, so we finally chose to use phenol chloroform isoamyl alcohol precipitation
-                                    followed by silica gel membrane to purify the plasmids.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/2/2b/T--Fudan--mes2.png" alt="pic"><br>Figure 2. Phenol chloroform : isoamyl : alcohol (25:24:1) solution was used to remove proteins that may absorb plasmids</p>
-                                <p>​</p>
-                                <p>​ In order to measure the ability of silica membranes to adsorb low concentrations of plasmids, we tested the ability of silica membranes to adsorb plasmids using a certain concentration of purified plasmids.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/a/a5/T--Fudan--measurement3.jpg" alt="pic"><br>Figure 3. The minimal amount of plasmids DNA (diluted in an equal volume of bacterial culture media) could be purified using
-                                    silica membranes</p>
-                                <p>At this point, we have been able to purify the plasmids dispersed in the supernatant after centrifugation of the bacterial broth. In order to facilitate the use of our protocol by other teams, we present a well-described
-                                    protocol.</p>
-                                <p></p>
-                                <h1 id="protocol"><a class="anchor" href="#protocol">#</a> Protocol</h1>
-                                <p>Take 1 mL of the bacterial solution to be measured, add it to centrifuge tube ①, draw 2/3 (i.e. 666 μL) of the bacterial solution, add it to centrifuge tube ②, and centrifuge tube ① and centrifuge tube ② simultaneously
-                                    at 10,000 rpm (11,500 × g) for 1 min.</p>
-                                <ol>
-                                    <li>Determination of plasmid concentration in the autolyzed portion of the bacterial solution.</li>
-                                </ol>
-                                <p>​ 1-1. Carefully transfer the supernatant of centrifuge tube ① to another centrifuge tube ③ with a pipette, add an equal volume of phenol : chloroform : isoamyl alcohol = 25:24:1 mixture, mix by reversing up and down 2-3
-                                    times, centrifuge at 12,000 rpm (13,000 × g) for 2 min, carefully aspirate 500 mL of supernatant to another centrifuge tube ④ in another centrifuge tube with 125 mL of Buffer A .</p>
-                                <p>​ 1-2. Place the adsorption column in a 2 ml collection tube, add 600 μL of Buffer PB to the column, and centrifuge at 12,000 rpm (13,000 × g) for 1 min, pour off the waste solution from the collection tube and put the
-                                    column back into the collection tube.</p>
-                                <p>​ 1-3. Transfer the liquid from centrifuge tube ④ to the adsorption column and centrifuge at 12,000 rpm (13,000 × g) for 1 min. pour off the waste liquid from the collection tube and put the column back into the collection
-                                    tube.</p>
-                                <p>​ 1-4. Add 600 μl of Buffer PW2 (10 mM Tris-HCl, pH 7.5, 80% ethanol)(check that it has been diluted with anhydrous ethanol) to the column and centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. Discard the waste solution
-                                    and place the column back into the collection tube.</p>
-                                <p>​ 1-5. Repeat steps 1-4.</p>
-                                <p>​ 1-6. Place the column back into the collection tube. centrifuge at 12,000 rpm (13,000 × g) for 1 min to dry the column.</p>
-                                <p>​ 1-7. Place the column in a new sterilized 1.5 ml centrifuge tube. Add 30 μL of Elution Buffer (10 mM Tris, 1 mM EDTA, pH 8.0 ) to the center of the membrane of the column and let stand at 55°C for 2 min, then centrifuge
-                                    at 12,000 rpm (13,000 × g) for 1 min to elute the DNA.</p>
-                                <p>​ 1-8. Discard the adsorption column to obtain the autolyzed portion of the plasmid.</p>
-                                <ol start="2">
-                                    <li>Determination of plasmid concentration in the non-autolyzed portion of the bacterial solution.</li>
-                                </ol>
-                                <p>​ 2-1. Carefully aspirate the supernatant from centrifuge tube ①, add 250 μL Buffer P1 50 mM Tris-HCl pH 8.0, 10 mM EDTA, 100 μg/ml RNase A (From TIANGEN: RT405-12 100mg/ml) )(please check if Buffer P1 has been added to
-                                    RNase A first), and mix well with a pipette or vortex shaking.</p>
-                                <p>​ 2-2. Add 250μL Buffer P2 (200 mM NaOH, 1% SDS) to centrifuge tube ① and mix gently by inverting up and down 8-10 times to make the bacteria fully lysed.</p>
-                                <p>​ 2-3. Add 350 μL of Buffer P3 (4.2 M guanidine hydrochloride, 0.9 M potassium acetate pH 4.8 (adjust with acetate)) to centrifuge tube ① and immediately neutralize Buffer P2 by gently turning it up and down 8-10 times.
-                                    a white flocculent precipitate should appear. centrifuge at 12,000 rpm (13,000 × g) for 10 min.</p>
-                                <p>(Note: Buffer P3 should be inverted and mixed immediately after addition to prevent localized precipitation from affecting the neutralization effect. (If there is still a small white precipitate in the supernatant, take
-                                    the supernatant after centrifugation again.</p>
-                                <p>​ 2-4. Place the adsorption column in a 2 ml collection tube, add 600 μL Buffer PB [2] to the column, centrifuge at 12,000 rpm (13,000 × g) for 1 min, pour off the waste solution in the collection tube, and put the column
-                                    back into the collection tube.</p>
-                                <p>​ 2-5. Carefully transfer the supernatant from centrifuge tube ① to the adsorption column by pipetting, taking care not to aspirate the precipitate, and centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. Pour off the
-                                    waste solution from the collection tube and put the column back into the collection tube.</p>
-                                <p>​ 2-6. Add 600 μl of Buffer PW2 (check that it has been diluted with anhydrous ethanol) to the adsorption column. centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. discard the waste solution and return the column to
-                                    the collection tube.</p>
-                                <p>​ 2-7. Repeat steps 2-6.</p>
-                                <p>​ 2-8. Place the column back into the collection tube. centrifuge at 12,000 rpm (13,000 × g) for 1 min to dry the column.</p>
-                                <p>​ 2-9. Place the column in a new sterilized 1.5 ml centrifuge tube. Add 30 μL of Elution Buffer to the center of the membrane of the column and let it stand for 2 min at 55°C. Centrifuge at 12,000 rpm (13,000 × g) for 1
-                                    min to elute the DNA.</p>
-                                <p>​ 2-10. Discard the adsorption column to obtain the non-autolyzed portion of the plasmid.</p>
-                                <ol start="3">
-                                    <li>Calculation of autolysis rate</li>
-                                </ol>
-                                <p>​ The concentration of autolyzed fraction of plasmid was measured by Nanodrop or grayscale analysis of gels as C1 (μg/μL) and the concentration of non-autolyzed fraction of plasmid as C2 (μg/μL), and the autolysis rate
-                                    was calculated as</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/0/03/T--Fudan--mes4.png" alt="pic"></p>
-                                <h1 id="result"><a class="anchor" href="#result">#</a> Result</h1>
-                                <p>We tested our protocol in <em>DH5α</em> bacteria transformed with a low-copy plasmid (pET52b) and a high-copy plasmid (pmScarlet-C1), respectively (Figure 4) and we got good results for both low-copy and high-copy plasmids.
-                                    What's more, we found the logarithmic phase of bacteriophage growth has a positive correlation with the autolysis rate</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/7/77/T--Fudan--LCLCLC-measurement-4.png" alt="pic">Figure 4. Determination of OD600 and autolysis percentage of DH5α strains transformed with pET52b and pmScarlet-C1 plasmids
-                                    under normal culture conditions</p>
-                                <p>Since our experiment requires induced expression of the target protein in BL21 (DE3) bacteria by IPTG, however, the induction process is highly susceptible to cellular autolysis due to the dual stress of reduced native
-                                    expression and overexpression of the recombinant protein（Figure5）. We tried to find a balance between the two to determine the most suitable time to harvest the protein.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/d/d3/T--Fudan--LCLCLC-measurement-5.png" alt="pic">Figure 5. IPTG induction will lead to slower growth rate, lower stationary phase and higher autolysis rate</p>
-                                <p>It is clear from the results that the viability of the bacteriophage decreases after IPTG induction. We recommend harvesting the bacteria at about 12 hours of incubation, which will keep the product maximized and save resources</p>
-                                <h1
-                                    id="user-experience"><a class="anchor" href="#user-experience">#</a> User Experience</h1>
-                                    <p>We knew it was important that our protocol could be used by other people or other teams, so we invited the team in the lab next door to use our protocol and got relatively good results the same with ours.</p>
-                                    <p><img data-src="https://2021.igem.org/wiki/images/9/94/T--Fudan--20211022093503.jpg" alt="pic"><br>Figure 6. The memeber from the next lab was using our protocol and prasied it.</p>
+                                <p>NEFU was our partner whose program focuses on the point-of-care detection of SARS-Covid19. Both Teams focus on isothermal amplification and the simplicity of detection so we became partners during the whole competition
+                                    season and formed a strong connection from which we gained mutual benefits from each other.</p>
+                                <h1 id="how-did-we-meet"><a class="anchor" href="#how-did-we-meet">#</a> How did We Meet</h1>
+                                <p>Fudan got in contact with NEFU in April in the Wechat group of Chinese iGEMers.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/10/T--Fudan--Partnership1.png" alt="pic"><br><img data-src="https://2021.igem.org/wiki/images/3/3a/T--Fudan--Partnership2.png" alt="pic"></p>
+                                <h1 id="online-meetings-20214-20218"><a class="anchor" href="#online-meetings-20214-20218">#</a> Online Meetings (2021.4-2021.8)</h1>
+                                <p>We remained a monthly online meeting with NEFU due to the distance and the pandemic.</p>
+                                <p>In April, we shared a research study about isothermal amplification of both sides since both teams entailed isothermal amplification in the project.</p>
+                                <p>In August we held another online meeting to share the design of both teams and we discussed the problems we encountered in the experiment and offered each other advice and encouragement.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/ec/T--Fudan--Partnership3.png" alt="pic"><br>Figure 1. Discussing current isothermal amplification methods</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/c/c3/T--Fudan--Partnership4.png" alt="pic"><br>Figure 2. introducing project designs to each other</p>
+                                <h1 id="inspiring-each-other-20218-20219"><a class="anchor" href="#inspiring-each-other-20218-20219">#</a> Inspiring Each Other (2021.8 &amp; 2021.9)</h1>
+                                <p>In August, we found that the original choice of isothermal amplification method - tHDA could only get very weak positive results, and the signal was very weak. It was difficult to combine tHDA with our subsequent LFA design
+                                    to obtain obvious positive results. This issue was not addressed after communicating with the customer service staff about the kits we purchased. When we felt very puzzled and asked for help from many parties to solve
+                                    the problem, we had an online Tencent discussion with NEFU students, who suggested that we could consider more mature and widely used isothermal amplification methods such as LAMP. <strong>We took the advice and interviewed a professor in Fudan about LAMP. Finally, we changed our minds and replace tHDA with LAMP to carry out the detection.</strong></p>
+                                <p>Team NEFU-China aims to establish a detection system that is sensitive, specific, and convenient to detect various viruses. They use the M13 phage general to test the concept and designed three parts--RPA to get amplifies
+                                    the general, single-stranded DNA displacing to get ssDNA, RCA to get multiple G-quadruplex(G4) motifs which bind hemin that acts as an activated peroxidase to oxidize a substrate, 2,2’-azinobis-3-ethylbenzothiazoline-6-sulfonate (ABTS). Then
+                                    the color’s change in the oxidation process can be visualized very quickly, which provides instant detection of a virus.
+                                </p>
+                                <p>In early September, Team NEFU-China's Single-stranded DNA displacing experiment encountered some difficulties. They found that Phi29 protein not only has strand displacement activity but also has 3 '-to -5' ssDNA exonucleolytic
+                                    activity, which could adversely affect the results by potentially degrading the displaced ssDNA. They proposed this difficulty to us. <strong>After thinking about it, we proposed a new method for them that may solve their difficulties.</strong>                                    Klenow, a protein with strand displacement activity as same as Phi29 protein but no exonucleolytic activity, is an <i>E. coli</i> protein, which can be well expressed by <i>E. coli</i> solving the difficulty well.</p>
+                                <p>Our suggestion makes Team NEFU-China break through the bottleneck of the Single-stranded DNA displacing experiment and gets multiple displaced ssDNA making the detection response more sensitive and greatly enhancing the
+                                    detection effect, which is of great significance to their project.</p>
+                                <h1 id="wet-lab-partnership-20219-202110"><a class="anchor" href="#wet-lab-partnership-20219-202110">#</a> Wet Lab Partnership (2021.9-2021.10)</h1>
+                                <p>The wet lab was another area where NEFU and Fudan collaborated. The two teams proved the feasibility of the experiment. NEFU used our team’s Bst polymerase to carry out their RCA reaction and compared the efficiency with
+                                    Phi29--the enzyme they chose in design. Fudan tested the feasibility of the point-of-care detection system by shipping LFA testing strips and (LFA) to NEFU and receive positive results using the exact methods described
+                                    in the implementation page of Fudan(<span class="exturl" data-url="aHR0cHM6Ly8yMDIxLmlnZW0ub3JnL1RlYW06RnVkYW4vSW1wbGVtZW50YXRpb24=">https://2021.igem.org/Team:Fudan/Implementation</span>). Since Fudan and NEFU both
+                                    aimed to construct a point-of-care detection platform, it will be better to make sure the test can be carried out in various scenarios.</p>
+                                <h2 id="experiments-nefu-carried-out"><a class="anchor" href="#experiments-nefu-carried-out">#</a> Experiments NEFU Carried Out</h2>
+                                <p><b>NEFU helped to test the feasibility of our product in our lab.</b> We shipped testing paper strip and Bst DNA polymerase large fragment produced using our core circuits without purification to them and other reagents entailed
+                                    in testing the detection protocols. NEFU followed the protocols and got positive detection results and provided feedbacks as target users emulated using their product. Below are the results NEFU got.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/86/T--Fudan--Partnership5.png" alt="pic"><br>Figure 3. Agarose gel electrophoresis results of LAMP</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/bb/T--Fudan--Partnership6.png" alt="pic"><br>Figure 4. Testing strip results of LAMP</p>
+                                <h2 id="experiments-fudan-carried-out"><a class="anchor" href="#experiments-fudan-carried-out">#</a> Experiments Fudan Carried Out</h2>
+                                <p><strong>We followed the protocol provided by NEFU and got positive results.</strong> The experimental group showed green after the RCA reaction and G4 color reaction, which meant the G4 had been multiply produced. And negative
+                                    controls that without primer, Template, Phi29, and T4 ligase were all colorless.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/7/76/T--Fudan--Partnership7.png" alt="pic"><br>positive control experimental group -primer -Tamp -Phi29 -T4 ligase</p>
+                                <p>Figure 5. G4 color reaction results after RCA</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/a/a4/T--Fudan--Partnership8.png" alt="pic"><br>Figure 6. Absorbance histogram</p>
+                                <h1 id="human-practice-partnership-202110"><a class="anchor" href="#human-practice-partnership-202110">#</a> Human Practice Partnership (2021.10)</h1>
+                                <p>During the whole year, we helped each other in improving our human practices.</p>
+                                <p>Fudan made two online games to promote synthetic biology to adults and the elderly, and <strong>NEFU kindly provided us with their feedback on the trial, which made the game more interesting and smooth.</strong></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/48/T--Fudan--Partnership9.png" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b1/T--Fudan--Partnership11.png" alt="pic"> Figure 7. Screenshot of game page</p>
+                                <p>The NEFU_China 2021 team sincerely invites all civilian artists to participate in our drawing competition, contribute to the popularization of synthetic biology, and let more people know about this relatively new research
+                                    field. To let more people know about this event, <strong>Fudan also actively helped publicize the competition, expanded the influence of the competition.</strong></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/e/ef/T--Fudan--Partnership10.png" alt="pic"><br>Figure 8. Team member of Fudan promoting the competition we held on Wechat</p>
                             </div>
                             <!-- end here -->
                         </article>
@@ -210,15 +163,16 @@
                                 <div class="contents panel pjax" data-title="Contents">
                                     <!-- begin here -->
                                     <ol class="toc">
-                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#overview"><span class="toc-number">1.</span> <span class="toc-text">Overview</span></a></li>
-                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#optimization"><span class="toc-number">2.</span> <span class="toc-text">Experiments</span></a>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#how-did-we-meet"><span class="toc-number">1.</span> <span class="toc-text">How did We Meet</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#online-meetings-20214-20218"><span class="toc-number">2.</span> <span class="toc-text">Online Meetings</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#inspiring-each-other-20218-20219"><span class="toc-number">3.</span> <span class="toc-text">Inspiring Each Other</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#wet-lab-partnership-20219-202110"><span class="toc-number">4.</span> <span class="toc-text">Wet Lab Partnership</span></a>
                                             <ol class="toc-child">
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#opti"><span class="toc-number">2.1</span> <span class="toc-text">Optimization</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#protocol"><span class="toc-number">2.2</span> <span class="toc-text">Protocols</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#result"><span class="toc-number">2.3</span> <span class="toc-text">Results</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#user-experience"><span class="toc-number">2.4</span> <span class="toc-text">User Experience</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#experiments-nefu-carried-out"><span class="toc-number">4.1.</span> <span class="toc-text">Experiments NEFU Carried Out</span></a></li>
+                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#experiments-fudan-carried-out"><span class="toc-number">4.2.</span> <span class="toc-text">Experiments Fudan Carried Out</span></a></li>
                                             </ol>
                                         </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#human-practice-partnership-202110"><span class="toc-number">5.</span> <span class="toc-text">Human Practice Partnership</span></a></li>
                                     </ol>
                                     <!-- end here -->
                                 </div>
@@ -387,16 +341,16 @@ for resource-limited regions
             <div class="inner">
                 <div class="widgets">
                     <div class="rpost pjax" style="width:62%">
-                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
-                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
-                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
-                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href=""><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
 <br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
 <a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
                     </div>
                     <hr>
                     <div style="width:38%">
-                        <h2>Lead by: Guonan&nbsp;Cai</h2>
+                        <h2>Lead by: Xin&nbsp;Lan</h2>
                         <ul class="leancloud-recent-comment"></ul>
                     </div>
                 </div>

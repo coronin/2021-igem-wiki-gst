@@ -9,9 +9,9 @@
   <link rel="stylesheet" href="/2ic.css" />
   <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
   <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
-  <title>Measurement</title>
+  <title>Team</title>
 </head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Measurement skin-igem action-view pace-done loaded">
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Team skin-igem action-view pace-done loaded">
 <div id="globalWrapper"><div id="top_menu_14"></div>
 <!-- div.menu_container --> <div class="igem_content_wrapper">
 <div class="igem_column_wrapper">
@@ -24,13 +24,13 @@
 
 
 
-<html>         -->
+<html>
+
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
     <meta name="theme-color" content="#FFF">
     <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
     <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
     <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
-    <!-- not delete before 1021 -->
     <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
     <!-- not delete before 1021 again -->
     <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
@@ -43,7 +43,7 @@
             <div class="inner">
                 <div id="brand">
                     <div class="pjax">
-                        <h1 itemprop="name headline">Measurement</h1>
+                        <h1 itemprop="name headline">Team</h1>
                     </div>
                 </div>
                 <nav id="nav">
@@ -103,100 +103,65 @@
                             <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
                             <!-- begin here -->
                             <div class="body md" itemprop="articleBody">
-                                <div class="note info">
-                                    <p>Updated on 2021-11-18: You might found <a href="https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf" target="_blank">this file, which we prepared for the Judging Session,</a> helpful to understand our goals, approaches and what have been achieved.</p>
-                                </div>
-                               <div class="note info">
-                                    <p>Updated on 2021-11-10: we were nominated for the Best Measurement award.</p>
-                                </div>
-                                <h1 id="overview"><a class="anchor" href="#overview">#</a> Overview</h1>
-                                <p>​ We have developed a generalizable method for measuring bacterial autolysis. During recombinant protein production, overexpression of exogenously sometimes toxic proteins in <em>E. coli</em> imposes a metabolic burden
-                                    on the host cells, which further triggers the bacterial stress response, leading to severe cellular autolysis, reduced biomass growth, and decreased recombinant protein in production. Previously, no feasible method
-                                    to assess the autolysis rate of <em>E. coli</em> in culture. Here, we use the leaked plasmid as the indicator for lysed bacteria, and optimized protocols to the extra plasmid from bacterial culture media, comparing
-                                    with those that could be extracted from bacteria pellets (intact cells). Next, we examine the autolysis during IPTG induction for BL21 (DE3) bacteria, with or without gp5.7 expression. Further, we asked people in a
-                                    nearby lab to try our method and to give us their feedback for further improvement</p>
-                                <p></p>
-                                <h1 id="optimization"><a class="anchor" href="#optimization">#</a> Optimization</h1>
-                                <p>Initially, we tried to make a mixture of EDTA, NaAc, KAc, and acetic acid in a certain ratio and add a certain concentration of purified plasmids to it to simulate the environment of supernatant after bacteriophage lysis
-                                    during plasmid extraction. And then we used silica gel membranes to absorb plasmid. However, we could not get any plasmid because the system was too complicated. Considering that the silica gel membrane would selectively
-                                    adsorb nucleic acids at high salt (e.g. 4M guanidine hydrochloride) and low pH (e.g. pH 5.0), and would release nucleic acids at low salt and high pH (e.g. pH 8.0), we added Buffer A (20 M guanidine hydrochloride, 0.3
-                                    M MES-NaOH, pH 5.0) directly to convert the supernatant after centrifugation to high salt and low pH state, so that the plasmids in the supernatant could be adsorbed by the silica gel membrane.</p>
-                                <p>To further improve the adsorption efficiency, we tried to activate the silica membrane in advance using Buffer PB (5 M guanidine hydrochloride, 30% isopropanol) before using the silica membrane to adsorb the plasmid. In
-                                    addition, we simulated the supernatant conditions after centrifugation of the bacterial broth with the configured 2×YT medium spiked with Amp antibiotics and compared the results with TE simulations and ddH2O simulations,
-                                    and found that the supernatant purified by TE simulations and ddH2O simulations yielded approximately twice as many plasmids as 2×YT medium, and we speculate that the adsorption of proteins to plasmids contributed to
-                                    this result.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/6/62/T--Fudan--measurement1.jpg" alt="pic"><br>Figure 1. Purified plasmids (9 μg each) were diluted in different media, then purified using silica membranes and eluted in
-                                    30 μL Tris-EDTA buffer.</p>
-                                <p>We then used Phenol chloroform : isoamyl : alcohol (25:24:1) solution to remove the protein interference. In addition, to measure the efficiency of silica gel membrane and ethanol precipitation to obtain pure plasmids each,
-                                    we compared the two methods using silica gel membrane and ethanol precipitation and found that the ethanol precipitation method was unstable, so we finally chose to use phenol chloroform isoamyl alcohol precipitation
-                                    followed by silica gel membrane to purify the plasmids.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/2/2b/T--Fudan--mes2.png" alt="pic"><br>Figure 2. Phenol chloroform : isoamyl : alcohol (25:24:1) solution was used to remove proteins that may absorb plasmids</p>
-                                <p>​</p>
-                                <p>​ In order to measure the ability of silica membranes to adsorb low concentrations of plasmids, we tested the ability of silica membranes to adsorb plasmids using a certain concentration of purified plasmids.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/a/a5/T--Fudan--measurement3.jpg" alt="pic"><br>Figure 3. The minimal amount of plasmids DNA (diluted in an equal volume of bacterial culture media) could be purified using
-                                    silica membranes</p>
-                                <p>At this point, we have been able to purify the plasmids dispersed in the supernatant after centrifugation of the bacterial broth. In order to facilitate the use of our protocol by other teams, we present a well-described
-                                    protocol.</p>
-                                <p></p>
-                                <h1 id="protocol"><a class="anchor" href="#protocol">#</a> Protocol</h1>
-                                <p>Take 1 mL of the bacterial solution to be measured, add it to centrifuge tube ①, draw 2/3 (i.e. 666 μL) of the bacterial solution, add it to centrifuge tube ②, and centrifuge tube ① and centrifuge tube ② simultaneously
-                                    at 10,000 rpm (11,500 × g) for 1 min.</p>
-                                <ol>
-                                    <li>Determination of plasmid concentration in the autolyzed portion of the bacterial solution.</li>
-                                </ol>
-                                <p>​ 1-1. Carefully transfer the supernatant of centrifuge tube ① to another centrifuge tube ③ with a pipette, add an equal volume of phenol : chloroform : isoamyl alcohol = 25:24:1 mixture, mix by reversing up and down 2-3
-                                    times, centrifuge at 12,000 rpm (13,000 × g) for 2 min, carefully aspirate 500 mL of supernatant to another centrifuge tube ④ in another centrifuge tube with 125 mL of Buffer A .</p>
-                                <p>​ 1-2. Place the adsorption column in a 2 ml collection tube, add 600 μL of Buffer PB to the column, and centrifuge at 12,000 rpm (13,000 × g) for 1 min, pour off the waste solution from the collection tube and put the
-                                    column back into the collection tube.</p>
-                                <p>​ 1-3. Transfer the liquid from centrifuge tube ④ to the adsorption column and centrifuge at 12,000 rpm (13,000 × g) for 1 min. pour off the waste liquid from the collection tube and put the column back into the collection
-                                    tube.</p>
-                                <p>​ 1-4. Add 600 μl of Buffer PW2 (10 mM Tris-HCl, pH 7.5, 80% ethanol)(check that it has been diluted with anhydrous ethanol) to the column and centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. Discard the waste solution
-                                    and place the column back into the collection tube.</p>
-                                <p>​ 1-5. Repeat steps 1-4.</p>
-                                <p>​ 1-6. Place the column back into the collection tube. centrifuge at 12,000 rpm (13,000 × g) for 1 min to dry the column.</p>
-                                <p>​ 1-7. Place the column in a new sterilized 1.5 ml centrifuge tube. Add 30 μL of Elution Buffer (10 mM Tris, 1 mM EDTA, pH 8.0 ) to the center of the membrane of the column and let stand at 55°C for 2 min, then centrifuge
-                                    at 12,000 rpm (13,000 × g) for 1 min to elute the DNA.</p>
-                                <p>​ 1-8. Discard the adsorption column to obtain the autolyzed portion of the plasmid.</p>
-                                <ol start="2">
-                                    <li>Determination of plasmid concentration in the non-autolyzed portion of the bacterial solution.</li>
-                                </ol>
-                                <p>​ 2-1. Carefully aspirate the supernatant from centrifuge tube ①, add 250 μL Buffer P1 50 mM Tris-HCl pH 8.0, 10 mM EDTA, 100 μg/ml RNase A (From TIANGEN: RT405-12 100mg/ml) )(please check if Buffer P1 has been added to
-                                    RNase A first), and mix well with a pipette or vortex shaking.</p>
-                                <p>​ 2-2. Add 250μL Buffer P2 (200 mM NaOH, 1% SDS) to centrifuge tube ① and mix gently by inverting up and down 8-10 times to make the bacteria fully lysed.</p>
-                                <p>​ 2-3. Add 350 μL of Buffer P3 (4.2 M guanidine hydrochloride, 0.9 M potassium acetate pH 4.8 (adjust with acetate)) to centrifuge tube ① and immediately neutralize Buffer P2 by gently turning it up and down 8-10 times.
-                                    a white flocculent precipitate should appear. centrifuge at 12,000 rpm (13,000 × g) for 10 min.</p>
-                                <p>(Note: Buffer P3 should be inverted and mixed immediately after addition to prevent localized precipitation from affecting the neutralization effect. (If there is still a small white precipitate in the supernatant, take
-                                    the supernatant after centrifugation again.</p>
-                                <p>​ 2-4. Place the adsorption column in a 2 ml collection tube, add 600 μL Buffer PB [2] to the column, centrifuge at 12,000 rpm (13,000 × g) for 1 min, pour off the waste solution in the collection tube, and put the column
-                                    back into the collection tube.</p>
-                                <p>​ 2-5. Carefully transfer the supernatant from centrifuge tube ① to the adsorption column by pipetting, taking care not to aspirate the precipitate, and centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. Pour off the
-                                    waste solution from the collection tube and put the column back into the collection tube.</p>
-                                <p>​ 2-6. Add 600 μl of Buffer PW2 (check that it has been diluted with anhydrous ethanol) to the adsorption column. centrifuge at 12,000 rpm (13,000 × g) for 30 - 60 sec. discard the waste solution and return the column to
-                                    the collection tube.</p>
-                                <p>​ 2-7. Repeat steps 2-6.</p>
-                                <p>​ 2-8. Place the column back into the collection tube. centrifuge at 12,000 rpm (13,000 × g) for 1 min to dry the column.</p>
-                                <p>​ 2-9. Place the column in a new sterilized 1.5 ml centrifuge tube. Add 30 μL of Elution Buffer to the center of the membrane of the column and let it stand for 2 min at 55°C. Centrifuge at 12,000 rpm (13,000 × g) for 1
-                                    min to elute the DNA.</p>
-                                <p>​ 2-10. Discard the adsorption column to obtain the non-autolyzed portion of the plasmid.</p>
-                                <ol start="3">
-                                    <li>Calculation of autolysis rate</li>
-                                </ol>
-                                <p>​ The concentration of autolyzed fraction of plasmid was measured by Nanodrop or grayscale analysis of gels as C1 (μg/μL) and the concentration of non-autolyzed fraction of plasmid as C2 (μg/μL), and the autolysis rate
-                                    was calculated as</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/0/03/T--Fudan--mes4.png" alt="pic"></p>
-                                <h1 id="result"><a class="anchor" href="#result">#</a> Result</h1>
-                                <p>We tested our protocol in <em>DH5α</em> bacteria transformed with a low-copy plasmid (pET52b) and a high-copy plasmid (pmScarlet-C1), respectively (Figure 4) and we got good results for both low-copy and high-copy plasmids.
-                                    What's more, we found the logarithmic phase of bacteriophage growth has a positive correlation with the autolysis rate</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/7/77/T--Fudan--LCLCLC-measurement-4.png" alt="pic">Figure 4. Determination of OD600 and autolysis percentage of DH5α strains transformed with pET52b and pmScarlet-C1 plasmids
-                                    under normal culture conditions</p>
-                                <p>Since our experiment requires induced expression of the target protein in BL21 (DE3) bacteria by IPTG, however, the induction process is highly susceptible to cellular autolysis due to the dual stress of reduced native
-                                    expression and overexpression of the recombinant protein（Figure5）. We tried to find a balance between the two to determine the most suitable time to harvest the protein.</p>
-                                <p><img data-src="https://2021.igem.org/wiki/images/d/d3/T--Fudan--LCLCLC-measurement-5.png" alt="pic">Figure 5. IPTG induction will lead to slower growth rate, lower stationary phase and higher autolysis rate</p>
-                                <p>It is clear from the results that the viability of the bacteriophage decreases after IPTG induction. We recommend harvesting the bacteria at about 12 hours of incubation, which will keep the product maximized and save resources</p>
-                                <h1
-                                    id="user-experience"><a class="anchor" href="#user-experience">#</a> User Experience</h1>
-                                    <p>We knew it was important that our protocol could be used by other people or other teams, so we invited the team in the lab next door to use our protocol and got relatively good results the same with ours.</p>
-                                    <p><img data-src="https://2021.igem.org/wiki/images/9/94/T--Fudan--20211022093503.jpg" alt="pic"><br>Figure 6. The memeber from the next lab was using our protocol and prasied it.</p>
+                                <h1 id="xin-lan"><a class="anchor" href="#xin-lan">#</a> Xin Lan</h1>
+                                <p>I participate in iGEM hoping to learn knowledge and experimental skills as well as to meet new friends. As the team leader, I was mainly responsible for the experiment, design, inclusivity, and other work. It's great luck
+                                    to meet all my teammates!</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/a/a1/T--Fudan--mate12.jpg" alt="pic"></p>
+                                <h1 id="guonan-cai"><a class="anchor" href="#guonan-cai">#</a> Guonan Cai</h1>
+                                <p>Back in 2019 when I first entered university, my seniors recommended iGEM to me, saying that it was a very challenging competition. In 2021, as expected, I became a member of the Fudan team.</p>
+                                <p>In this team, I have made like-minded friends and together we are on our way to prepare for the competition. This experience will be one of the most important memories in my life.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/0/0f/T--Fudan--mate11.jpg" alt="pic"></p>
+                                <h1 id="runze-miao"><a class="anchor" href="#runze-miao">#</a> Runze Miao</h1>
+                                <p>My initial heart to participate in the iGEM is to learn the relevant biological experiment technology, know more friends, and expand my horizon. Thanks to this experience, I understood what is real cooperation. The team
+                                    leader and other members worked hard every day and these memories will never fade as time goes by.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/d/d4/T--Fudan--mate10.jpg" alt="pic"></p>
+                                <h1 id="fei-hu"><a class="anchor" href="#fei-hu">#</a> Fei Hu</h1>
+                                <p>The first time I saw the information of iGEM, I thought &quot;Wow, it really suits me.&quot; I was bored and lonely at that time, and I participated in iGEM for making friends, learn more about biology, and improve my painting
+                                    skills. After the two terms of working together, all the goals have been approved, and I do re</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/a/a2/T--Fudan--mate9.png" alt="pic"></p>
+                                <h1 id="peisong-yan"><a class="anchor" href="#peisong-yan">#</a> Peisong Yan</h1>
+                                <p>I joined iGEM hoping to solve real-life problems with biology. After this experience, I would say I have fulfilled my initial goal. Candida Camera has great potential and genuinely addresses an issue previously neglected.
+                                    During this process I had the chance of tackling a real problem with mathematical modeling, talking with strangers about our project, and most importantly, working alongside talented teammates.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/3/30/T--Fudan--mate7.png" alt="pic"></p>
+                                <h1 id="renbin-liu"><a class="anchor" href="#renbin-liu">#</a> Renbin Liu</h1>
+                                <p>\1. I have a great interest in natural sciences and engineering sciences, especially life sciences and computer science. I thought long ago that they should be combined (like synthetic biology) so we can utilize the creativity
+                                    in our brain to promote scientific and technological progress.</p>
+                                <p>\2. I hope to join a small team with like-minded partners and strive for a common goal. I enjoy the process of working hard for the team. I think it can mobilize my enthusiasm.</p>
+                                <p>\3. I expect to learn a lot of knowledge in life sciences, computer science, mathematics, and communication, as well as skills in experimental techniques, teamwork, design, display, human practices, and so on.</p>
+                                <p>\4. I feel very honored to represent Fudan in international competitions.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/0/0e/T--Fudan--mate6.png" alt="pic"></p>
+                                <h1 id="kana-ren"><a class="anchor" href="#kana-ren">#</a> Kana Ren</h1>
+                                <p>I participated in various activities of Human Practice. My role in the team was to a linkage between the scientific world in the lab and the real world of daily life.</p>
+                                <p>Through various Human Practice activities, I can say that I gradually began to discover, understand, and contemplate on my community, society, and the world I live in. It is the activities of promoting and popularizing
+                                    biology that gradually helped me realize that the energy barrier of learning biology varies for different groups of people. So I try to understand the world standing in their shoes. This makes me reflect occasionally
+                                    and consciously on whether I am inclusive enough in my life, whether infrastructure construction, laws, and regulations have taken these marginalized groups into consideration and respect their human rights, the same
+                                    as everyone else.</p>
+                                <p>In order to realize the free and all-around development of all people, including our team members and students in Fudan University, as well as people with intellectual disabilities and retired senior citizens. I think these
+                                    inclusivities are very important.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/9/94/T--Fudan--mate5.png" alt="pic"></p>
+                                <h1 id="shitao-gong"><a class="anchor" href="#shitao-gong">#</a> Shitao Gong</h1>
+                                <p>I'm interested in biology and computer programming, which always keep me energetic. It was in my freshmen year in university that I first heard iGEM, and I decided to participate without hesitation at that time. During
+                                    the whole year, I got involved in almost all aspects of iGEM, ranging from promoting our project to lab work and coding. The difference between all these works made it possible for me to try to switch my mindset and
+                                    be more creative.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/4/4b/T--Fudan--mate4.png" alt="pic"></p>
+                                <h1 id="wencheng-shao"><a class="anchor" href="#wencheng-shao">#</a> Wencheng Shao</h1>
+                                <p>To meet more friends, I joint the iGEM team. During parameter tuning and model construction, I learnt how to cooperate with other teammates. I felt a great sense of gratification when the figures came out and finally can
+                                    predict the results of experiments.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/9/9a/T--Fudan--mate3.png" alt="pic"></p>
+                                <h1 id="shaorong-lu"><a class="anchor" href="#shaorong-lu">#</a> Shaorong Lu</h1>
+                                <p>I participate in iGEM to satisfy my curiosity of syn-biology. as a director and programmer in this team, i learnt a lot and have a precious time with my teamates. during this process, i begin to learnt what a scientific
+                                    research is and how to give contributions to the whole society.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/8a/T--Fudan--mate2.png" alt="pic"></p>
+                                <h1 id="guanqiao-chi"><a class="anchor" href="#guanqiao-chi">#</a> Guanqiao Chi</h1>
+                                <p>Our curiosity and love for life sciences brought us together. The encounter with iGEM may be by chance, or maybe it was destiny. I am glad that I met iGEM on that sunny afternoon and was fortunate to be a member of Fdu_iGEM2021.
+                                    Impulsiveness many times brings remorse, but I was lucky to have chosen a path that brought me much joy, friendship, and knowledge in this impulse. I hope I can always keep my love, curiosity and hard work in my future
+                                    path as well.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--mate14.jpg" alt="pic"></p>
+                                <h1 id="chongwen-cao"><a class="anchor" href="#chongwen-cao">#</a> Chongwen Cao</h1>
+                                <p>I attended iGEM for my love for biology. As the major designer of the project, I have greatly improved myself and gained self-confidence in scientific research during the process. The experience obtained from attending
+                                    iGEM is invaluable. I'll keep working hard in the field of biology research, making iGEM experience a lifelong wealth.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/83/T--Fudan--mate13.jpg" alt="pic"></p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/8/83/T--Fudan--mate0.png" alt="pic"></p>
                             </div>
                             <!-- end here -->
                         </article>
@@ -210,15 +175,18 @@
                                 <div class="contents panel pjax" data-title="Contents">
                                     <!-- begin here -->
                                     <ol class="toc">
-                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#overview"><span class="toc-number">1.</span> <span class="toc-text">Overview</span></a></li>
-                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#optimization"><span class="toc-number">2.</span> <span class="toc-text">Experiments</span></a>
-                                            <ol class="toc-child">
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#opti"><span class="toc-number">2.1</span> <span class="toc-text">Optimization</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#protocol"><span class="toc-number">2.2</span> <span class="toc-text">Protocols</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#result"><span class="toc-number">2.3</span> <span class="toc-text">Results</span></a></li>
-                                                <li class="toc-item toc-level-2"><a class="toc-link" href="#user-experience"><span class="toc-number">2.4</span> <span class="toc-text">User Experience</span></a></li>
-                                            </ol>
-                                        </li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#xin-lan"><span class="toc-number">1.</span> <span class="toc-text">Xin Lan</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#guonan-cai"><span class="toc-number">2.</span> <span class="toc-text">Guonan Cai</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#runze-miao"><span class="toc-number">3.</span> <span class="toc-text">Runze Miao</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#fei-hu"><span class="toc-number">4.</span> <span class="toc-text">Fei Hu</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#peisong-yan"><span class="toc-number">5.</span> <span class="toc-text">Peisong Yan</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#renbin-liu"><span class="toc-number">6.</span> <span class="toc-text">Renbin Liu</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#kana-ren"><span class="toc-number">7.</span> <span class="toc-text">Kana Ren</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#shitao-gong"><span class="toc-number">8.</span> <span class="toc-text">Shitao Gong</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#wencheng-shao"><span class="toc-number">9.</span> <span class="toc-text">Wencheng Shao</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#shaorong-lu"><span class="toc-number">10.</span> <span class="toc-text">Shaorong Lu</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#guanqiao-chi"><span class="toc-number">11.</span> <span class="toc-text">Guanqiao Chi</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#chongwen-cao"><span class="toc-number">12.</span> <span class="toc-text">Chongwen Cao</span></a></li>
                                     </ol>
                                     <!-- end here -->
                                 </div>
@@ -396,7 +364,7 @@ for resource-limited regions
                     </div>
                     <hr>
                     <div style="width:38%">
-                        <h2>Lead by: Guonan&nbsp;Cai</h2>
+                        <h2>Written by: Shitao&nbsp;Gong</h2>
                         <ul class="leancloud-recent-comment"></ul>
                     </div>
                 </div>

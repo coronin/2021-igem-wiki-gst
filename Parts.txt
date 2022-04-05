@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="/0load_startup.js"></script>
+  <script src="/0load_jquery.js"></script>
+  <script src="/0load_jquery.accessKeyLabel.js"></script>
+  <link rel="stylesheet" href="/0load_mediawiki.legacy.commonPrint.css" />
+  <link rel="stylesheet" href="/2ic.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/tablesorter/themes/groupparts/style.css" />
+  <link rel="stylesheet" href="https://2021.igem.org/common/table_styles.css" />
+  <title>Parts</title>
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Team_Fudan_Parts skin-igem action-view pace-done loaded">
+<div id="globalWrapper"><div id="top_menu_14"></div>
+<!-- div.menu_container --> <div class="igem_content_wrapper">
+<div class="igem_column_wrapper">
+<!--
+    hexo hexo
+                      仅仅复制空白后开始及之后的内容，并注意去掉该行或附近末的 右向文本尖头 的三个字符
+                      ////////////
+
+
+
+
+
+<html>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2">
+    <meta name="theme-color" content="#FFF">
+    <link rel="alternate" type="application/rss+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/rss_xml?action=raw">
+    <link rel="alternate" type="application/atom+xml" title="Title" href="https://2021.igem.org/Template:Fudan/Others/atom_xml?action=raw">
+    <link rel="alternate" type="application/json" title="Title" href="https://2021.igem.org/Template:Fudan/Others/feed_json?action=raw">
+    <!-- not delete before 1021 -->
+    <link rel="stylesheet" type="text/css" href="https://2021.igem.org/Template:Fudan/CSS/main_css?action=raw&ctype=text/css">
+    <!-- not delete before 1021 again -->
+    <div id="loading" style="height: 100%;width: 100%;background-color: rgb(78, 87, 134);z-index: 998;position: fixed;display: block;">
+        <img id="star" src="https://2021.igem.org/wiki/images/a/a6/T--Fudan--Star.png" alt="" style="width: 200px;position: absolute;left: 0px;top: 0px;z-index: 1;">
+        <img id="candida" src="https://2021.igem.org/wiki/images/6/65/T--Fudan--Candida.png" alt="" style="width: 100px;position: absolute;z-index: 0;">
+    </div>
+    <div class="imageWrap" id="wrap" style="z-index: 999;"></div>
+    <div id="container">
+        <header id="header">
+            <div class="inner">
+                <div id="brand">
+                    <div class="pjax">
+                        <h1 itemprop="name headline">Parts</h1>
+                    </div>
+                </div>
+                <nav id="nav">
+                    <div class="inner">
+                        <div class="toggle">
+                            <div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div>
+                        </div>
+                        <ul class="menu">
+                        </ul>
+                        <ul class="right" style="width: 150px;">
+                            <li class="item theme"><i class="ic i-sun"></i></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div id="imgs" class="pjax">
+                <ul>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/b/b6/T--Fudan--ExamplePage--PageHeadBackground.jpg" alt="">
+                    </li>
+                    <li class="item">
+                        <img src="https://2021.igem.org/wiki/images/a/af/T--Fudan--Logo.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="waves">
+            <svg class="waves" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                <defs>
+                    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+                </defs>
+                <g class="parallax">
+                    <use xlink:href="#gentle-wave" x="48" y="0"/>
+                    <use xlink:href="#gentle-wave" x="48" y="3"/>
+                    <use xlink:href="#gentle-wave" x="48" y="5"/>
+                    <use xlink:href="#gentle-wave" x="48" y="7"/>
+                </g>
+            </svg>
+        </div>
+        <main>
+            <div class="inner">
+                <div id="main" class="pjax">
+                    <div class="page wrap">
+                        <article itemscope class="post block" lang="en">
+                            <!-- <link itemprop="mainEntityOfPage" href="http://yoursite.com/Help/grammar.html"> -->
+                            <!-- begin here -->
+                            <div class="body md" itemprop="articleBody">
+
+<p class="note info">Updated on 2021-11-18: We are keeping figures and text in the Registry as it was. You might found <a href="https://2021.igem.org/wiki/images/0/00/T--Fudan--figures4-prepared-for-zoom.pdf" target="_blank">this file, which we prepared for the Judging Session,</a> helpful to understand our parts.</p>
+<p class="note danger">Updated on 2021-11-10: we were nominated for the Best New Basic Part award.</p>
+
+                                <p>In our project, a total of 56 parts are designed. Among them, there are 20 basic parts and 36 composite parts. We have sequencing verified all parts and tested most the parts.</p>
+                                <h1 id="basic-parts"><a class="anchor" href="#basic-parts">#</a> Basic Parts, Lead by Chongwen Cao</h1>
+                                <p>Among the 20 basic parts designed this year by ourselves, BBa_K3790014 is our favorite one.</p>
+
+                                <h1 id="composite-parts"><a class="anchor" href="#composite-parts">#</a> Composite Parts, Lead by Guanqiao Chi</h1>
+                                <p>Most of our composite parts were designed to help obtain the critical product of our project - the Bst polymerase. Our favorite composite parts are BBa_K3790212 and BBa_K3790232.</p>
+
+                                <p>The former one was the original version of our Bst expression system, and the latter one was T7 gene product 5.7 driven by pBAD promoter. Both of them were proved to be reliable and effective.</p>
+                                <p><img data-src="https://2021.igem.org/wiki/images/1/15/T--Fudan--result3.jpg" alt="pic"><img data-src="https://2021.igem.org/wiki/images/d/d7/T--Fudan--result5.jpg" alt="pic"><br>Left: Gel electrophoresis of plasmids containing K3790212 digested with NcoI and KpnI, indicating that our composite part BBa_K3790212 had been successfully constructed; Right: Compare proteins in the pellet vs. supernatant, after BPCB lysis, indicating that our composite part BBa_K3790212 had been successfully expressed.</p>
+                                <h1 id="parts-collection"><a class="anchor" href="#parts-collection">#</a> Parts Collection, Lead by Renbin Liu</h1>
+                                <p>Our parts could be divided into three major groups:<br>(I) parts that were designed to regulate the bacteria expression, including the first full characterized σS promoter <span class="exturl" data-url="aHR0cDovL3BhcnRzLmlnZW0ub3JnL1BhcnQ6QkJhX0szNzkwMDE0">http://parts.igem.org/Part:BBa_K3790014</span>                                    for the iGEM community, as well as parts were used for validation. These parts provide a set of new tools for bacteria expression regulation.</p>
+                                <p>Group I: BBa_K3790014,</p>
+                                <p>BBa_K3790009 - BBa_K3790013, BBa_K3790086,</p>
+                                <p>BBa_K3790050, BBa_K3790085,</p>
+                                <p>BBa_K3790231, BBa_K3790235,</p>
+                                <p>BBa_K3790225 - BBa_K3790230, BBa_K3790236, BBa_K3790237, BBa_K3790242</p>
+                                <p>(II) a set of DNA binding domains that could be used to improve DNA polymerases, including our favorite Sso7d <span class="exturl" data-url="aHR0cDovL3BhcnRzLmlnZW0ub3JnL1BhcnQ6QkJhX0szNzkwMDAy">http://parts.igem.org/Part:BBa_K3790002</span>                                    for the iGEM community. These parts provide mutiple choices for improving the binding efficiency of a specific DNA polymerase.</p>
+                                <p>Group II: BBa_K3790002,</p>
+                                <p>BBa_K3790001, BBa_K3790003, BBa_K3790004, BBa_K3790005, BBa_K3790006</p>
+                                <p>(III) IPTG induced Bst polymerase for isothermal DNA amplification, as well as a complete set of fusions with parts in (II). We showed that even without improvement, native Bst produced in bacterial lysate is sufficient to
+                                    support LAMP, documented in <span class="exturl" data-url="aHR0cDovL3BhcnRzLmlnZW0ub3JnL1BhcnQ6QkJhX0szNzkwMjEyLg==">http://parts.igem.org/Part:BBa_K3790212.</span> This provide a new perspective in isothermal DNA amplification
+                                    that purified enzymes can also be replaced by bacterial lysate containing the enzymes.</p>
+                                <p>Group III: BBa_K3790212,</p>
+                                <p>BBa_K3790213 - BBa_K3790224,</p>
+                                <p>BBa_K3790150 - BBa_K3790162</p>
+                                <p>Below lists all the parts we built for our project. Please check each part's Main Page on the Registry <span class="exturl" data-url="aHR0cDovL3BhcnRzLmlnZW0ub3JnL01haW5fUGFnZQ==">http://parts.igem.org/Main_Page</span></p>
+
+<!--  /html
+    groupparts>iGEM21 Fudan</groupparts
+                                             width:700px; -->
+<div id="groupparts" style="min-height:100px;">
+<style>
+  .status_cell { width:8px; }
+  .status_star { width:2em; }
+.c4 { width: 80px; white-space:normal; }
+.c6 { width: 150px; white-space:normal; }
+.c7 { width: 50px; white-space:normal; }
+  </style>
+<table class=" pgrouptable tablesorter" style="width: 100%;" cellpadding="0" cellspacing="0">
+<thead>
+<tr><th style="width:8px"></th><th style="width:8px"></th><th style="width:8px"></th><th style="width: 87px;">Name</th><th style="width: 80px" colspan="">Type</th><th style="width: auto;" colspan="">Description</th><th style="width: 150px" colspan="">Designer</th><th style="width: 50px" colspan="">Length</th>
+</tr></thead><tbody>
+<tr>
+<td class="status_cell heart13">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790212">BBa_K3790212</a></td><td>Composite</td><td>T7lac::RBS::Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">1938</td>
+</tr>
+<tr>
+<td class="status_cell heart13">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790232">BBa_K3790232</a></td><td>Composite</td><td>T7 gene product 5.7 driven by pBAD/araC</td><td width="100px">Chongwen Cao</td><td align="right">1558</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790000">BBa_K3790000</a></td><td>Coding</td><td>Bst polymerase I (large fragment) for E. coli</td><td width="100px">Renbin Liu</td><td align="right">1767</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790001">BBa_K3790001</a></td><td>Coding</td><td>DbpA</td><td width="100px">Guanqiao Chi</td><td align="right">219</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790002">BBa_K3790002</a></td><td>Coding</td><td>Sso7d</td><td width="100px">Guanqiao Chi</td><td align="right">174</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790003">BBa_K3790003</a></td><td>Coding</td><td>Sso10b</td><td width="100px">Guanqiao Chi</td><td align="right">291</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790004">BBa_K3790004</a></td><td>Coding</td><td>albA1</td><td width="100px">Guanqiao Chi</td><td align="right">288</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790005">BBa_K3790005</a></td><td>Coding</td><td>S.ssb</td><td width="100px">Guanqiao Chi</td><td align="right">441</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790006">BBa_K3790006</a></td><td>Coding</td><td>E.ssb</td><td width="100px">Guanqiao Chi</td><td align="right">531</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790007">BBa_K3790007</a></td><td>Protein_Domain</td><td>(G2S)3</td><td width="100px">Guanqiao Chi</td><td align="right">27</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790009">BBa_K3790009</a></td><td>Regulatory</td><td>The simplest form of csiD promoter, a weak σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">38</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790010">BBa_K3790010</a></td><td>Regulatory</td><td>The simplest form of a mutated csiD promoter, a medium σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">38</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790011">BBa_K3790011</a></td><td>Regulatory</td><td>The simplest form of fic promoter, a weak σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">37</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790012">BBa_K3790012</a></td><td>Regulatory</td><td>The simplest form of a mutated fic promoter, a medium σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">37</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790013">BBa_K3790013</a></td><td>Regulatory</td><td>The simplest form of osmY promoter, a strong σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">39</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790014">BBa_K3790014</a></td><td>Regulatory</td><td>The simplest form of dps promoter, a strong σS promoter</td><td width="100px">Chongwen Cao</td><td align="right">39</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_red">U</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790050">BBa_K3790050</a></td><td>Coding</td><td>T7 phage gene product 5.7, an E.coli transcription inhibitor (RFC compatible)</td><td width="100px">Chongwen Cao</td><td align="right">210</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790084">BBa_K3790084</a></td><td>RBS</td><td>RBS for Gram-positive species (Schofield, 2003)</td><td width="100px">Chongwen Cao</td><td align="right">17</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790085">BBa_K3790085</a></td><td>Coding</td><td>T7 phage gene product 2, an E.coli transcription inhibitor</td><td width="100px">Chongwen Cao</td><td align="right">195</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790086">BBa_K3790086</a></td><td>Regulatory</td><td>pBAD+dps promoter fusion</td><td width="100px">Chongwen Cao</td><td align="right">1210</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790150">BBa_K3790150</a></td><td>Composite</td><td>Bst-(G2S)3-DbpA</td><td width="100px">Guanqiao Chi</td><td align="right">2013</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790151">BBa_K3790151</a></td><td>Composite</td><td>Bst-(G2S)3-S.ssb</td><td width="100px">Guanqiao Chi</td><td align="right">2235</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790152">BBa_K3790152</a></td><td>Composite</td><td>Bst-(G2S)3-E.ssb</td><td width="100px">Guanqiao Chi</td><td align="right">2325</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790153">BBa_K3790153</a></td><td>Composite</td><td>Bst-(G2S)3-albA1</td><td width="100px">Guanqiao Chi</td><td align="right">2082</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790154">BBa_K3790154</a></td><td>Composite</td><td>Bst-(G2S)3-Sso7d</td><td width="100px">Guanqiao Chi</td><td align="right">1968</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790155">BBa_K3790155</a></td><td>Composite</td><td>Bst-(G2S)3-Sso10b</td><td width="100px">Guanqiao Chi</td><td align="right">2085</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790156">BBa_K3790156</a></td><td>Composite</td><td>DbpA-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">2013</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790157">BBa_K3790157</a></td><td>Composite</td><td>S.ssb-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">2235</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790159">BBa_K3790159</a></td><td>Composite</td><td>albA1-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">2082</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790160">BBa_K3790160</a></td><td>Composite</td><td>Sso10b-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">2085</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790161">BBa_K3790161</a></td><td>Composite</td><td>Sso7d-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">1982</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790162">BBa_K3790162</a></td><td>Composite</td><td>E.ssb-(G2S)3-Bst</td><td width="100px">Guanqiao Chi</td><td align="right">2325</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790213">BBa_K3790213</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-DbpA::K395601</td><td width="100px">Renbin Liu</td><td align="right">2277</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790214">BBa_K3790214</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-S.ssb::K395601</td><td width="100px">Renbin Liu</td><td align="right">2499</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790215">BBa_K3790215</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-E.ssb::K395601</td><td width="100px">Renbin Liu</td><td align="right">2589</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790216">BBa_K3790216</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-albA1::K395601</td><td width="100px">Renbin Liu</td><td align="right">2346</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790217">BBa_K3790217</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-Sso7d::K395601</td><td width="100px">Renbin Liu</td><td align="right">2232</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790218">BBa_K3790218</a></td><td>Composite</td><td>T7lac::RBS::Bst-(G2S)3-Sso10b::K395601</td><td width="100px">Renbin Liu</td><td align="right">2349</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790219">BBa_K3790219</a></td><td>Composite</td><td>T7lac::RBS::DbpA-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2277</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790220">BBa_K3790220</a></td><td>Composite</td><td>T7lac::RBS::S.ssb-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2499</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790221">BBa_K3790221</a></td><td>Composite</td><td>T7lac::RBS::E.ssb-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2589</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790222">BBa_K3790222</a></td><td>Composite</td><td>T7lac::RBS::albA1-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2346</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790223">BBa_K3790223</a></td><td>Composite</td><td>T7lac::RBS::Sso10b-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2349</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790224">BBa_K3790224</a></td><td>Composite</td><td>T7lac::RBS::Sso7d-(G2S)3-Bst::K395601</td><td width="100px">Renbin Liu</td><td align="right">2246</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790225">BBa_K3790225</a></td><td>Composite</td><td>GFP controlled by σS promoter csiD</td><td width="100px">Chongwen Cao</td><td align="right">923</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790226">BBa_K3790226</a></td><td>Composite</td><td>GFP controlled by σS promoter csiD_improved</td><td width="100px">Chongwen Cao</td><td align="right">923</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790227">BBa_K3790227</a></td><td>Composite</td><td>GFP controlled by σS promoter fic</td><td width="100px">Chongwen Cao</td><td align="right">922</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790228">BBa_K3790228</a></td><td>Composite</td><td>GFP controlled by σS promoter fic_improved</td><td width="100px">Chongwen Cao</td><td align="right">922</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790229">BBa_K3790229</a></td><td>Composite</td><td>GFP controlled by σS promoter osmY</td><td width="100px">Chongwen Cao</td><td align="right">924</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790230">BBa_K3790230</a></td><td>Composite</td><td>GFP controlled by σS promoter dps</td><td width="100px">Chongwen Cao</td><td align="right">924</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_green">W</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790231">BBa_K3790231</a></td><td>Composite</td><td>T7 gene product 2 controlled by pBAD/araC</td><td width="100px">Chongwen Cao</td><td align="right">1543</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790235">BBa_K3790235</a></td><td>Composite</td><td>T7 gene product 5.7 controlled by pBAD+dps promoter fusion</td><td width="100px">Chongwen Cao</td><td align="right">1554</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790236">BBa_K3790236</a></td><td>Composite</td><td>GFP controlled by pBAD+dps promoter fusion</td><td width="100px">Chongwen Cao</td><td align="right">2064</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790237">BBa_K3790237</a></td><td>Composite</td><td>GFP controlled by pBAD/araC</td><td width="100px">Chongwen Cao</td><td align="right">2064</td>
+</tr>
+<tr>
+<td class="status_cell  "></td><td class="status_cell cell_white">&nbsp;</td><td class="status_cell cell_white">&nbsp;&nbsp;</td><td><a class="noul_link part_link" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K3790242">BBa_K3790242</a></td><td>Composite</td><td>T7lac::RBS::mScarlet::K395601</td><td width="100px">Renbin Liu</td><td align="right">897</td>
+</tr>
+</tbody>
+</table></div>
+<!--
+    groupparts>iGEM21 Fudan</groupparts
+open html tag again -->
+
+                            </div>
+                            <!-- end here -->
+                        </article>
+                    </div>
+                    <div class="wrap" id="comments"></div>
+                </div>
+                <div id="sidebar">
+                    <div class="inner">
+                        <div class="panels">
+                            <div class="inner">
+                                <div class="contents panel pjax" data-title="Contents">
+                                    <!-- begin here -->
+                                    <ol class="toc">
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#basic-parts"><span class="toc-number">1.</span> <span class="toc-text">Basic Parts</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#composite-parts"><span class="toc-number">2.</span> <span class="toc-text">Composite Parts</span></a></li>
+                                        <li class="toc-item toc-level-1"><a class="toc-link" href="#parts-collection"><span class="toc-number">3.</span> <span class="toc-text">Parts Collection</span></a></li>
+                                    </ol>
+                                    <!-- end here -->
+                                </div>
+                                <div class="related panel pjax" data-title="For eldly">
+
+                                    <!-- <div class="box small" id="font" style="height: 100px;width: 100%;cursor: pointer;" >Large Font</div> --><p style="font-size:200%"><font style="background:yellow;font-weight:bold">On Mac</font>, please press <font style="background:yellow;font-weight:bold">COMMAND + PLUS</font> keys on your keyboard to enlarge the display.<br/><br/><font style="background:yellow;font-weight:bold">On PC</font>, please press <font style="background:yellow;font-weight:bold">CTRL + PLUS</font> keys to enlarge the display.</p>
+
+                                </div>
+                                <div class="overview panel" data-title="Pages">
+                                    <div class="author" itemprop="author" itemscope>
+                                        <p class="name" itemprop="name">CandiCamera</p>
+                                        <div class="description" itemprop="description">
+for resource-limited regions
+                                        </div>
+                                    </div>
+                                    <!-- <ul class="menu">
+                                        <li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li>
+                                        <li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a>
+                                            <ul class="submenu">
+                                                <li class="item"><a href="" rel="section"><i class="ic i-list-alt"></i>Archives</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-th"></i>Categories</a></li>
+                                                <li class="item"><a href="" rel="section"><i class="ic i-tags"></i>Tags</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="item"><a href="" rel="section"><i class="ic i-heart"></i>Friends</a></li>
+                                    </ul> -->
+                                    <ul class="menu">
+                                        <li class="item">
+                                            <a href="/Team:Fudan" rel="start noopener">
+                                                <i class="ic i-home"></i></a>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-team"></i>Team</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Attributions" rel="section">
+                                                        <i class="ic i-participate"></i>Attributions</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Collaborations" rel="section">
+                                                        <i class="ic i-cooperate"></i>Collaborations</a>
+                                                </li>
+<li class="item"><a href="/Team:Fudan/Heritage" rel="section">
+<i class="ic i-parent"></i>Heritage</a></li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Team" rel="section">
+                                                        <i class="ic i-mate"></i>Team</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-bacteria"></i>Project</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Communication" rel="section">
+                                                        <i class="ic i-communicate"></i>Communication</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Contribution" rel="section">
+                                                        <i class="ic i-signup"></i>Contribution</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Description" rel="section">
+                                                        <i class="ic i-list"></i>Description</a>
+                                                </li>
+                                                <!-- li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-gear3"></i>Game Hub</a>
+                                                </li -->
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Implementation" rel="section">
+                                                        <i class="ic i-checked"></i>Implementation</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Model" rel="section">
+                                                        <i class="ic i-model"></i>Model</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Partnership" rel="section">
+                                                        <i class="ic i-cooperate"></i>Partnership</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Proof_Of_Concept" rel="section">
+                                                        <i class="ic i-checked"></i>Proof Of Concept</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Software" rel="section">
+                                                        <i class="ic i-code"></i>Software</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-dna"></i>Lab</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Engineering" rel="section">
+                                                        <i class="ic i-trend"></i>Engineering</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Experiments" rel="section">
+                                                        <i class="ic i-microscope"></i>Experiments</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Measurement" rel="section">
+                                                        <i class="ic i-measure"></i>Measurement</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Notebook" rel="section">
+                                                        <i class="ic i-notebook"></i>Notebook</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Parts" rel="section">
+                                                        <i class="ic i-gear"></i>Parts</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Results" rel="section">
+                                                        <i class="ic i-result"></i>Results</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="item dropdown">
+                                            <a href="javascript:void(0);">
+                                                <i class="ic i-help"></i>Human Practices</a>
+                                            <ul class="submenu">
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Education" rel="section">
+                                                        <i class="ic i-education"></i>Education</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Human_Practices" rel="section">
+                                                        <i class="ic i-parent"></i>iHP</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Inclusivity" rel="section">
+                                                        <i class="ic i-earth"></i>Inclusivity</a>
+                                                </li>
+                                                <li class="item">
+                                                    <a href="/Team:Fudan/Sustainable" rel="section">
+                                                        <i class="ic i-green"></i>Sustainable</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <ul id="quick">
+                            <li class="prev pjax ic i-left"></li>
+                            <li class="up"><i class="ic i-up"></i></li>
+                            <li class="down"><i class="ic i-down"></i></li>
+                            <li class="next pjax ic i-right"></li>
+                            <li class="percent"></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="dimmer"></div>
+            </div>
+        </main>
+        <footer id="footer">
+            <div class="inner">
+                <div class="widgets">
+                    <div class="rpost pjax" style="width:62%">
+                        <a href="https://www.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/c/c2/T--Fudan--Fudan.png" alt="" class="Sponsor"></a>
+                        <a href="https://life.fudan.edu.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/1/1c/T--Fudan--SchoolofLifeScience.png" alt="" class="Sponsor"></a>
+                        <a href="http://www.yfc.cn/" target="_blank"><img src="https://2021.igem.org/wiki/images/8/83/T--Fudan--YFCapital.png" alt="" class="Sponsor"></a>
+                        <a href="https://www.snapgene.com/" target="_blank"><img src="https://2021.igem.org/wiki/images/5/54/T--Fudan--SnapGene.png" alt="" class="Sponsor"></a><br/>
+<br/>&copy; 2021 <a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">project promotion video</a>&nbsp;&middot;
+<a href="https://video.igem.org/w/nwyavmzSGommZxUz9k2nyn" target="_blank">20-min presentation</a>
+                    </div>
+                    <hr>
+                    <div style="width:38%">
+                        <h2>Done by the Team</h2>
+                        <ul class="leancloud-recent-comment"></ul>
+                    </div>
+                </div>
+                <!-- <div id="AllLink" style="height: 20rem;">
+                    <div class="Column">
+                        <a href="">Team</a><br>
+                        <a href="">Attributions</a><br>
+                        <a href="">Collaborations</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Communication</a><br>
+                        <a href="">Contribution</a><br>
+                        <a href="">Description</a><br>
+                        <a href="">Engineering</a><br>
+                        <a href="">Experiments</a><br>
+                        <a href="">Implementation</a><br>
+                        <a href="">Notebook</a><br>
+                        <a href="">Partnership</a><br>
+                        <a href="">Proof Of Concept</a><br>
+                        <a href="">Results</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Part Collection</a><br>
+                        <a href="">Parts</a><br>
+                        <a href="">Improve</a><br>
+                    </div>
+                    <div class="Column">
+                        <a href="">Safety</a><br>
+                        <a href="">Human Practice</a><br>
+                    </div>
+                </div> -->
+                <!-- Hexo theme Shoka-->
+            </div>
+        </footer>
+    </div>
+    <script data-config>
+        var LOCAL = {
+            path: "Help/grammar.html",
+            favicon: {
+                show: "",
+                hide: ""
+            },
+            search: {
+                placeholder: "Search for Posts",
+                empty: "We didn't find any results for the search: ${query}",
+                stats: "${hits} results found in ${time} ms"
+            },
+            valine: !0,
+            fancybox: !0,
+            copyright: '',
+            ignores: [function(e) {
+                return e.includes("#")
+            }, function(e) {
+                return new RegExp(LOCAL.path + "$").test(e)
+            }]
+        }
+    </script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/umd_js?action=raw&ctype=text/javascript"></script>
+    <script src="https://2021.igem.org/Template:Fudan/Javascript/main_js?action=raw&ctype=text/javascript"></script>
+<p><!-- this is for the closing p before NewPP limit -->
